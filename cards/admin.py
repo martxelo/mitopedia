@@ -3,8 +3,8 @@ from django.utils.html import mark_safe
 
 
 
-@admin.register(Card)
-class CardAdmin(admin.ModelAdmin):
+# @admin.register(Card)
+# class CardAdmin(admin.ModelAdmin):
     # fieldsets = (
     #     ('Main', {'fields': ('name', 'tags',)}),
     #     ('Vector', {'fields': ('svg', 'svg_image')}),

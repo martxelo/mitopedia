@@ -36,15 +36,15 @@ class Ability(models.Model):
 
 
 class Card(models.Model):
-    abilities = models.ManyToManyField(Ability, blank=True, null=True)
+    abilities = models.ManyToManyField(Ability)
     card_type = models.CharField(max_length=20, choices=CARD_TYPES)
     cost = models.IntegerField(blank=True, null=True)
     eras = models.ManyToManyField(Era)
     init_pow = models.IntegerField(blank=True, null=True)
     max_pow = models.IntegerField(blank=True, null=True)
-    mythology = models.ForeignKey(Mythology, blank=True, null=True)
+    mythology = models.ForeignKey(Mythology, blank=True, null=True, on_delete=models.SET_NULL)
     name = models.CharField(max_length=200)
     passive_effect = models.CharField(max_length=200, blank=True, null=True)
     quote = models.CharField(max_length=200)
     strength = models.IntegerField(blank=True, null=True)
-    tags = models.ManyToManyField(Tags)
+    tags = models.ManyToManyField(Tag)
