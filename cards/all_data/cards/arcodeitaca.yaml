@@ -1,0 +1,15 @@
+name: Arco de Ítaca
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Enfrentamiento: Cansa un personaje enemigo
+passive_effect: Cuesta 1P menos para personajes con la clave Héroe
+quote: Una saeta tras otra silbaban por el aire, cada una acertaba en su blanco, los pretendientes de la Dama Penélope

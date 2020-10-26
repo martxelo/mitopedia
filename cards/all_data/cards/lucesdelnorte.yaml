@@ -1,0 +1,14 @@
+name: Luces del Norte
+card_type: Evento
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Festival
+abilities:
+passive_effect: Después de revelar tus oráculos gana 2P en tu personaje en un oráculo
+quote: El resplandor de la armadura de las valkirias

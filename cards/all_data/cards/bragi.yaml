@@ -1,0 +1,17 @@
+name: Bragi
+card_type: Personaje
+cost: 5
+eras:
+  - I
+  - IV
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Nórdica
+tags:
+  - Dios
+  - Sabio
+abilities:
+  - Influencia: Cambia el nombre de una carta en tu panteón por otra en juego
+passive_effect:
+quote: Ameniza el Valhalla recitando versos

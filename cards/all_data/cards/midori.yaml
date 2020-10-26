@@ -1,0 +1,15 @@
+name: Midori
+card_type: Personaje
+cost: 0
+eras:
+  - I
+strength: 0
+max_pow: 2
+init_pow:
+mythology: Japonesa
+tags:
+  - Invocadora
+  - Ashigaru
+abilities:
+passive_effect:
+quote: Yo puedo ayudarte, pequeña. Y tú puedes ayudarme a mí. La Era del Hombre ha terminado y es la hora del nuevo orden

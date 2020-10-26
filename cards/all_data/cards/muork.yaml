@@ -1,0 +1,16 @@
+name: Muork
+card_type: Personaje
+cost: 1
+eras:
+  - II
+strength: 0
+max_pow: 2
+init_pow:
+mythology: Neutral
+tags:
+  - Senador
+  - Único
+abilities:
+  - Influencia: Copia la habilidad de un recurso de coste 2 o menos
+passive_effect:
+quote: Había hecho campaña en pro de la verdad, mezclando la demagogia barata con verdaderas ideas de cambio, unas cuantas banderitas y algúnoes eslóganes pegadizos

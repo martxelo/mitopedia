@@ -1,0 +1,14 @@
+name: Divinización
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Da la clave Dios y +1F a tu mortal
+passive_effect:
+quote: El sueño de todo mortal

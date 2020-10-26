@@ -1,0 +1,13 @@
+name: Contador Voodoo
+card_type: Equipo
+cost: 0
+eras:
+  - II
+strength: -1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Carta creada, no puede ser incluida en mazos. Destruye esta carta si ganas un enfrentamiento
+quote: Un paso más de control, un paso más hacia el poder

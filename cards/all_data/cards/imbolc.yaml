@@ -1,0 +1,14 @@
+name: Imbolc
+card_type: Evento
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Festival
+abilities:
+passive_effect: Roba una carta
+quote: Bendícenos Briggit, que la Rueda siga girando

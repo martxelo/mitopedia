@@ -1,0 +1,16 @@
+name: O'Tengu
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Japonesa
+tags:
+  - Demonio
+  - Único
+abilities:
+  - Enfrentamiento: Gana 1P por cada personaje en tu ejército. (Máximo 5).
+passive_effect:
+quote: El gran Tengu, dirige un grupo de Karasu Tengu
