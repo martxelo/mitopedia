@@ -1,0 +1,13 @@
+name: Invasión primigenia
+card_type: Evento
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Este turno no se pueden usar las habilidades de los personajes mortales
+quote: Antiguamente se arrojaban estas muñecas al río para que se llevaran la mala fortuna pues se creía que eran portadoras de malos espíritus

@@ -1,0 +1,16 @@
+name: Agwa
+card_type: Personaje
+cost: 5
+eras:
+  - II
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Voodoo
+tags:
+  - Dios
+  - Agua
+abilities:
+  - Influencia: Elimina un contador voodoo de un personaje; muévelo al campo de batalla
+passive_effect:
+quote: Serpentino Dios del Mar, su ofrenda principal es el ron

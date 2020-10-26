@@ -1,0 +1,17 @@
+name: Aosaginoghi
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Espíritu
+  - Fuego
+  - Único
+abilities:
+  - Influencia: Elimina 1P de tu invocador; crea un personaje 2F y 2P. Destrúyelo al final del turno
+passive_effect:
+quote: Pueden ser vistos de noche como una bola de fuego

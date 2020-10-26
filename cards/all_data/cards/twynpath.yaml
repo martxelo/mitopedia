@@ -1,0 +1,14 @@
+name: Twynpath
+card_type: Recurso
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa Twynpath; cambia las habilidades de un recurso de influencia a enfrentamiento
+passive_effect:
+quote: La mayoría estaban vacíos, solo extrañas inscripciones en las pareces

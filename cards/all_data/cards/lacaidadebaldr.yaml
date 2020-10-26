@@ -1,0 +1,15 @@
+name: La caída de Baldr
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Batalla
+abilities:
+  - Influencia: Cambia la resolución del enfrentamiento de este turno por "Destruye un personaje enemigo con poder máximo igual o menor al diferencial de batalla"
+passive_effect:
+quote: Hoor fue engañado por Loki

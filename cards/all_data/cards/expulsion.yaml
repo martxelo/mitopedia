@@ -1,0 +1,14 @@
+name: Expulsión
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Mueve un personaje enemigo a su panteón
+passive_effect:
+quote: Cuando el enemigo es superior, retirarse o morir

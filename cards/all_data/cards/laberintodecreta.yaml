@@ -1,0 +1,14 @@
+name: Laberinto de Creta
+card_type: Recurso
+cost: 2
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Cansa Laberinto de Creta; elimina 1P de un personaje enemigo
+passive_effect:
+quote: La obra maestra de Dédalo. La jaula innumerable del Minotauro

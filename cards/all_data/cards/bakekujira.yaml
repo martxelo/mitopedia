@@ -1,0 +1,16 @@
+name: Bake-Kujira
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Espíritu
+  - Único
+abilities:
+  - Enfrentamiento: Elimina 1P de tu invocador; cansa un personaje enemigo
+passive_effect:
+quote: La encarnación del odio hacia sus cazadores

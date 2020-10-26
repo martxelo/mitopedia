@@ -1,0 +1,16 @@
+name: Erzulie Freda
+card_type: Personaje
+cost: 7
+eras:
+  - II
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Voodoo
+tags:
+  - Diosa
+  - Invocadora
+abilities:
+  - Enfrentamiento: Pon dos contadores voodoo en un personaje enemigo
+passive_effect:
+quote: Fogosa en discusiones y pasiones por igual, Diosa del matrimonio y el divorcio

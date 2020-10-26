@@ -1,0 +1,17 @@
+name: Grim'A'Gor
+card_type: Personaje
+cost: 5
+eras:
+  - I
+strength: 2
+max_pow: 7
+init_pow:
+mythology: Neutral
+tags:
+  - Rátido
+  - Samurai
+  - Criatura
+abilities:
+  - Influencia: Da +1F a todos tus personajes con cla clave "Criatura"
+passive_effect:
+quote: Quisieron acabar con nosotros... Tráeme su cabeza!!

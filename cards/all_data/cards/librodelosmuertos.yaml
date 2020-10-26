@@ -1,0 +1,16 @@
+name: Libro de los muertos
+card_type: Equipo
+cost: 3
+eras:
+  - I
+strength: 1
+max_pow: 2
+init_pow:
+mythology:
+tags:
+  - Único
+  - Egipcio
+abilities:
+  - Enfrentamiento: Elimina 1P de tu invocador; cansa un personaje enemigo
+passive_effect:
+quote: Los vocablos para salir a través de la luz

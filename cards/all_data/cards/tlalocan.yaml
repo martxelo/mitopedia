@@ -1,0 +1,14 @@
+name: Tlálocan
+card_type: Panteón
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow: 18
+mythology: Azteca
+tags:
+abilities:
+  - Influencia: Elimina 2P de tu personaje azteca; gana 2P
+passive_effect:
+quote: El lugar del néctar de la tierra

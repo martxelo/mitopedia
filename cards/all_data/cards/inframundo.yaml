@@ -1,0 +1,13 @@
+name: Inframundo
+card_type: Panteón
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow: 16
+mythology: Neutral
+tags:
+abilities:
+passive_effect: Todos tus personajes con la clave "Demonio" cuestan 2P menos
+quote: Los que se unen para cumplir su objetivo

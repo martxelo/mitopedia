@@ -1,0 +1,14 @@
+name: Atlántida
+card_type: Panteón
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow: 22
+mythology: Griega
+tags:
+abilities:
+  - Influencia: Da +1F a tus armas equipadas
+passive_effect: Al final de la fase de reorganización elimina 1P de tu reserva
+quote: Muros de bronce y columnas de agua. La ambición hundida

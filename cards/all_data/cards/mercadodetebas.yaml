@@ -1,0 +1,13 @@
+name: Mercado de Tebas
+card_type: Recurso
+cost: 2
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Al equipar tus armas reduce su coste en 1P
+quote: Donde todo se vende y todo se compra, la única ley es la de la oferta y la demanda
