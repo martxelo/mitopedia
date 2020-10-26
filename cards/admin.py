@@ -1,6 +1,8 @@
 from django.contrib import admin
 from django.utils.html import mark_safe
 
+from django.contrib.auth.models import User, Group
+
 from cards.models import Card
 
 @admin.register(Card)
@@ -15,3 +17,7 @@ class CardAdmin(admin.ModelAdmin):
     # readonly_fields = ['svg_image', 'svg_image_thumb']
     # list_editable = ['tags']
     # save_on_top = True
+
+
+admin.site.unregister(User)
+admin.site.unregister(Group)
