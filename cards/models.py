@@ -21,18 +21,30 @@ CARD_TYPES = (
 class Era(models.Model):
     name = models.CharField(max_length=20)
 
+    def __str__(self):
+        return self.name
+
 
 class Mythology(models.Model):
     name = models.CharField(max_length=20)
+
+    def __str__(self):
+        return self.name
 
 
 class Tag(models.Model):
     name = models.CharField(max_length=200)
 
+    def __str__(self):
+        return self.name
+
 
 class Ability(models.Model):
     name = models.CharField(max_length=200)
     phase = models.CharField(max_length=20, choices=PHASES)
+
+    def __str__(self):
+        return f'{self.phase}: {self.name}'
 
 
 class Card(models.Model):
@@ -48,3 +60,6 @@ class Card(models.Model):
     quote = models.CharField(max_length=200, blank=True, null=True)
     strength = models.IntegerField(blank=True, null=True)
     tags = models.ManyToManyField(Tag)
+
+    def __str__(self):
+        return self.name

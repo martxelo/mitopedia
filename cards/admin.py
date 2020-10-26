@@ -1,17 +1,17 @@
 from django.contrib import admin
 from django.utils.html import mark_safe
 
+from cards.models import Card
 
-
-# @admin.register(Card)
-# class CardAdmin(admin.ModelAdmin):
-    # fieldsets = (
-    #     ('Main', {'fields': ('name', 'tags',)}),
-    #     ('Vector', {'fields': ('svg', 'svg_image')}),
-    # )
-    # list_display = ['name', 'svg_image_thumb', 'tags']
+@admin.register(Card)
+class CardAdmin(admin.ModelAdmin):
+    list_display = ['name', 'mythology']
+    search_fields = ['name', 'tags__name']
+    list_filter = ['eras', 'mythology', 'tags']
+    fieldsets = (
+        ('General', {'fields': ('name', 'tags',)}),
+        ('Específico', {'fields': ('eras', 'mythology')}),
+    )
     # readonly_fields = ['svg_image', 'svg_image_thumb']
     # list_editable = ['tags']
-    # list_filter = ['tags']
-    # search_fields = ['name', 'tags__name']
     # save_on_top = True
