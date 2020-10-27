@@ -9,6 +9,7 @@ from cards.models import Card
 class CardAdmin(admin.ModelAdmin):
     list_display = ['name', 'mythology']
     search_fields = ['name', 'tags__name']
+    change_list_filter_template = "admin/filter_listing.html"
     list_filter = ['eras', 'mythology', 'tags']
     fieldsets = (
         ('General', {'fields': ('name', 'tags',)}),
