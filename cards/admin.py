@@ -18,6 +18,15 @@ class CardAdmin(admin.ModelAdmin):
     # list_editable = ['tags']
     # save_on_top = True
 
+    def has_add_permission(self, request, obj=None):
+        return False
+
+    def has_change_permission(self, request, obj=None):
+        return False
+
+    def has_delete_permission(self, request, obj=None):
+        return False
+
 
 admin.site.unregister(User)
 admin.site.unregister(Group)
