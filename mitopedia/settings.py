@@ -82,10 +82,10 @@ WSGI_APPLICATION = 'mitopedia.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': 'db.sqlite3',
-        'USER': '',
-        'PASSWORD': '',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'mitopedia',
+        'USER': 'mitopedia',
+        'PASSWORD': 'mitopedia',
         'HOST': '',
         'PORT': '',
     },
