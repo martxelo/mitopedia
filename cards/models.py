@@ -66,9 +66,12 @@ class Card(models.Model):
 
     def _tags(self):
         return ', '.join([tag.name for tag in self.tags.all()])
+    _tags.short_description = 'Tags'
 
     def _abilities(self):
         return '\n'.join([str(a) for a in self.abilities.all()])
+    _abilities.short_description = 'Abilities'
 
     def _eras(self):
         return '/'.join([str(era) for era in self.eras.all()])
+    _eras.short_description = 'Eras'
