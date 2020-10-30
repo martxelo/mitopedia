@@ -4,6 +4,7 @@ from django.utils.html import mark_safe
 from django.contrib.auth.models import User, Group
 
 from cards.models import Card
+from cards import filters
 
 @admin.register(Card)
 class CardAdmin(admin.ModelAdmin):
@@ -12,28 +13,15 @@ class CardAdmin(admin.ModelAdmin):
                     'max_pow', '_tags', '_abilities',
                     'passive_effect', 'quote']
     search_fields = ['name', 'tags__name', 'abilities__name', 'passive_effect']
-    list_filter = ['eras', 'card_type', 'mythology', 'abilities__phase', 'tags']
-    change_list_template = "admin/change_list_filter_confirm_sidebar.html"
-    fieldsets = ((
-        'Card description', {
-            'fields':(
-                'name',
-                'eras',
-                'mythology',
-                'tags',
-                'cost',
-                'strength',
-                'max_pow',
-                'init_pow',
-                'passive_effect',
-                'abilities',
-                'quote',
-            )
-        }
-    ),)
-    # readonly_fields = ['svg_image', 'svg_image_thumb']
-    # list_editable = ['tags']
-    # save_on_top = True
+    list_filter = (
+        ('eras__name', filters.EraFilter),
+        ('card_type', filters.CardTypeFilter),
+        ('mythology__name', filters.MythologyFilter),
+        ('abilities__phase', filters.AbilityFilter),
+        ('tags__name', filters.TagFilter),
+    )
+    change_list_template = "admin/change_list_filter_sidebar.html"
+    change_list_filter_template = "admin/filter_listing.html"
 
     def has_add_permission(self, request, obj=None):
         return False
