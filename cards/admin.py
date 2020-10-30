@@ -12,7 +12,9 @@ class CardAdmin(admin.ModelAdmin):
                     'mythology', 'cost', 'strength',
                     'max_pow', '_tags', '_abilities',
                     'passive_effect', 'quote']
-    search_fields = ['name', 'tags__name', 'abilities__name', 'passive_effect']
+    search_fields = (
+        'name', 'tags__name', 'abilities__name', 'passive_effect'
+    )
     list_filter = (
         ('eras__name', filters.EraFilter),
         ('card_type', filters.CardTypeFilter),
