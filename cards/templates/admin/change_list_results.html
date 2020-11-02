@@ -19,7 +19,8 @@
 {% endif %}
 
 {% if results %}
-{% for result in results %}
-    <img width="258" height="359" src="https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png">
-{% endfor %}
+    {% for result in results %}
+        <p>{{ result.field.image }}</p>
+        <!--- <img width="258" height="359" src="{{ result.name }}"> --->
+    {% endfor %}
 {% endif %}

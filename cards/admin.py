@@ -11,7 +11,7 @@ class CardAdmin(admin.ModelAdmin):
     list_display = ['name', 'card_type', '_eras',
                     'mythology', 'cost', 'strength',
                     'max_pow', '_tags', '_abilities',
-                    'passive_effect', 'quote']
+                    'passive_effect', 'quote', 'image']
     search_fields = (
         'name', 'tags__name', 'abilities__name', 'passive_effect'
     )
