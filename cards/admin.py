@@ -8,10 +8,11 @@ from cards import filters
 
 @admin.register(Card)
 class CardAdmin(admin.ModelAdmin):
-    list_display = ['name', 'card_type', '_eras',
-                    'mythology', 'cost', 'strength',
-                    'max_pow', '_tags', '_abilities',
-                    'passive_effect', 'quote', 'image']
+    # list_display = ['name', 'card_type', '_eras',
+    #                 'mythology', 'cost', 'strength',
+    #                 'max_pow', '_tags', '_abilities',
+    #                 'passive_effect', 'quote', 'image']
+    list_display = ['name', '_image']
     search_fields = (
         'name', 'tags__name', 'abilities__name', 'passive_effect'
     )
@@ -33,6 +34,9 @@ class CardAdmin(admin.ModelAdmin):
 
     def has_delete_permission(self, request, obj=None):
         return False
+
+    def _image(self, obj):
+        return mark_safe(f'<img src="{obj.image}" width="258" height="359" />')
 
 
 admin.site.unregister(User)

@@ -86,7 +86,7 @@ DATABASES = {
         'NAME': 'mitopedia',
         'USER': 'mitopedia',
         'PASSWORD': 'mitopedia',
-        'HOST': '',
+        'HOST': 'localhost',
         'PORT': '',
     },
 }
