@@ -12,7 +12,7 @@ class CardAdmin(admin.ModelAdmin):
     #                 'mythology', 'cost', 'strength',
     #                 'max_pow', '_tags', '_abilities',
     #                 'passive_effect', 'quote', 'image']
-    list_display = ['name', '_image']
+    list_display = ['_image']
     search_fields = (
         'name', 'tags__name', 'abilities__name', 'passive_effect'
     )
