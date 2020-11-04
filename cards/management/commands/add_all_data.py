@@ -78,7 +78,8 @@ class Command(BaseCommand):
                     init_pow=card['init_pow'],
                     mythology=mythologies[card['mythology']] if card['mythology'] else None,
                     passive_effect=card['passive_effect'],
-                    quote=card['quote']
+                    quote=card['quote'],
+                    image=card['image']
                 )
 
                 c.save()

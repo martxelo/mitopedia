@@ -60,6 +60,7 @@ class Card(models.Model):
     quote = models.CharField(max_length=200, blank=True, null=True)
     strength = models.IntegerField(blank=True, null=True)
     tags = models.ManyToManyField(Tag)
+    image = models.CharField(max_length=200, default='')
 
     def __str__(self):
         return self.name
