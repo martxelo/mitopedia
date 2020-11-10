@@ -1,0 +1,15 @@
+name: Naraka
+card_type: Panteón
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow: 19
+mythology: Hindú
+tags:
+abilities:
+  - Enfrentamiento: Cansa tu personaje con la clave Invocador; roba una carta.
+passive_effect:
+quote: Donde los pescadores y herejes serán castigados por todo un eón, hasta que llegue la renovación.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,15 @@
+name: Shangri-La
+card_type: Panteón
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow: 19
+mythology: Hindú
+tags:
+abilities:
+  - Influencia: Descarta la primera carta de un mazo de designios.
+passive_effect:
+quote:
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

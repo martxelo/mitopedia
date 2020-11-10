@@ -1,0 +1,15 @@
+name: Ignota Kadath
+card_type: Panteón
+cost:
+eras:
+  - IV
+strength:
+max_pow:
+init_pow: 18
+mythology: Mitos de Cthulhu
+tags:
+abilities:
+  - Influencia: Elimina 1P de la reserva del contrario por cada máscara que controles.
+passive_effect:
+quote:
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

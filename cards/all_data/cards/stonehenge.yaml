@@ -1,0 +1,14 @@
+name: Stonehenge
+card_type: Panteón
+cost:
+eras:
+  - IV
+strength:
+max_pow:
+init_pow: 17
+mythology: Celta
+tags:
+abilities:
+passive_effect: Tus Druidas pueden asignarse cansados.
+quote:
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

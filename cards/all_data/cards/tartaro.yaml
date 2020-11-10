@@ -1,0 +1,15 @@
+name: Tártaro
+card_type: Panteón
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow: 18
+mythology: Griega
+tags:
+abilities:
+  - Influencia: Da -1 Coste a tus Titanes en tus oráculos permanentemente.
+passive_effect:
+quote: Prisión para los perdedores, profecía de perdición para los captores.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

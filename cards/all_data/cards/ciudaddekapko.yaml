@@ -1,0 +1,15 @@
+name: Ciudad de Kapko
+card_type: Panteón
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow: 17
+mythology: Voodoo
+tags:
+abilities:
+  - Influencia: Mueve una carta del descarte de un contrario a tu destierro; gana 1P.
+passive_effect:
+quote: El tiempo no existe, aunque no significa que no puedas morir.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

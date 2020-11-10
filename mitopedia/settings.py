@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '*93m&1d9qn*pym-r%-us6*qsr!+_t_f5s#k@kf#-(+opf^+yn='
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 CORS_ORIGIN_ALLOW_ALL = True
@@ -86,7 +86,7 @@ DATABASES = {
         'NAME': 'mitopedia',
         'USER': 'mitopedia',
         'PASSWORD': 'mitopedia',
-        'HOST': '',
+        'HOST': 'localhost',
         'PORT': '',
     },
 }

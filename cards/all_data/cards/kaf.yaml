@@ -1,0 +1,15 @@
+name: Kaf
+card_type: Panteón
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow: 19
+mythology: Persa
+tags:
+abilities:
+  - Influencia: Revela hasta tres deseos de tu mazo de designios y ponlos en tu mano. Baraja tu mazo. (Solo puede usarse una vez por partida)
+passive_effect:
+quote:
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

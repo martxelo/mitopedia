@@ -1,0 +1,15 @@
+name: Constantinopla
+card_type: Panteón
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow: 20
+mythology: Romana
+tags:
+abilities:
+  - Influencia: Elimina 1P; gana 2P en tu personaje en juego.
+passive_effect:
+quote:
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

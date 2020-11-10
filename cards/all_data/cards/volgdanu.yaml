@@ -1,0 +1,15 @@
+name: Volg Danu
+card_type: Panteón
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow: 18
+mythology: Celta
+tags:
+abilities:
+  - Enfrentamiento: Mueve al campo de batalla un personaje celta cansado y cuenta su fuerza como si estuviera preparado.
+passive_effect:
+quote: Aquel que no descansa en su sueño, no descansa cuando despierta.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,15 @@
+name: Asgard
+card_type: Panteón
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow: 18
+mythology: Nórdica
+tags:
+abilities:
+  - Influencia: Gana 2P en tu personaje nórdico en un oráculo.
+passive_effect:
+quote: 
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

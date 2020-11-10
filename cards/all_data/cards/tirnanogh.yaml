@@ -1,0 +1,15 @@
+name: Tir Nan Ogh
+card_type: Panteón
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow: 19
+mythology: Celta
+tags:
+abilities:
+  - Influencia: Da +1F a tus personajes con la clave Druida.
+passive_effect:
+quote: Una tierra tan hermosa que no puede ser soñada
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

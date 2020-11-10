@@ -1,0 +1,15 @@
+name: Onigashima
+card_type: Panteón
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow: 19
+mythology: Japonesa
+tags:
+abilities:
+  - Enfrentamiento: Mueve tu mortal japonés del descarte al campo de batalla, gana 1P en él y destrúyelo al final de turno.
+passive_effect:
+quote: La Isla de los Demonios, hogar de los Oni.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

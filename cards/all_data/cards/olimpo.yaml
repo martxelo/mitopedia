@@ -1,0 +1,15 @@
+name: Olimpo
+card_type: Panteón
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow: 18
+mythology: Griega
+tags:
+abilities:
+  - Enfrentamiento: Gana 1P en uno de tus personajes griegos y dale +1F
+passive_effect:
+quote: Palacios de cristal y bocados de ambrosía. El hogar de los dioses
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

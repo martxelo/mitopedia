@@ -1,0 +1,15 @@
+name: Niflheim
+card_type: Panteón
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow: 19
+mythology: Nórdica
+tags:
+abilities:
+  - Influencia: Da +1F a tus guerreros nórdicos.
+passive_effect:
+quote:
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

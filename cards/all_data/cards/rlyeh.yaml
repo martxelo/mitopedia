@@ -1,0 +1,15 @@
+name: R'Lyeh
+card_type: Panteón
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow: 18
+mythology: Mitos de Cthulhu
+tags:
+abilities:
+  - Influencia: Crea un sectario-Loco 0F/0P/1PM.
+passive_effect:
+quote: Aquel lugar onírico que vio era anormal, no euclidiana y asquerosamente impregnada de sensaciones de otras esferas y dimensiones distintas a la nuestra.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

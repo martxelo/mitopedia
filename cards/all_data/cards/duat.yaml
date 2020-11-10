@@ -1,0 +1,15 @@
+name: Duat
+card_type: Panteón
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow: 19
+mythology: Egipcia
+tags:
+abilities:
+  - Influencia: Elimina 2P; descarta todas las cartas de un oráculo de un jugador con igual o mayor número de oráculos que tú.
+passive_effect:
+quote: Cielo inferior bajo la tierra, donde Osiris celebra sus juicios
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

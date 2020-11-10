@@ -1,0 +1,15 @@
+name: Adliden
+card_type: Panteón
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow: 18
+mythology: Nativa americana
+tags:
+abilities:
+  - Enfrentamiento: Elige tu personaje; cuenta su F aunque esté agotado.
+passive_effect:
+quote: Profundo seno del océano, morada de Sedna, donde llegan las almas de los muertos para ser juzgadas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

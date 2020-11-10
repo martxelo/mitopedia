@@ -1,0 +1,15 @@
+name: Nidavellir
+card_type: Panteón
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow: 19
+mythology: Nórdica
+tags:
+abilities:
+  - Influencia: Reduce en 1P el coste de las armas y armaduras al equiparlas en tus personajes este turno.
+passive_effect:
+quote:
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

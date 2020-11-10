@@ -1,0 +1,15 @@
+name: Mictlán
+card_type: Panteón
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow: 20
+mythology: Azteca
+tags:
+abilities:
+  - Influencia: Elimina la habilidad de un panteón contrario.
+passive_effect:
+quote: Más allá de los nueve, donde el Sol Tonatiuh brilla cada noche. La última morada de los que no mueren en batalla
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

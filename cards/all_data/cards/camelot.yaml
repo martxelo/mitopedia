@@ -1,0 +1,15 @@
+name: Camelot
+card_type: Panteón
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow: 18
+mythology: Celta
+tags:
+abilities:
+  - Influencia: Agota dos de tus personajes celtas; gana tantos P como eliminaste entre tus personajes.
+passive_effect: Tus Caballeros no pueden ser controlados por otro jugador.
+quote:
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

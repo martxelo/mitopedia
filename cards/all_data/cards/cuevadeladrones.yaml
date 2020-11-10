@@ -1,0 +1,15 @@
+name: Cueva de Ladrones
+card_type: Panteón
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow: 18
+mythology: Persa
+tags:
+abilities:
+  - Influencia: Equipa sin coste un Arma o Armadura de tu descarte a uno de tus personajes.
+passive_effect:
+quote:
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

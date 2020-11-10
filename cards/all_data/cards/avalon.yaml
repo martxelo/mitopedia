@@ -1,0 +1,14 @@
+name: Avalon
+card_type: Panteón
+cost:
+eras:
+  - IV
+strength:
+max_pow:
+init_pow: 17
+mythology: Celta
+tags:
+abilities:
+passive_effect: Tus Caballeros en juego y oráculos tienen -1 Coste.
+quote:
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

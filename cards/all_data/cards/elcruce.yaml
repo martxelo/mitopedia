@@ -1,0 +1,15 @@
+name: El Cruce
+card_type: Panteón
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow: 18
+mythology: Voodoo
+tags:
+abilities:
+  - Influencia: Pon un contador voodoo en un personaje enemigo.
+passive_effect:
+quote: Eleggua, responsable del cruce de caminos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

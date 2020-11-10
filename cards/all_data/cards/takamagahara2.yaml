@@ -1,0 +1,15 @@
+name: Takamagahara
+card_type: Panteón
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow: 18
+mythology: Japonesa
+tags:
+abilities:
+  - Enfrentamiento: Elimina 1P de un personaje; puedes ganar 1P en tu Dios japonés en tu oráculo.
+passive_effect:
+quote:
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

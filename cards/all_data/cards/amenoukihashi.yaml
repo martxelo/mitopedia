@@ -1,0 +1,15 @@
+name: Amenoukihashi
+card_type: Panteón
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow: 19
+mythology: Japonesa
+tags:
+abilities:
+  - Influencia: Da -1PM permanentemente a un personaje enemigo.
+passive_effect:
+quote: Al rehusar la Iwanaga, tu vida será breve de ahora en adelante.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,15 @@
+name: La Orden
+card_type: Panteón
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow: 29
+mythology: Neutral
+tags:
+abilities:
+  - Influencia: Da -2PM permanentementea un personaje con la clave "Dios"
+passive_effect: No puedes ganar poder en tu reserva. Tus dioses tienen -2PM.
+quote: Un humano nunca llegará a ser dios de dioses pero...
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

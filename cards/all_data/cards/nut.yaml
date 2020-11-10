@@ -1,0 +1,15 @@
+name: Nut
+card_type: Panteón
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow: 18
+mythology: Egipcia
+tags:
+abilities:
+  - Influencia: Pon debajo de uno de tus oráculos un evento descartado de otro jugador. (La próxima ves que sea descartado vuelve al descarte de su propietario)
+passive_effect:
+quote: Bóveda celeste, lugar de descanso y alimento de los muertos
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

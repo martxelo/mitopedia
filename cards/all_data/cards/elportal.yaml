@@ -1,0 +1,15 @@
+name: El Portal
+card_type: Panteón
+cost:
+eras:
+  - IV
+strength:
+max_pow:
+init_pow: 18
+mythology: Neutral
+tags:
+abilities:
+  - Influencia: Mueve tu personaje Neutral al campo de batalla.
+passive_effect: Tus personajes Neutrales ni pierden P al entrar en juego.
+quote:
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

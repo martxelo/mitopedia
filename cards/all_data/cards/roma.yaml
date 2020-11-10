@@ -1,0 +1,15 @@
+name: Roma
+card_type: Panteón
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow: 18
+mythology: Romana
+tags:
+abilities:
+  - Influencia: Destruye tu mortal; conviértelo en un equipo (XF/0C/0PM) permanentemente y equípalo en tu personaje. (X es igual a la fuerza impresa).
+passive_effect:
+quote:
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

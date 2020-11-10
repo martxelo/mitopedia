@@ -1,0 +1,14 @@
+name: Zu, la Montaña Mágica
+card_type: Panteón
+cost:
+eras:
+  - IV
+strength:
+max_pow:
+init_pow: 19
+mythology: China
+tags:
+abilities:
+passive_effect: Tus personajes chinos pueden llevar dos armas.
+quote:
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

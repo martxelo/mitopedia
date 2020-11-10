@@ -1,0 +1,15 @@
+name: Ma'at
+card_type: Panteón
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow: 18
+mythology: Egipcia
+tags:
+abilities:
+  - Influencia: Da +1 o -1 Coste a un personaje en un oráculo o en juego permanentemente.
+passive_effect:
+quote: El Orden frente al Caos, la Justicia, las Estaciones y las Estrellas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

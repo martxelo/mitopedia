@@ -1,0 +1,15 @@
+name: Transilvania
+card_type: Panteón
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow: 18
+mythology: Neutral
+tags:
+abilities:
+  - Influencia: Prepara a tu personaje con la clave Monstruo.
+passive_effect:
+quote: Una ciudad austera y sombría a los pies de un castillo milenario.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

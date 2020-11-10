@@ -1,0 +1,14 @@
+name: Y'ha-Nthlei
+card_type: Panteón
+cost:
+eras:
+  - IV
+strength:
+max_pow:
+init_pow: 18
+mythology: Mitos de Cthulhu
+tags:
+abilities:
+passive_effect: Aumenta tu máximo de mano base en una carta y reduce el de tus oponentes en una carta.
+quote:
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

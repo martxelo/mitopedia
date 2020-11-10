@@ -1,0 +1,15 @@
+name: Theotihuacán
+card_type: Panteón
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow: 18
+mythology: Azteca
+tags:
+abilities:
+  - Influencia: Crea un personaje (Guerrero 1F/0C/2PM/0P).
+passive_effect:
+quote: Es un lugar donde los hombres valientes se convierten en dioses.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

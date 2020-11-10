@@ -1,0 +1,15 @@
+name: Esharra
+card_type: Panteón
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow: 18
+mythology: Sumeria
+tags:
+abilities:
+  - Enfrentamiento: Elige uno de tus personajes que no puede ser movido hasta la próxima fase de ENFRENTAMIENTO (Permanece en el campo de batalla)
+passive_effect:
+quote: De Esharra venimos, de la cuna del verano y el invierno, donde el Rey Afligido derramó sus lágrimas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

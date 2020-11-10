@@ -1,0 +1,14 @@
+name: Tierra Desolada
+card_type: Panteón
+cost:
+eras:
+  - IV
+strength:
+max_pow:
+init_pow: 18
+mythology: Neutral
+tags:
+abilities:
+passive_effect: Empieza la partida con un oráculo extra con la carta Hidra revelada. Coloca el resto en los otros cuatro oráculos. Cada vez que pongas un Monstruo en juego gana 1P en Hidra en tu oráculo.
+quote:
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,15 @@
+name: Svartálfaheim
+card_type: Panteón
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow: 19
+mythology: Nórdica
+tags:
+abilities:
+  - Influencia: Elimina la habilidad de un personaje o equipo enemigo.
+passive_effect:
+quote: El más oscuro de los nueve reinos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,15 @@
+name: Jotunheim
+card_type: Panteón
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow: 18
+mythology: Nórdica
+tags:
+abilities:
+  - Enfrentamiento: Cansa hasta dos cartas de una tropa.
+passive_effect:
+quote: Donde jamás hay verano y el invierno es polar.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

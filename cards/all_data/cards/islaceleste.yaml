@@ -1,0 +1,15 @@
+name: Isla Celeste
+card_type: Panteón
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow: 19
+mythology: Nativa americana
+tags:
+abilities:
+  - Enfrentamiento: Crea un personaje (Espíritu 2F/0C/2PM/1P). Destrúyelo al final del ENFRENTAMIENTO.
+passive_effect:
+quote: Morada de los Dioses, flota sobre el mundo mortal a lomos de la gran tortuga Hahnunah.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

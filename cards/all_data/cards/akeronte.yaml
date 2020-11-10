@@ -1,0 +1,15 @@
+name: Akeronte
+card_type: Panteón
+cost:
+eras:
+  - IV
+strength:
+max_pow:
+init_pow: 16
+mythology: Neutral
+tags:
+abilities:
+  - Influencia: Mueve tu mortal de tu descarte a tu panteón moviendo tantas cartas de tu descarte de dioses al destierro como su poder máximo.
+passive_effect:
+quote:
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
