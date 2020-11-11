@@ -1,0 +1,17 @@
+name: Ask y Embla
+card_type: Acción
+cost: 0
+eras:
+  - I
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Nombra un personaje; gana 1P en cada carta con ese nombre en juego
+passive_effect: 
+quote: Odín les dio el alma, Hoenir los sentidos y Loki les dio la sangre
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

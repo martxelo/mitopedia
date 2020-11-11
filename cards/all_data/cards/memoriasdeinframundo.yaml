@@ -1,0 +1,17 @@
+name: Memorias de Inframundo
+card_type: Acción
+cost: 1
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Portal
+abilities:
+  - Influencia: Pon estas carta en juego en tu panteón
+passive_effect: Reduce en 1 el coste de tus demonios
+quote: Los que se unen para cumplir su objetivo... el destierro de los Dioses
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

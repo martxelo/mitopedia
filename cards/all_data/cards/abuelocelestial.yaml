@@ -1,0 +1,16 @@
+name: Abuelo celestial
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Gana 1P
+passive_effect: 
+quote: Tenía muchos nombres, pero este era el preferido de los niños
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

@@ -1,0 +1,16 @@
+name: Memorias de K'n Yan
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa un recurso
+passive_effect: 
+quote: Hay recuerdos que pueden conducirte a la locura
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

@@ -1,0 +1,17 @@
+name: Creación de las plantas
+card_type: Acción
+cost: 0
+eras:
+  - I
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Todos los jugadores roban 2 cartas y luego descartan hasta su límite de mano
+passive_effect: 
+quote: La distracción de Musubi
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

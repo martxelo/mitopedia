@@ -1,0 +1,16 @@
+name: Vuelta a casa
+card_type: Acción
+cost: 1
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Baraja tu descarte y roba una carta al azar; devuelve el resto al descarte
+passive_effect: 
+quote: ¿Tristeza o alegría?
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

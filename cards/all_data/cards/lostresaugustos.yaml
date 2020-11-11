@@ -1,0 +1,16 @@
+name: Los tres augustos
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Da la clave Dios a tu personaje permanentemente
+passive_effect: 
+quote: Fundadores de la civilización China
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

@@ -1,0 +1,16 @@
+name: Memorias de Transilvania
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Prepara tu Monstruo
+passive_effect: 
+quote: Prepara tu Monstruo
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

@@ -1,0 +1,16 @@
+name: Memorias el cruce
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Da -1F permanente a un personaje
+passive_effect: 
+quote: El mejor lugar para encontrar al Barón Samedi
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

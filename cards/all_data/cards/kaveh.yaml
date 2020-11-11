@@ -1,0 +1,16 @@
+name: Kaveh
+card_type: Acción
+cost: 1
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Gana 1P cada vez que tu oponente pase en esta fase.(Solo se puede jugar un Kaveh por turno)
+passive_effect: 
+quote: 
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

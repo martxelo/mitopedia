@@ -1,0 +1,16 @@
+name: Ojo de cíclope
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Da +1F a tu personaje por cada personaje sin habilidad de tu oponente
+passive_effect: 
+quote: El que todo lo ve
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

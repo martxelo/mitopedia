@@ -1,0 +1,17 @@
+name: Memorias de Nidavellir
+card_type: Acción
+cost: 1
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Portal
+abilities:
+  - Influencia: Pon estas carta en juego en tu panteón
+passive_effect: Tus Armas y Armaduras cuestan 1 menos
+quote: Los oscuros campos de los enanos
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

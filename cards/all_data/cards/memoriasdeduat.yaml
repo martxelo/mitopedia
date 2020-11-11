@@ -1,0 +1,16 @@
+name: Memorias de Duat
+card_type: Acción
+cost: 1
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Descarta hasta dos cartas boca abajo en oráculos
+passive_effect: 
+quote: Cielo inferior bajo la tierra donde Osiris celebra sus juicios
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

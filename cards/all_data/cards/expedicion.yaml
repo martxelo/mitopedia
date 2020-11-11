@@ -1,0 +1,17 @@
+name: Expedición
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Combate
+abilities:
+  - Influencia: Inicia un Combate; el jugador que gane toma el control de un recurso permanentemente
+passive_effect: 
+quote: Los caminos parecen seguros
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+
