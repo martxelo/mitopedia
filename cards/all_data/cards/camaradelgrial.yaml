@@ -1,16 +1,15 @@
-name: Norna
+name: Cámara del Grial
 card_type: Recurso
-cost: 2
+cost: 1
 eras:
-  - I
+  - IV
 strength:
 max_pow:
 init_pow:
 mythology:
 tags:
-  - Vidente
 abilities:
-  - Influencia: Cansa Norna; roba una carta.
+  - Enfrentamiento: Destruye este recurso, gana 3P en tu personaje.
 passive_effect:
-quote: Lo que ha ocurrido, lo que ocurre ahora y lo que debería suceder
+quote: El final de la búsqueda o la última prueba.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,16 +1,16 @@
-name: Norna
+name: Muralla Ming
 card_type: Recurso
 cost: 2
 eras:
-  - I
+  - IV
 strength:
 max_pow:
 init_pow:
 mythology:
 tags:
-  - Vidente
+  - Muralla
 abilities:
-  - Influencia: Cansa Norna; roba una carta.
+  - Influencia: Gana 1P en tu personaje Chino en un oráculo.
 passive_effect:
-quote: Lo que ha ocurrido, lo que ocurre ahora y lo que debería suceder
+quote: Ampliada a 7000km y ampliación de su altura hasta los 8 metros.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

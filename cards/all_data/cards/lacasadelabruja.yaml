@@ -1,0 +1,15 @@
+name: La casa de la bruja
+card_type: Recurso
+cost: 1
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Primigenio
+abilities:
+passive_effect: Reduce en 1 el máximo de la mano de tu oponente y suma 1 al tuyo.
+quote: El hogar de Keziah.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

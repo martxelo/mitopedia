@@ -1,0 +1,14 @@
+name: Pueblo arrasado
+card_type: Recurso
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Aumenta el diferencial de batalla en 1.
+quote: El caos alimenta las fuerzas del mal.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

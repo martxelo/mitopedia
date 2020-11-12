@@ -1,0 +1,18 @@
+name: Gran Muralla
+card_type: Recurso
+cost: 3
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Muralla
+  - China
+  - Única
+abilities:
+  - Enfrentamiento: Gana 1P por cada muralla con nombre distinto que controles.
+passive_effect:
+quote: En un inicio... 9 puertas, 50 torres y 12 señales para proteger el reino.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

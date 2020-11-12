@@ -1,16 +1,17 @@
-name: Norna
+name: Mastaba
 card_type: Recurso
-cost: 2
+cost: 1
 eras:
   - I
+  - IV
 strength:
 max_pow:
 init_pow:
 mythology:
 tags:
-  - Vidente
+  - Ciudad
 abilities:
-  - Influencia: Cansa Norna; roba una carta.
+  - Influencia: Tu próximo personaje que medite gana 1P más.
 passive_effect:
-quote: Lo que ha ocurrido, lo que ocurre ahora y lo que debería suceder
+quote: El origen de las pirámides.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

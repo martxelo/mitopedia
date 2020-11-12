@@ -1,0 +1,15 @@
+name: La Orden de Dagon
+card_type: Recurso
+cost: 1
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Di el nombre de una carta de acción; cámbiala de INFLUENCIA a ENFRENTAMIENTO.
+passive_effect:
+quote: Buen coñac, puros habanos, grandes salas y planes diabólicos...
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

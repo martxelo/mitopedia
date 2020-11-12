@@ -1,16 +1,16 @@
-name: Norna
+name: Muralla Han
 card_type: Recurso
-cost: 2
+cost: 1
 eras:
-  - I
+  - IV
 strength:
 max_pow:
 init_pow:
 mythology:
 tags:
-  - Vidente
+  - Muralla
 abilities:
-  - Influencia: Cansa Norna; roba una carta.
+  - Enfrentamiento: Reduce el diferencial de batalla en 1.
 passive_effect:
-quote: Lo que ha ocurrido, lo que ocurre ahora y lo que debería suceder
+quote: Introdujeron las grandes torres de señales cada 15km.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

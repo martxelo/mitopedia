@@ -1,16 +1,15 @@
-name: Norna
+name: Cámara de Merlín
 card_type: Recurso
-cost: 2
+cost: 1
 eras:
-  - I
+  - IV
 strength:
 max_pow:
 init_pow:
 mythology:
 tags:
-  - Vidente
 abilities:
-  - Influencia: Cansa Norna; roba una carta.
+  - Influencia: Mira una carta al azar de la mano de un oponente; no se pueden jugar cartas con ese nombre.
 passive_effect:
-quote: Lo que ha ocurrido, lo que ocurre ahora y lo que debería suceder
+quote: Repleta de misterios
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

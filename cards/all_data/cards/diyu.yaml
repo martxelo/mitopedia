@@ -1,16 +1,15 @@
-name: Norna
+name: Di Yu
 card_type: Recurso
-cost: 2
+cost: 1
 eras:
-  - I
+  - IV
 strength:
 max_pow:
 init_pow:
 mythology:
 tags:
-  - Vidente
 abilities:
-  - Influencia: Cansa Norna; roba una carta.
+  - Influencia: Da +1F a tu arma.
 passive_effect:
-quote: Lo que ha ocurrido, lo que ocurre ahora y lo que debería suceder
+quote: Dominado por Yama, que trata las almas en concordancia con sus pecados terrenales.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,16 @@
+name: Fuente de Poder
+card_type: Recurso
+cost: 1
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa Fuente de Poder; da -1PM permanentemente a un mortal enemigo.
+  - Influencia: Cansa Fuente de Poder; da -2PM permanentemente a un Dios enemigo.
+passive_effect:
+quote: Mientras la espada estuvo en la piedra no hubo Rey.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

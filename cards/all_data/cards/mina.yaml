@@ -1,16 +1,15 @@
-name: Norna
+name: Mina
 card_type: Recurso
-cost: 2
+cost: 1
 eras:
-  - I
+  - IV
 strength:
 max_pow:
 init_pow:
 mythology:
 tags:
-  - Vidente
 abilities:
-  - Influencia: Cansa Norna; roba una carta.
+  - Enfrentamiento: Mueve tu Monstruo al campo de batalla.
 passive_effect:
-quote: Lo que ha ocurrido, lo que ocurre ahora y lo que debería suceder
+quote: Se mueven por debajo de la montaña.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

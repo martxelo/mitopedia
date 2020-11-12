@@ -1,16 +1,17 @@
-name: Norna
+name: Arrecife del Diablo
 card_type: Recurso
-cost: 2
+cost: 3
 eras:
-  - I
+  - IV
 strength:
 max_pow:
 init_pow:
 mythology:
 tags:
-  - Vidente
+  - Único
+  - Mitos de Cthulhu
 abilities:
-  - Influencia: Cansa Norna; roba una carta.
+  - Influencia: Gana 2P en un Primigenio o Profundo en un oráculo.
 passive_effect:
-quote: Lo que ha ocurrido, lo que ocurre ahora y lo que debería suceder
+quote: Rocas, túneles y profundos.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
