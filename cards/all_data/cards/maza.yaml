@@ -1,0 +1,16 @@
+name: Maza
+card_type: Equipo
+cost: 2
+eras:
+  - IV
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Enfrentamiento: Nombra Equipo o Acción, mira la primera carta de un mazo de designios, si es del tipo indicado descártala.
+passive_effect:
+quote: Al principio era una simple vara o garrote con una piedra.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

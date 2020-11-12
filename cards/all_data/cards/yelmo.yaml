@@ -1,0 +1,15 @@
+name: Yelmo
+card_type: Equipo
+cost: 1
+eras:
+  - IV
+strength: 0
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Armadura
+abilities:
+passive_effect: Este personaje no puede ser objetivo de habilidades de personajes de coste 5 o inferior.
+quote: No todo el mundo puede superar su defensa.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

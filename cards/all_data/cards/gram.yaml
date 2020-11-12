@@ -1,0 +1,17 @@
+name: Gram
+card_type: Equipo
+cost: 2
+eras:
+  - I
+  - IV
+strength: 1
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Espada
+abilities:
+  - Enfrentamiento: Nombra un personaje, da +1F a todos los personajes con ese nombre en juego.
+passive_effect:
+quote: Usada por Sigfrid para matar a Fafnir.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

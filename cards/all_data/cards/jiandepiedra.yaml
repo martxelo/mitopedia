@@ -1,0 +1,16 @@
+name: Jian de piedra
+card_type: Equipo
+cost: 1
+eras:
+  - IV
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+  - Tierra
+abilities:
+passive_effect: Da la clave Tierra a este personaje.
+quote: La más robusta y la más ligera.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

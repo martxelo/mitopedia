@@ -1,0 +1,16 @@
+name: Coraza lamelar
+card_type: Equipo
+cost: 1
+eras:
+  - IV
+strength: 0
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Armadura
+abilities:
+  - Enfrentamiento: Elige una clave elemental (Aire, Fuego, Agua, Tierra); tus personajes con esa clave no pueden ser cansados ni movidos.
+passive_effect:
+quote: Forjada con escamas de 5 dragones distintos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

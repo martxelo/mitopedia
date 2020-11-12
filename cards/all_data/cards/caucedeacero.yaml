@@ -1,0 +1,16 @@
+name: Cauce de acero
+card_type: Equipo
+cost: 1
+eras:
+  - IV
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+  - Agua
+abilities:
+passive_effect: Da la clave Agua a este personaje.
+quote: Cortaba la tierra creando ríos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

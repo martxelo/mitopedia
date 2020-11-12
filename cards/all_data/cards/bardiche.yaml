@@ -1,0 +1,15 @@
+name: Bardiche
+card_type: Equipo
+cost: 2
+eras:
+  - IV
+strength: 2
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+passive_effect:
+quote: Mezcla de hacha y arma enastada.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: La cara de la bestia
+card_type: Equipo
+cost: 3
+eras:
+  - IV
+strength: 2
+max_pow: 2
+init_pow:
+mythology:
+tags:
+  - Único
+  - Mitos de Cthulhu
+abilities:
+  - Influencia: Prepara este personaje.
+passive_effect:
+quote: Nadie conoce lo que hay debajo de las 1000 máscaras.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

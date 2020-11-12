@@ -1,0 +1,15 @@
+name: Peto
+card_type: Equipo
+cost: 2
+eras:
+  - IV
+strength: 0
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Armadura
+abilities:
+passive_effect: La primera vez del turno que una acción haga objetivo a este personaje, elige otro de tus personajes que pueda ser objetivo.
+quote: La mejor protección para la batalla.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

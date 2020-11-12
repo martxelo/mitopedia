@@ -1,0 +1,17 @@
+name: Corona doble egipcia
+card_type: Equipo
+cost: 2
+eras:
+  - I
+  - IV
+strength: 0
+max_pow: 2
+init_pow:
+mythology:
+tags:
+  - Corona
+abilities:
+  - Influencia: Elimina 1P de este personaje; gana 1P.
+passive_effect:
+quote: Símbolo de la unión de los dos Egiptos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

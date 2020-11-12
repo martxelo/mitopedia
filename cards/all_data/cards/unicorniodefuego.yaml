@@ -1,0 +1,16 @@
+name: Unicornio de fuego
+card_type: Equipo
+cost: 1
+eras:
+  - IV
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+  - Fuego
+abilities:
+passive_effect: Da la clave Fuego a este personaje.
+quote: Despide un fuego sagrado y su cuerno destellante impide la visión humana.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

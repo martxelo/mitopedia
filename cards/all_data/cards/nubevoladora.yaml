@@ -1,0 +1,16 @@
+name: Nube voladora
+card_type: Equipo
+cost: 2
+eras:
+  - IV
+strength: 1
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Influencia: Mueve este personaje al campo de batalla.
+passive_effect:
+quote: Sun Wukong podía volar entre las nubes y capturó una de ellas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

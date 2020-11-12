@@ -1,0 +1,17 @@
+name: Excalibur
+card_type: Equipo
+cost: 3
+eras:
+  - IV
+strength: 3
+max_pow: 3
+init_pow:
+mythology:
+tags:
+  - Arma
+  - Única
+  - Celta
+abilities:
+passive_effect: Cuesta 2P menos para Arturo.
+quote:
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

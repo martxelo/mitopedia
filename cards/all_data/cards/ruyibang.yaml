@@ -1,0 +1,16 @@
+name: Ru Yi Bang
+card_type: Equipo
+cost: 2
+eras:
+  - IV
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Influencia: Elimina 2P de tu personaje; prepara tu personaje.
+passive_effect:
+quote: Bastón de hierro tan duro como el diamante que cambia de forma al antojo de su dueño.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
