@@ -1,4 +1,4 @@
-name: Nun
+name: Fuego y Hielo
 card_type: Evento
 cost:
 eras:
@@ -10,6 +10,6 @@ init_pow:
 mythology:
 tags:
 abilities:
-passive_effect: Nombra una carta de acción; gana 2P cada vez que se juegue una carta con ese nombre.
+passive_effect: Nombra un personaje o recurso; gana 1P en cada carta con ese nombre en oráculos o panteón.
 quote: Creación del mundo.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

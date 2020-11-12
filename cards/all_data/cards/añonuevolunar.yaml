@@ -1,8 +1,7 @@
-name: Nun
+name: Año nuevo lunar
 card_type: Evento
 cost:
 eras:
-  - I
   - IV
 strength:
 max_pow:
@@ -10,6 +9,6 @@ init_pow:
 mythology:
 tags:
 abilities:
-passive_effect: Nombra una carta de acción; gana 2P cada vez que se juegue una carta con ese nombre.
-quote: Creación del mundo.
+passive_effect: Gana 1P en tu reserva por cada acción que te haga ganar P en tu reserva.
+quote: Gonxi Gonxi.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

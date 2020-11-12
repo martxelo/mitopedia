@@ -1,0 +1,14 @@
+name: En la noche de los tiempos
+card_type: Evento
+cost:
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Hasta el final de la partida, todos los jugadores roban una carta extra en REORGANIZACIÓN (máximo 2).
+quote: El verdadero horror nunca se cura realmente.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

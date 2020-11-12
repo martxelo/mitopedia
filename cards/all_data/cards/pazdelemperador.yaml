@@ -1,8 +1,7 @@
-name: Nun
+name: Paz del emperador
 card_type: Evento
 cost:
 eras:
-  - I
   - IV
 strength:
 max_pow:
@@ -10,6 +9,6 @@ init_pow:
 mythology:
 tags:
 abilities:
-passive_effect: Nombra una carta de acción; gana 2P cada vez que se juegue una carta con ese nombre.
-quote: Creación del mundo.
+passive_effect: El diferencial de batalla máximo es de 5 (después de aplicar modificadores).
+quote: Una breve pausa en la guerra.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

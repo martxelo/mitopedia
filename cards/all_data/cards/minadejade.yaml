@@ -1,8 +1,7 @@
-name: Nun
+name: Mina de Jade
 card_type: Evento
 cost:
 eras:
-  - I
   - IV
 strength:
 max_pow:
@@ -10,6 +9,6 @@ init_pow:
 mythology:
 tags:
 abilities:
-passive_effect: Nombra una carta de acción; gana 2P cada vez que se juegue una carta con ese nombre.
-quote: Creación del mundo.
+passive_effect: Después de revelar tus oráculos, gana 1P en cada recurso en tus oráculos.
+quote: El oro es valioso, pero el jade es inapreciable.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

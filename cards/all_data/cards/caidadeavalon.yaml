@@ -1,8 +1,7 @@
-name: Nun
+name: Caída de Avalon
 card_type: Evento
 cost:
 eras:
-  - I
   - IV
 strength:
 max_pow:
@@ -10,6 +9,6 @@ init_pow:
 mythology:
 tags:
 abilities:
-passive_effect: Nombra una carta de acción; gana 2P cada vez que se juegue una carta con ese nombre.
-quote: Creación del mundo.
+passive_effect: Sólo se pueden usar una vez las habilidades de cartas con el mismo nombre.
+quote: El fin de la mesa redonda.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

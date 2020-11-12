@@ -1,4 +1,4 @@
-name: Nun
+name: Caos primigenio
 card_type: Evento
 cost:
 eras:
@@ -10,6 +10,6 @@ init_pow:
 mythology:
 tags:
 abilities:
-passive_effect: Nombra una carta de acción; gana 2P cada vez que se juegue una carta con ese nombre.
+passive_effect: Nombra una carta; reduce en 2P el coste de todas las cartas con ese nombre.
 quote: Creación del mundo.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

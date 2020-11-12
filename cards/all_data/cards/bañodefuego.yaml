@@ -1,8 +1,7 @@
-name: Nun
+name: Baño de fuego
 card_type: Evento
 cost:
 eras:
-  - I
   - IV
 strength:
 max_pow:
@@ -10,6 +9,6 @@ init_pow:
 mythology:
 tags:
 abilities:
-passive_effect: Nombra una carta de acción; gana 2P cada vez que se juegue una carta con ese nombre.
-quote: Creación del mundo.
+passive_effect: Hasta el final de la partida tus personajes Neutrales en oráculos tienen -1 Coste.
+quote: Las hordas se nutren del fuego y las sombras.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
