@@ -1,0 +1,16 @@
+name: Tela de araña
+card_type: Invocación
+cost: 0
+eras:
+  - IV
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Ingrediente
+abilities:
+  - Enfrentamiento: Destruye esta carta; redistribuye el poder de tus personajes.
+passive_effect:
+quote: Estructura sedosa y pegajosa.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

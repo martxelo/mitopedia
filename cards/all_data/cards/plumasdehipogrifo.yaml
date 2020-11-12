@@ -1,0 +1,16 @@
+name: Plumas de Hipogrifo
+card_type: Invocación
+cost: 0
+eras:
+  - IV
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Ingrediente
+abilities:
+  - Enfrentamiento: Cansa un equipo.
+passive_effect:
+quote: Símbolo de impulsos incontrolados.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

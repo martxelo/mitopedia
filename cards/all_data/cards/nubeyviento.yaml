@@ -1,0 +1,15 @@
+name: Nube y Viento
+card_type: Invocación
+cost: 0
+eras:
+  - IV
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Da -1F a un personaje enemigo.
+passive_effect:
+quote: De su respiración surgió el viento, de su aliento las nubes.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

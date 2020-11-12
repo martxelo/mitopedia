@@ -1,0 +1,15 @@
+name: Hada del bosque
+card_type: Invocación
+cost: 0
+eras:
+  - IV
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Hada
+abilities:
+passive_effect: Da la clave Druida a este personaje.
+quote: Fuerza y poder.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

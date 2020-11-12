@@ -1,0 +1,16 @@
+name: Grimorio druídico
+card_type: Invocación
+cost: 0
+eras:
+  - IV
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Libro
+abilities:
+  - Influencia: Da +1PM permanente a tu personaje.
+passive_effect:
+quote: Como invocar entidades sobrenaturales y fabricar talismanes.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

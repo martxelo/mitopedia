@@ -1,0 +1,15 @@
+name: Rito Nocturno
+card_type: Invocación
+cost: 0
+eras:
+  - IV
+strength:
+max_pow: -3
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Destruye Rito Nocturno; agota un personaje cansado.
+passive_effect:
+quote: El poder de la noche.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
