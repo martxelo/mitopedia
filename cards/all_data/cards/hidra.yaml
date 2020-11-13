@@ -1,0 +1,16 @@
+name: Hidra
+card_type: Personaje
+cost: 20
+eras:
+  - IV
+strength: 30
+max_pow: 30
+init_pow:
+mythology: Neutral
+tags:
+  - Monstruo
+  - Único
+abilities:
+passive_effect: No puede ser descartado ni movido desde el oráculo (excepto para ponerlo en juego). Cuando entra en juego cansa todas las cartas de tu oponente.
+quote: El FIN... O quizás no.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

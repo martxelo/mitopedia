@@ -1,0 +1,18 @@
+name: Shen Long
+card_type: Personaje
+cost: 7
+eras:
+  - IV
+strength: 3
+max_pow: 9
+init_pow:
+mythology: China
+tags:
+  - Dios
+  - Dragón
+  - Trueno
+abilities:
+  - Influencia: Las acciones de otros jugadores no pueden eliminar P de tu reserva.
+passive_effect:
+quote: Señor del viento y las nubes, volaba por el cielo cambiando de color.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

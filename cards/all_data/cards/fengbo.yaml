@@ -1,0 +1,18 @@
+name: Feng Bo
+card_type: Personaje
+cost: 6
+eras:
+  - IV
+strength: 3
+max_pow: 8
+init_pow:
+mythology: China
+tags:
+  - Dios
+  - Invocador
+  - Aire
+abilities:
+  - Influencia: Da +1PM a tu personaje por cada carta con la clave Aire en esta tropa.
+passive_effect:
+quote: Controlador del Viento y ancestral enemigo de Shen Yi.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

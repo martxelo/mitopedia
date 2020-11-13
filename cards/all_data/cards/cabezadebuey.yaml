@@ -1,0 +1,15 @@
+name: Cabeza de buey
+card_type: Personaje
+cost: 1
+eras:
+  - IV
+strength: 0
+max_pow: 2
+init_pow:
+mythology: China
+tags:
+  - Invocador
+abilities:
+passive_effect: Cuando entra en juego crea un nuevo oráculo con la primera carta de uno existente, manteniendo la posición y su P si lo tuviera.
+quote: Aterradores guardias del Di Yu, siempre juntos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

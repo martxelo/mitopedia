@@ -1,0 +1,16 @@
+name: Tiy
+card_type: Personaje
+cost: 4
+eras:
+  - IV
+strength: 2
+max_pow: 4
+init_pow:
+mythology: Neutral
+tags:
+  - Heroína
+abilities:
+  - Influencia: Mueve a un personaje al campo de batalla; gana 1P.
+passive_effect:
+quote: La heroína de la mina.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

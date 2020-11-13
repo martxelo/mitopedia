@@ -1,0 +1,18 @@
+name: Hai Re
+card_type: Personaje
+cost: 6
+eras:
+  - IV
+strength: 3
+max_pow: 8
+init_pow:
+mythology: China
+tags:
+  - Dios
+  - Invocador
+  - Agua
+abilities:
+  - Enfrentamiento: Gana 1P por cada carta con la clave Agua en esta tropa.
+passive_effect:
+quote: Controlador de los mares y sus criaturas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

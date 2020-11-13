@@ -1,0 +1,16 @@
+name: Pwyll
+card_type: Personaje
+cost: 4
+eras:
+  - IV
+strength: 2
+max_pow: 4
+init_pow:
+mythology: Neutral
+tags:
+  - Héroe
+abilities:
+  - Enfrentamiento: Mueve a Pwyll y otro personaje a su panteón; gana 1P.
+passive_effect:
+quote: El héroe del Bosque.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

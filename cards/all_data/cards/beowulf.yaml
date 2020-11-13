@@ -1,0 +1,16 @@
+name: Beowulf
+card_type: Personaje
+cost: 2
+eras:
+  - IV
+strength: 0
+max_pow: 6
+init_pow:
+mythology: Neutral
+tags:
+  - Invocador
+abilities:
+  - Influencia: Destruye tu Monstruo; gana 2P en tu personaje en un oráculo o en juego.
+passive_effect: 
+quote: Sangre de su sangre.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

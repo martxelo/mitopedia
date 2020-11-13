@@ -1,0 +1,16 @@
+name: Shen Yi
+card_type: Personaje
+cost: 3
+eras:
+  - IV
+strength: 2
+max_pow: 5
+init_pow:
+mythology: China
+tags:
+  - Guardián
+abilities:
+  - Enfrentamiento: Da -1F a un personaje enemigo.
+passive_effect:
+quote: El arquero, el salvador de China.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

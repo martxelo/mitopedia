@@ -1,0 +1,15 @@
+name: Xuanzang
+card_type: Personaje
+cost: 0
+eras:
+  - IV
+strength: 0
+max_pow: 2
+init_pow:
+mythology: China
+tags:
+  - Invocadora
+abilities:
+passive_effect: Cuando entra en juego gana 1P.
+quote: Con el apoyo del emperador tradujo más de 1330 fascículos al chino.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

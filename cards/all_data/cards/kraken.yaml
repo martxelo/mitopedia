@@ -1,0 +1,16 @@
+name: Kraken
+card_type: Personaje
+cost: 4
+eras:
+  - IV
+strength: 3
+max_pow: 6
+init_pow:
+mythology: Neutral
+tags:
+  - Monstruo
+  - Agua
+abilities:
+passive_effect: Cuando entra en juego mueve al Campo de Batalla tantos personajes en juego como quieras.
+quote: La vida en el agua.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

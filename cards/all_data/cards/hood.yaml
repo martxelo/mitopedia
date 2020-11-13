@@ -1,0 +1,16 @@
+name: Hood
+card_type: Personaje
+cost: 3
+eras:
+  - IV
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Neutral
+tags:
+  - Héroe
+abilities:
+  - Enfrentamiento: Gana 1P.
+passive_effect:
+quote: El héroe del Castillo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

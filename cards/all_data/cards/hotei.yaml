@@ -1,0 +1,16 @@
+name: Hotei
+card_type: Personaje
+cost: 4
+eras:
+  - IV
+strength: 2
+max_pow: 6
+init_pow:
+mythology: China
+tags:
+  - Guardián
+abilities:
+  - Enfrentamiento: Destrúyelo; gana 4P.
+passive_effect:
+quote: Pasó la mayor parte de su vida en el monte Siming e iba a Fenghua con su saco de tela.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

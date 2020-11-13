@@ -1,0 +1,16 @@
+name: Han Xin
+card_type: Personaje
+cost: 3
+eras:
+  - IV
+strength: 1
+max_pow: 3
+init_pow:
+mythology: China
+tags:
+  - Guerrero
+abilities:
+  - Enfrentamiento: Dobla la fuerza de las armas equipadas en Han Xin.
+passive_effect:
+quote: Pareces grande y alto ¿pero cuán fuerte eres?
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

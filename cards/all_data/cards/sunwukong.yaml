@@ -1,0 +1,18 @@
+name: Sun Wukong
+card_type: Personaje
+cost: 5
+eras:
+  - IV
+strength: 3
+max_pow: 8
+init_pow:
+mythology: China
+tags:
+  - Dios
+  - Guerrero
+  - Guardián
+abilities:
+  - Enfrentamiento: Da +1F permanentemente a Sun Wukong.
+passive_effect:
+quote: Cononce 72 transformaciones, pero no logra esconder su cola.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

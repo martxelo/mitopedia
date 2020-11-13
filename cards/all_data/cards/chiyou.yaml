@@ -1,0 +1,16 @@
+name: Chi You
+card_type: Personaje
+cost: 2
+eras:
+  - IV
+strength: 1
+max_pow: 2
+init_pow:
+mythology: China
+tags:
+  - Guardián
+abilities:
+  - Influencia: Reduce en 1P el coste de los equipos con la misma clave que el personaje donde los equipas.
+passive_effect:
+quote: Inventor de las armas de metal, peleó contra Huang Di.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

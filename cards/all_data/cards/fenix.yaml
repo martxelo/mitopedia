@@ -1,0 +1,16 @@
+name: Fénix
+card_type: Personaje
+cost: 2
+eras:
+  - IV
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Neutral
+tags:
+  - Monstruo
+  - Fuego
+abilities:
+passive_effect: Cuando entra en juego elimina hasta 2P de un personaje enemigo.
+quote: La vida en el fuego.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
