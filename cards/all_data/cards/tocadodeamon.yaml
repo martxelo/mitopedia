@@ -1,0 +1,15 @@
+name: Tocado de Amón
+card_type: Equipo
+cost: 1
+eras:
+  - III
+strength: 0
+max_pow: 1
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Gana 1P en un Dios en tu oráculo
+passive_effect:
+quote: Dos largas plumas segmentadas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

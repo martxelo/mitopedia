@@ -1,0 +1,15 @@
+name: Anillo mágico
+card_type: Equipo
+cost: 1
+eras:
+  - III
+strength: 0
+max_pow: 0
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Nombra una carta; revela la primera carta de tu mazo de designios. Si es la que nombraste róbala, si no descártala.
+passive_effect:
+quote: Hogar de un genio menor.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

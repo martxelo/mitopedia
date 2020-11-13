@@ -1,0 +1,16 @@
+name: Katana
+card_type: Equipo
+cost: 2
+eras:
+  - III
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Enfrentamiento: Reduce la F de un equipo a 0.
+passive_effect: Cuesta 1P menos para Samuráis.
+quote: Para comprobar el filo dejaban caer un cabello sobre él, y debía cortarse en dos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

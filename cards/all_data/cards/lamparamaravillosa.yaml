@@ -1,0 +1,16 @@
+name: Lámpara maravillosa
+card_type: Equipo
+cost: 2
+eras:
+  - III
+strength: 0
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Persa
+abilities:
+  - Influencia: Mueve este equipo al destierro; mueve un genio del descarte al panteón y gana 3P en él. Destrúyelo al final del turno.
+passive_effect:
+quote: Necesito mi vieja lámpara de aceite.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

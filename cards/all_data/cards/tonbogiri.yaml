@@ -1,0 +1,16 @@
+name: Tonbogiri
+card_type: Equipo
+cost: 2
+eras:
+  - III
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Influencia: Cansa una invocación.
+passive_effect:
+quote: Sobre su punta aterrizó una libélula que se partió en dos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,16 @@
+name: Rubí
+card_type: Equipo
+cost: 2
+eras:
+  - III
+strength: 0
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Gema
+abilities:
+  - Enfrentamiento: Cansa un personaje enemigo con menos PM que esta tropa.
+passive_effect:
+quote: Al ponerse la capa Thiazzi se convirtió en águila.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

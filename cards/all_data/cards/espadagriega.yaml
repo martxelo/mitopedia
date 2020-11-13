@@ -1,0 +1,16 @@
+name: Espada griega
+card_type: Equipo
+cost: 1
+eras:
+  - III
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Enfrentamiento: Da +1F a esta arma si está equipada en un Héroe.
+passive_effect:
+quote: Corta, de doble filo, ideal para llevar en el escudo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

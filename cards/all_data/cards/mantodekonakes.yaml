@@ -1,0 +1,16 @@
+name: Manto de Konakes
+card_type: Equipo
+cost: 0
+eras:
+  - III
+strength: 0
+max_pow: 2
+init_pow:
+mythology:
+tags:
+  - Armadura
+abilities:
+  - Influencia: Equipa Manto de Konakes a un personaje enemigo.
+passive_effect: El personaje con este equipo no puede equiparse.
+quote: Cubre los hombros y brazos alrededor del cuerpo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

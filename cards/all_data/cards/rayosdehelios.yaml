@@ -1,0 +1,16 @@
+name: Rayos de Helios
+card_type: Equipo
+cost: 2
+eras:
+  - III
+strength: 1
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Enfrentamiento: Cansa un equipo.
+passive_effect:
+quote: Tomó uno de sus rayos y derribó al auriga...
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

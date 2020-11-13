@@ -1,0 +1,15 @@
+name: Espada curva
+card_type: Equipo
+cost: 2
+eras:
+  - III
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+passive_effect: Este personaje no puede ser cansado durante el ENFRENTAMIENTO.
+quote: De hoja curva y cruz de cortos gavilanes.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,16 @@
+name: Hanko
+card_type: Equipo
+cost: 0
+eras:
+  - III
+strength: 1
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Japonés
+abilities:
+  - Influencia: Equipa Hanko a un personaje enemigo.
+passive_effect: Al principio de la fase de INFLUENCIA cansa este personaje.
+quote: Sello sagrado ante el cual todos deben arrodillarse.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

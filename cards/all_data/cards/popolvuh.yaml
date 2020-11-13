@@ -1,0 +1,17 @@
+name: Popol Vuh
+card_type: Equipo
+cost: 3
+eras:
+  - III
+strength: 1
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Único
+  - Azteca
+abilities:
+  - Enfrentamiento: Gana 2P en tu Dios en un oráculo.
+passive_effect:
+quote: Tan vívidas son sus páginas que al leerlas se presencia la creación del mundo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

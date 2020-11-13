@@ -1,0 +1,16 @@
+name: Las mil y una noches
+card_type: Equipo
+cost: 2
+eras:
+  - III
+strength: 0
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Libro
+abilities:
+  - Influencia: Copia un armadura enemiga en juego.
+passive_effect:
+quote: Las mil y una historias de Sherezade.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

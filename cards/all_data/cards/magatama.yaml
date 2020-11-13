@@ -1,0 +1,17 @@
+name: Magatama
+card_type: Equipo
+cost: 3
+eras:
+  - III
+strength: 1
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Único
+  - Japonés
+abilities:
+  - Influencia: Este turno puedes jugar dos veces la habilidad de tu panteón.
+passive_effect:
+quote: Abalorio fúnebre digno de Shôgun, incluso de un Dios.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

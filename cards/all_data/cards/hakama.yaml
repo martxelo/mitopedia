@@ -1,0 +1,16 @@
+name: Hakama
+card_type: Equipo
+cost: 1
+eras:
+  - III
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Armadura
+abilities:
+  - Influencia: Si asignas este personaje gana 1P.
+passive_effect:
+quote: Digno atuendo de un samurái.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

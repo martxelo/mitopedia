@@ -1,0 +1,17 @@
+name: Tlahuztli
+card_type: Equipo
+cost: 2
+eras:
+  - III
+strength: 0
+max_pow: 2
+init_pow:
+mythology:
+tags:
+  - Azteca
+  - Armadura
+abilities:
+  - Influencia: Si este personaje es destruido, su controlador gana 5P.
+passive_effect:
+quote: Iba creciendo en decoro con cada prisionero hasta incluir la piel de un jaguar.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

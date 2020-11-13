@@ -1,0 +1,16 @@
+name: Cayado de Daghda
+card_type: Equipo
+cost: 2
+eras:
+  - III
+strength: 0
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Enfrentamiento: Elimina 1P de un personaje; gana 1P en tu personaje.
+passive_effect:
+quote: Soy muerte y destrucción.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

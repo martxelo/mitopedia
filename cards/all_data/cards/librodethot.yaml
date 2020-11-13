@@ -1,0 +1,18 @@
+name: Libro de Thot
+card_type: Equipo
+cost: 3
+eras:
+  - III
+strength: 1
+max_pow: 2
+init_pow:
+mythology:
+tags:
+  - Único
+  - Egipcio
+  - Libro
+abilities:
+  - Enfrentamiento: Reduce la F de un personaje a su Coste.
+passive_effect:
+quote: Contenía manuscritos sobre medicina y construcción, manual de la vida.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

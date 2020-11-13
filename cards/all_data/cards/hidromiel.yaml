@@ -1,0 +1,15 @@
+name: Hidromiel
+card_type: Equipo
+cost: 2
+eras:
+  - III
+strength: 0
+max_pow: 2
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Elimina 1P de este personaje; dale +2F.
+passive_effect:
+quote: Musa para los poetas nórdicos, arenga para sus guerreros, ambrosía para sus reyes.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

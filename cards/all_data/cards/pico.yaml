@@ -1,0 +1,16 @@
+name: Pico
+card_type: Equipo
+cost: 2
+eras:
+  - III
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Enfrentamiento: Cansa un recurso.
+passive_effect: Cuesta 1P menos para constructores.
+quote: Moldeaban la piedra para crear las más grandes maravillas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

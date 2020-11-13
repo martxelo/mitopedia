@@ -1,0 +1,17 @@
+name: Skinfaxi
+card_type: Equipo
+cost: 2
+eras:
+  - III
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Sol
+  - Carruaje
+abilities:
+  - Enfrentamiento: Gana 1P.
+passive_effect:
+quote: Huye del lobo Sköll, traición, y así arrastra el Sol por el mundo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

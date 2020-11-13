@@ -1,0 +1,17 @@
+name: Corona de Hielo
+card_type: Equipo
+cost: 3
+eras:
+  - III
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Único
+  - Nórdico
+abilities:
+  - Enfrentamiento: Gana 1P por cada carta cansada.
+passive_effect:
+quote: Farbauti no es el primer rey de Jotunheim, pero sí el más temible.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
