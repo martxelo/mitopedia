@@ -1,0 +1,16 @@
+name: Blot
+card_type: Acción
+cost: 1
+eras:
+  - I
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Elimina 1P de la reserva de cada jugador; gana 1P en tu personaje.
+passive_effect:
+quote: Sacrificio pagano a la naturaleza.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

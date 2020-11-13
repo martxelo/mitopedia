@@ -1,0 +1,15 @@
+name: Tsurara Ona
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Si tienes al menos 2 personaje Neutrales en el Campo de Batalla; gana 4P en tu personaje.
+passive_effect:
+quote: Cásate con ella.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

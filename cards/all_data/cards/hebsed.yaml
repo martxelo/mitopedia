@@ -1,0 +1,16 @@
+name: Heb Sed
+card_type: Acción
+cost: 1
+eras:
+  - I
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Da +1F a todos tus reyes y reinas.
+passive_effect:
+quote: La fiesta de la renovación real.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

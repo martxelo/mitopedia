@@ -1,0 +1,15 @@
+name: Memorias de Geb
+card_type: Acción
+cost: 1
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Gana 1P en los personajes de tu mitología.
+passive_effect:
+quote: Principio de vida y felicidad.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

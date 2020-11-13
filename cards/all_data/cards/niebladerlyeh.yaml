@@ -1,0 +1,15 @@
+name: Niebla de R´Lyeh
+card_type: Acción
+cost: 1
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Cansa un personaje.
+passive_effect:
+quote: Anula totalmente la visión y agudiza el miedo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

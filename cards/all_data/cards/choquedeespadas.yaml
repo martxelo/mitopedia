@@ -1,0 +1,15 @@
+name: Choque de espadas
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Destruye un equipo.
+passive_effect:
+quote: Y del choque de estas nació el rayo y de su estruendo en la lucha nació el trueno.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

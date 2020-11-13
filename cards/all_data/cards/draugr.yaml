@@ -1,0 +1,16 @@
+name: Draugr
+card_type: Acción
+cost: 0
+eras:
+  - I
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Nombra un personaje; elimina 1P de cada carta con ese nombre en juego.
+passive_effect:
+quote: Muerto en casa, fuera de la batalla
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

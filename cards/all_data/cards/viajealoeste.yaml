@@ -1,0 +1,15 @@
+name: Viaje al oeste
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Da +1F a tu personaje por cada muralla que controles.
+passive_effect:
+quote: Aventuras de Sun Wukong, nacido de una piedra alimentada por los Cinco Elementos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

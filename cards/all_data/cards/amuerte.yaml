@@ -1,0 +1,16 @@
+name: A muerte
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Combate
+abilities:
+  - Enfrentamiento: Inicia un Combate; el jugador que pierda elimina 2P de su reserva.
+passive_effect:
+quote: Solo puede quedar uno.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

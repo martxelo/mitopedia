@@ -1,0 +1,16 @@
+name: Aparición del Rey
+card_type: Acción
+cost: 0
+eras:
+  - I
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Cansa un personaje; gana 2P en él.
+passive_effect:
+quote: El primer día.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

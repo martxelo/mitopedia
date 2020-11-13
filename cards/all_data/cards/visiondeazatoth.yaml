@@ -1,0 +1,17 @@
+name: Visión de Azathoth
+card_type: Acción
+cost: 4
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Entorno
+  - Único
+abilities:
+  - Enfrentamiento: Elimina el texto de todas las cartas en juego.
+passive_effect:
+quote: Forma imposible de comprender para los humanos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

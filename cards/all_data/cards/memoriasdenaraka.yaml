@@ -1,0 +1,15 @@
+name: Memorias de Naraka
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Roba una carta.
+passive_effect:
+quote: Los seis reinos de existencia de mayor sufrimiento.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

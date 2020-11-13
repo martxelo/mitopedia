@@ -1,0 +1,15 @@
+name: Beso de madre Hydra
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Gana 1P en tu personaje por cada dos cartas en tu mano (redondeando hacia abajo).
+passive_effect:
+quote: Las madres se crecen con el amor de sus hijos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

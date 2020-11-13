@@ -1,0 +1,15 @@
+name: Pájaro solar
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Elimina 1P de un personaje.
+passive_effect:
+quote: La cabeza es el cielo, los ojos son el Sol, la espalda es la Luna, las alas son el viento, los pies son la Tierra y la cola son los planetas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

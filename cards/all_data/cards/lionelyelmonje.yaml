@@ -1,0 +1,16 @@
+name: Lionel y el monje
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Combate
+abilities:
+  - Enfrentamiento: Inicia un Combate; el jugador que gane agota un personaje enemigo.
+passive_effect:
+quote: Quizás fue solo un accidente
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

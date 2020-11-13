@@ -1,0 +1,15 @@
+name: Brumas de Ávalon
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Si tienes al menos 2 personajes Neutrales en el Campo de Batalla; elimina 1P de la reserva del contrario.
+passive_effect:
+quote: Pueden incluso asfixiar a los más débiles.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

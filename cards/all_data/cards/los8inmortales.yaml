@@ -1,0 +1,15 @@
+name: Los 8 inmortales
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Devuelve esta carta a tu mano desde el descarte (puede usarse desde el descarte).
+passive_effect:
+quote: Los 8 cruzaron el mar hacia el oeste, al encuentro del melocotonero de la inmortalidad.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

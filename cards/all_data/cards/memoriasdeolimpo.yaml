@@ -1,0 +1,15 @@
+name: Memorias de Olimpo
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Da +1F y gana 1P en tu personaje.
+passive_effect:
+quote: Palacios de cristal y bocados de ambrosía. El hojar de los dioses.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

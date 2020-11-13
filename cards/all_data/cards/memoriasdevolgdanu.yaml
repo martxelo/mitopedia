@@ -1,0 +1,15 @@
+name: Memorias de Volg Danu
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Mueve tu personaje cansado al Campo de Batalla; cuenta su fuerza como si estuviese preparado.
+passive_effect:
+quote: La montaña encinta.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

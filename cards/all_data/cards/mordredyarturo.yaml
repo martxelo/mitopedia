@@ -1,0 +1,16 @@
+name: Mordred y Arturo
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Combate
+abilities:
+  - Enfrentamiento: Inicia un Combate; el jugador que gane roba 2 cartas.
+passive_effect:
+quote: La Batalla de Camlann.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

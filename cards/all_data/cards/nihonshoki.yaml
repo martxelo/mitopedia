@@ -1,0 +1,16 @@
+name: Nihonshoki
+card_type: Acción
+cost: 1
+eras:
+  - I
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Nombra un personaje; cansa todas las cartas con ese nombre en juego.
+passive_effect:
+quote: Nariz grande de los tengu.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

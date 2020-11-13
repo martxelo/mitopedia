@@ -1,0 +1,15 @@
+name: Buscando el Grial
+card_type: Acción
+cost: 1
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Dobla la F de tu Arma; destrúyela al final del turno.
+passive_effect:
+quote: ¡Al límite!
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

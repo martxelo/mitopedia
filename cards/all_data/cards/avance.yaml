@@ -1,0 +1,15 @@
+name: Avance
+card_type: Acción
+cost: 1
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Mueve un personaje al campo de batalla.
+passive_effect:
+quote: ¡Cargaaaad!
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

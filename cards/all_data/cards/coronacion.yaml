@@ -1,0 +1,16 @@
+name: Coronación
+card_type: Acción
+cost: 1
+eras:
+  - I
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Da +1F a tu personaje; roba una carta.
+passive_effect:
+quote: El nacimiento de los faraones.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,15 @@
+name: Bosque infectado
+card_type: Acción
+cost: 0
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Un oponente gana 2P en su oráculo; gana 3P en tu oráculo.
+passive_effect:
+quote: Están por todos lados.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

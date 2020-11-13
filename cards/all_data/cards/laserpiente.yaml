@@ -1,0 +1,15 @@
+name: La serpiente
+card_type: Acción
+cost: 1
+eras:
+  - IV
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Destruye tu personaje; destruye un mortal con el mismo coste.
+passive_effect:
+quote: Ba She la gran serpiente que comía elefantes.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
