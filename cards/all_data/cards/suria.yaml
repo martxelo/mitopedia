@@ -1,0 +1,16 @@
+name: Suria
+card_type: Personaje
+cost: 3
+eras:
+  - I
+  - IV
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Hindú
+tags:
+abilities:
+  - Influencia: Gana 1P en tu personaje hindú por cada 10 cartas en un descarte.
+passive_effect:
+quote: El Sol como astro en la triada.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

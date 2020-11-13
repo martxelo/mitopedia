@@ -1,18 +1,18 @@
-name: Bragi
+name: Ragnar
 card_type: Personaje
-cost: 5
+cost: 3
 eras:
   - I
   - IV
-strength: 3
-max_pow: 7
+strength: 2
+max_pow: 3
 init_pow:
 mythology: Nórdica
 tags:
-  - Dios
-  - Sabio
+  - Rey
+  - Guerrero
 abilities:
-  - Influencia: Cambia el nombre de una carta en tu panteón por otra en juego.
+  - Enfrentamiento: Cansa a Ragnar; gana 2P en él.
 passive_effect:
-quote: Ameniza el Valhalla recitando versos.
+quote: Pagano y devoto de Odín.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

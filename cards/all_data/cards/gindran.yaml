@@ -1,0 +1,18 @@
+name: Gindran
+card_type: Personaje
+cost: 0
+eras:
+  - I
+  - IV
+strength: 0
+max_pow: 3
+init_pow:
+mythology: Hindú
+tags:
+  - Invocador
+  - Vidente
+  - Guerrero
+abilities:
+passive_effect:
+quote: El gran desconocido, ¿sabio o guerrero?
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

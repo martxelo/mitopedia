@@ -1,0 +1,17 @@
+name: Kaguya
+card_type: Personaje
+cost: 3
+eras:
+  - I
+  - IV
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Japonesa
+tags:
+  - Princesa
+abilities:
+  - Influencia: Agota Kaguya; gana tanto P en tu personaje como eliminaste y destruye a Kaguya.
+passive_effect:
+quote: Encontrada por el anciano que cortaba bambú.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,18 @@
+name: Gautama
+card_type: Personaje
+cost: 2
+eras:
+  - I
+  - IV
+strength: 1
+max_pow: 4
+init_pow:
+mythology: Hindú
+tags:
+  - Invocador
+  - Vidente
+abilities:
+  - Enfrentamiento: Si tu oponente tiene más de 10 cartas en su descarte de designios; gana 1P.
+passive_effect:
+quote: El despierto, el iluminado.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

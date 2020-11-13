@@ -1,4 +1,4 @@
-name: Bragi
+name: Bes
 card_type: Personaje
 cost: 5
 eras:
@@ -7,12 +7,11 @@ eras:
 strength: 3
 max_pow: 7
 init_pow:
-mythology: Nórdica
+mythology: Egipcia
 tags:
   - Dios
-  - Sabio
 abilities:
-  - Influencia: Cambia el nombre de una carta en tu panteón por otra en juego.
+  - Enfrentamiento: Crea un nuevo oráculo con un personaje o recurso de tu descarte.
 passive_effect:
-quote: Ameniza el Valhalla recitando versos.
+quote: Defensor del amor y placer sexual.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

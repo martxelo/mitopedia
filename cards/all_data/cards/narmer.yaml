@@ -1,0 +1,17 @@
+name: Narmer
+card_type: Personaje
+cost: 3
+eras:
+  - I
+  - IV
+strength: 2
+max_pow: 3
+init_pow:
+mythology: Egipcia
+tags:
+  - Rey
+abilities:
+  - Enfrentamiento: Nombra un recurso; gana 1P por cada carta en juego con ese nombre.
+passive_effect:
+quote: Unificador de los egiptos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

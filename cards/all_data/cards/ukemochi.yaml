@@ -1,0 +1,17 @@
+name: Uke-Mochi
+card_type: Personaje
+cost: 4
+eras:
+  - I
+  - IV
+strength: 2
+max_pow: 4
+init_pow:
+mythology: Japonesa
+tags:
+  - Diosa
+abilities:
+  - Influencia: Prepara un personaje que haya meditado.
+passive_effect:
+quote: Genio de la comida.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Tuertis
+card_type: Personaje
+cost: 4
+eras:
+  - I
+  - IV
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Egipcia
+tags:
+  - Diosa
+abilities:
+  - Influencia: Descarta un recurso en un oráculo.
+passive_effect:
+quote: La Grande, protectora de las embarazadas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

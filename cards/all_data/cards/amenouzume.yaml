@@ -1,4 +1,4 @@
-name: Bragi
+name: Ame-No-Uzume
 card_type: Personaje
 cost: 5
 eras:
@@ -7,12 +7,11 @@ eras:
 strength: 3
 max_pow: 7
 init_pow:
-mythology: Nórdica
+mythology: Japonesa
 tags:
-  - Dios
-  - Sabio
+  - Diosa
 abilities:
-  - Influencia: Cambia el nombre de una carta en tu panteón por otra en juego.
+  - Enfrentamiento: Nombra un personaje; elimina 1P de cada carta con ese nombre.
 passive_effect:
-quote: Ameniza el Valhalla recitando versos.
+quote: Felicidad, fertilidad y danza.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
