@@ -1,0 +1,17 @@
+name: La pócima de Gakoendra
+card_type: Invocación
+cost: 0
+eras:
+  - III
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Deseo
+  - Invocación
+abilities:
+  - Influencia: Destruye esta carta; da +1F y gana 1P en este personaje.
+passive_effect:
+quote: Sume al que la forma en un frenesí guerrero y le da la fuerza de un dios.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

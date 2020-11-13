@@ -1,0 +1,17 @@
+name: Senmurv
+card_type: Invocación
+cost: 0
+eras:
+  - III
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Deseo
+  - Invocación
+abilities:
+  - Enfrentamiento: Cansa un recurso.
+passive_effect:
+quote: La gran ave hablaba y cada uno, un discurso diferente escuchaba.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

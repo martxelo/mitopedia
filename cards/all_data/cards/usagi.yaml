@@ -1,0 +1,17 @@
+name: Usagi
+card_type: Invocación
+cost: 0
+eras:
+  - III
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Espíritu
+  - Único
+abilities:
+  - Enfrentamiento: Gana 1P en dos de tus personajes.
+passive_effect:
+quote: Veloz como una liebre, alerta como un conejo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

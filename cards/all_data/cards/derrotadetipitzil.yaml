@@ -1,0 +1,17 @@
+name: Derrota de Ti Pitzil
+card_type: Invocación
+cost: 0
+eras:
+  - III
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Sacrificio
+  - Único
+abilities:
+  - Influencia: Destruye tu mortal y Derrota de Ti Pitzil; gana 1P en todos tus personajes.
+passive_effect:
+quote: ¡Vuelve a haber carne fresca en el menú, chicos!
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

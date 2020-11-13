@@ -1,0 +1,17 @@
+name: Mujina
+card_type: Invocación
+cost: 0
+eras:
+  - III
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Espíritu
+  - Único
+abilities:
+  - Enfrentamiento: Elige un mortal no creado; no puede ser destruido este turno.
+passive_effect:
+quote: El tejón es una de las formas que puede tomar un yokai para confundir a los hombres.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

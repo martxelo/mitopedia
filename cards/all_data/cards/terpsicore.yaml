@@ -1,0 +1,17 @@
+name: Terpsicore
+card_type: Invocación
+cost: 0
+eras:
+  - III
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Musa
+  - Única
+abilities:
+  - Enfrentamiento: Mueve tu Dios del panteón al campo de batalla.
+passive_effect:
+quote: Musa de la danza, la poesía ligera y la coral.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

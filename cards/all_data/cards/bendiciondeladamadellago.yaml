@@ -1,0 +1,16 @@
+name: Bendición de la Dama del Lago
+card_type: Invocación
+cost: 0
+eras:
+  - III
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Bendición
+abilities:
+  - Influencia: Elige una tropa; no se pueden destruir ninguna de sus cartas.
+passive_effect:
+quote: Del lago salió una dama empuñando la Espada.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

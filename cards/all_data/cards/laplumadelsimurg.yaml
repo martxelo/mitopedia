@@ -1,0 +1,17 @@
+name: La pluma del Simurg
+card_type: Invocación
+cost: 0
+eras:
+  - III
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Deseo
+  - Invocación
+abilities:
+  - Enfrentamiento: Destruye esta carta; gana 2P en tu personaje agotado.
+passive_effect:
+quote: Regalo del ave al héroe Zal, con ella podía invocarla para ayudarle en lo que quisiera.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

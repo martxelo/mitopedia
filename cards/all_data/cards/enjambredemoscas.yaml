@@ -1,0 +1,17 @@
+name: Enjambre de moscas
+card_type: Invocación
+cost: 0
+eras:
+  - III
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Plaga
+  - Única
+abilities:
+  - Influencia: Elige un personaje mortal; no puede ser asignado al campo de batalla.
+passive_effect: Solo se puede equipar a un Dios.
+quote: Las moscas cubrirán el suelo y la piel de tus hombres y tus oficiales.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

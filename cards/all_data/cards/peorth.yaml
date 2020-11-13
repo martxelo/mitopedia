@@ -1,0 +1,17 @@
+name: Peorth
+card_type: Invocación
+cost: 0
+eras:
+  - III
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Runa
+  - Única
+abilities:
+  - Enfrentamiento: Da +1F permanente a un personaje.
+passive_effect:
+quote: La runa de Tyr y la victoria en batalla.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

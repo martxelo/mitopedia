@@ -1,0 +1,17 @@
+name: Mosquitos, piojos y pulgas
+card_type: Invocación
+cost: 0
+eras:
+  - III
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Plaga
+  - Única
+abilities:
+  - Influencia: Reduce el P de un personaje a su Coste.
+passive_effect:
+quote: Golpea el suelo y que el polvo se convierta en pulgas, piojos y mosquitos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

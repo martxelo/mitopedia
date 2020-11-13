@@ -1,0 +1,17 @@
+name: Uruz
+card_type: Invocación
+cost: 0
+eras:
+  - III
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Runa
+  - Única
+abilities:
+  - Enfrentamiento: Cansa todos los equipos de una tropa.
+passive_effect:
+quote: La runa del Uro, simbolizando el poder, la fuerza bruta y la virilidad.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

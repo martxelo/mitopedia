@@ -1,0 +1,16 @@
+name: Epopeya de Gilgamesh
+card_type: Invocación
+cost: 0
+eras:
+  - III
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Leyenda
+abilities:
+  - Influencia: Gana 1P en tu personaje en el campo de batalla.
+passive_effect: Da la clave Dios a este personaje.
+quote: La desesperada búsqueda de la inmortalidad.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

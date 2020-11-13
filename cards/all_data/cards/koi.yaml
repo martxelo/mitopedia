@@ -1,0 +1,17 @@
+name: Koi
+card_type: Invocación
+cost: 0
+eras:
+  - III
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Espíritu
+  - Único
+abilities:
+  - Enfrentamiento: Gana 1P en tu reserva y 1P en tu personaje.
+passive_effect:
+quote: A veces, cuanto más inofensiva parece una criatura, más magia guarda en su interior.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

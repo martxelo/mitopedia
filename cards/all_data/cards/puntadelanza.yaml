@@ -1,0 +1,15 @@
+name: Punta de lanza
+card_type: Invocación
+cost: 0
+eras:
+  - III
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Bendición
+abilities:
+passive_effect: Cuenta la fuerza completa de esta tropa aunque este personaje esté cansado.
+quote: Tan afilada como la mejor espada.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

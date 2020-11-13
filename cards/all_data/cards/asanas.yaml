@@ -1,0 +1,16 @@
+name: Asanas
+card_type: Invocación
+cost: 0
+eras:
+  - III
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Bendición
+abilities:
+  - Enfrentamiento: Prepara tu personaje hundú.
+passive_effect:
+quote: Diálogo íntimo y silencioso con el propio cuerpo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

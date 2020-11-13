@@ -1,0 +1,16 @@
+name: Sacrificio de Dumuzi
+card_type: Invocación
+cost: 0
+eras:
+  - III
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Leyenda
+abilities:
+  - Influencia: Da +1F a tu personaje en el campo de batalla.
+passive_effect: Da la clave Demonio a este personaje.
+quote: El pastor al que las gentes lloran cada primavera.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
