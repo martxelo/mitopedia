@@ -1,0 +1,17 @@
+name: Cthuga
+card_type: Personaje
+cost: 7
+eras:
+  - IV
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Dios
+  - Primigenio
+abilities:
+  - Influencia: Descarta una carta al azar de la mano de un oponente.
+passive_effect:
+quote: Algo terrible llegó a las colinas y valles con aquel meteoro.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

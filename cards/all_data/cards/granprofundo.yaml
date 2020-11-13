@@ -1,0 +1,16 @@
+name: Gran Profundo
+card_type: Personaje
+cost: 3
+eras:
+  - IV
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Profundo
+abilities:
+  - Enfrentamiento: Da +1F a Gran Profundo por cada carta en tu mano menos el número de cartas de tu oponente.
+passive_effect:
+quote: Ghnan Izhe Yuntan.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

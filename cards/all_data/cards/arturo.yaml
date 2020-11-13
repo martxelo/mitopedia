@@ -1,0 +1,17 @@
+name: Arturo
+card_type: Personaje
+cost: 4
+eras:
+  - IV
+strength: 2
+max_pow: 5
+init_pow:
+mythology: Celta
+tags:
+  - Caballero
+  - Rey
+abilities:
+  - Influencia: Da +1F permanentemente a tu Caballero.
+passive_effect:
+quote: Caballero igual a los suyos en la mesa redonda.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

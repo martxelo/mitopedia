@@ -1,0 +1,18 @@
+name: La Mujer Abotargada
+card_type: Personaje
+cost: 6
+eras:
+  - IV
+strength: 3
+max_pow: 8
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Dios
+  - Primigenio
+  - Máscara
+abilities:
+  - Influencia: Cansa X de tus Máscaras; da +3F a una Máscara por cada una que cansaste.
+passive_effect:
+quote: ... en el castillo de ónice que hay encima de Ignota Kadath...
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

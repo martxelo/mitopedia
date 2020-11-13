@@ -1,0 +1,18 @@
+name: Hydra
+card_type: Personaje
+cost: 4
+eras:
+  - IV
+strength: 3
+max_pow: 6
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Profundo
+  - Único
+  - Guerrero
+abilities:
+  - Enfrentamiento: Gana 1P en Hydra por cada dos cartas en tu mano (redondeando hacia abajo).
+passive_effect:
+quote: La madre de los mares.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

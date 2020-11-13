@@ -1,0 +1,17 @@
+name: Kilgarah
+card_type: Personaje
+cost: 4
+eras:
+  - IV
+strength: 2
+max_pow: 4
+init_pow:
+mythology: Celta
+tags:
+  - Monstruo
+  - Dragón
+  - Fuego
+abilities:
+passive_effect: Al principio de la fase de INFLUENCIA reduce permanentemente en 1 el Coste de un Dragón en tu oráculo.
+quote: Uther encontró el último y más poderoso.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

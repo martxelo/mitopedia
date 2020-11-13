@@ -1,0 +1,18 @@
+name: El Caos Reptante
+card_type: Personaje
+cost: 6
+eras:
+  - IV
+strength: 3
+max_pow: 8
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Dios
+  - Primigenio
+  - Máscara
+abilities:
+  - Influencia: Cansa X de tus Máscaras; gana 3P en una Máscara por cada una que cansaste.
+passive_effect:
+quote: Entró con paso enérgico y gesto amenazador...
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

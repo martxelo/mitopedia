@@ -1,0 +1,17 @@
+name: Morgause
+card_type: Personaje
+cost: 1
+eras:
+  - IV
+strength: 1
+max_pow: 1
+init_pow:
+mythology: Celta
+tags:
+  - Invocadora
+  - Druida
+abilities:
+  - Enfrentamiento: Dale -1PM permanentemente (mínimo 0); da +1F permanente a tu personaje.
+passive_effect:
+quote: Medio hermana de Arturo y mujer de su enemigo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

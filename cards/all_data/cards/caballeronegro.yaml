@@ -1,0 +1,15 @@
+name: Caballero negro
+card_type: Personaje
+cost: 4
+eras:
+  - IV
+strength: 2
+max_pow: 5
+init_pow:
+mythology: Celta
+tags:
+  - Caballero
+abilities:
+passive_effect: La primera vez del turno que juegues un Combate cansa un personaje en el Campo de Batalla.
+quote: Su espada embrujada abre puertas a otras dimensiones.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

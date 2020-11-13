@@ -1,0 +1,15 @@
+name: Ginebra
+card_type: Personaje
+cost: 2
+eras:
+  - IV
+strength: 1
+max_pow: 4
+init_pow:
+mythology: Celta
+tags:
+  - Reina
+abilities:
+passive_effect: Cuando entra en juego roba un Combate de tu descarte.
+quote: Iracundo y forzudo, una vez venció a 30 caballeros.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

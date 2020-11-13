@@ -1,0 +1,17 @@
+name: Morgana
+card_type: Personaje
+cost: 2
+eras:
+  - IV
+strength: 2
+max_pow: 2
+init_pow:
+mythology: Celta
+tags:
+  - Invocadora
+  - Druida
+abilities:
+  - Enfrentamiento: Dale -1PM permanentemente (mínimo 0); da +2PM permanentemente a tu personaje.
+passive_effect:
+quote: La mayor de las nueve hermanas que gobiernan Ávalon.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

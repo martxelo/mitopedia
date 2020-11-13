@@ -1,0 +1,16 @@
+name: Bors
+card_type: Personaje
+cost: 4
+eras:
+  - IV
+strength: 2
+max_pow: 5
+init_pow:
+mythology: Celta
+tags:
+  - Caballero
+abilities:
+  - Enfrentamiento: Mira una carta de tu mazo de designios; si es un Combate róbala, si no puedes ponerla debajo.
+passive_effect:
+quote: La Dama no lo considera merecedor del Grial.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

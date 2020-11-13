@@ -1,0 +1,17 @@
+name: Mordred
+card_type: Personaje
+cost: 2
+eras:
+  - IV
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Celta
+tags:
+  - Invocador
+  - Druida
+abilities:
+  - Enfrentamiento: Dale -1PM permanentemente (mínimo 0); prepáralo. (Puede usarse cansado)
+passive_effect:
+quote: Su nomre es sinónimo de traición.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,16 @@
+name: Wakalea
+card_type: Personaje
+cost: 1
+eras:
+  - IV
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Invocador
+  - Chamán
+abilities:
+passive_effect: Cuando entra en juego gana 1P en un Primigenio en tu oráculo.
+quote: El chamán de una tribu indígena de la isla de Ponape.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

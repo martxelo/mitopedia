@@ -1,0 +1,17 @@
+name: Cthulhu
+card_type: Personaje
+cost: 8
+eras:
+  - IV
+strength: 5
+max_pow: 9
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Dios
+  - Primigenio
+abilities:
+  - Influencia: Descarta una carta; agota un personaje.
+passive_effect:
+quote: Duerme bajo el mar.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
