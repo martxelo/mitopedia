@@ -1,0 +1,17 @@
+name: Watatsumi
+card_type: Personaje
+cost: 7
+eras:
+  - III
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Japonesa
+tags:
+  - Dragón
+  - Dios
+  - Agua
+abilities:
+passive_effect: Las acciones de otros jugadores no pueden mover a tus Dragones.
+quote: Amo de las Mareas y Señor del Mar, controla todo ser que nade en él.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

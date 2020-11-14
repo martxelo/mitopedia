@@ -1,0 +1,16 @@
+name: Miyamoto Musashi
+card_type: Personaje
+cost: 4
+eras:
+  - III
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Japonesa
+tags:
+  - Samurai
+abilities:
+  - Enfrentamiento: Da +1F a Miyamoto Musashi por cada arma equipada en él.
+passive_effect: Puede llevar dos armas.
+quote: Es imprescindible dominar el arte de la guerra y permanecer como un espíritu inmutable.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

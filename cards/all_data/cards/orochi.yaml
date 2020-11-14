@@ -1,0 +1,17 @@
+name: Orochi
+card_type: Personaje
+cost: 7
+eras:
+  - III
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Japonesa
+tags:
+  - Criatura
+  - Dios
+abilities:
+  - Enfrentamiento: Destruye un recurso.
+passive_effect:
+quote: Ocho vírgenes para las ocho cabezas del terrible Dios Serpiente.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

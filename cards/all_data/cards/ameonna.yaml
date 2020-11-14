@@ -1,0 +1,16 @@
+name: Ame-Onna
+card_type: Personaje
+cost: 4
+eras:
+  - III
+strength: 3
+max_pow: 6
+init_pow:
+mythology: Japonesa
+tags:
+  - Yokai
+abilities:
+  - Enfrentamiento: Reduce a 0 la fuerza de un equipo.
+passive_effect:
+quote: Traigo la lluvia y me llevo tu retoño. ¡Temed el paraguas negro!
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

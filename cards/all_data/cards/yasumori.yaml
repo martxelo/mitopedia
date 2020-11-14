@@ -1,0 +1,15 @@
+name: Yasumori
+card_type: Personaje
+cost: 0
+eras:
+  - III
+strength: 0
+max_pow: 2
+init_pow:
+mythology: Japonesa
+tags:
+  - Invocador
+abilities:
+passive_effect:
+quote: Maestro Onmoji, exorcizaba desde los 10 años.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

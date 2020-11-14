@@ -1,0 +1,16 @@
+name: Kuchisake Onna
+card_type: Personaje
+cost: 2
+eras:
+  - III
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Japonesa
+tags:
+  - Yokai
+abilities:
+  - Enfrentamiento: Crea un oráculo con un personaje de tu descarte.
+passive_effect:
+quote: Si te pregunta si es hermosa, no importa lo que digas, te despedazará.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

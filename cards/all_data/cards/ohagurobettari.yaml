@@ -1,0 +1,16 @@
+name: Ohaguro-Bettari
+card_type: Personaje
+cost: 4
+eras:
+  - III
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Japonesa
+tags:
+  - Yokai
+abilities:
+  - Enfrentamiento: Gana 1P en un personaje japonés.
+passive_effect:
+quote: Bella dama en kimono nupcial, hasta que se gira y ves su rostro y enorme boca negra.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Kagutsuchi
+card_type: Personaje
+cost: 5
+eras:
+  - III
+strength: 2
+max_pow: 7
+init_pow:
+mythology: Japonesa
+tags:
+  - Diosa
+  - Fuego
+abilities:
+  - Enfrentamiento: Elimina 2P de un personaje enemigo; gana 2P en este personaje.
+passive_effect:
+quote: Al nacer quemó a Izanami, e Izanagi iracundo la partió en dos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
