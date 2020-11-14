@@ -1,0 +1,16 @@
+name: Legio VI Ferrata
+card_type: Personaje
+cost: 2
+eras:
+  - III
+strength: 1
+max_pow: 2
+init_pow:
+mythology: Romana
+tags:
+  - Soldado
+  - Cohorte
+abilities:
+passive_effect:
+quote: Permaneció al menos dos siglos en Judea.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

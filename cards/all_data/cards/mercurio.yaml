@@ -1,0 +1,16 @@
+name: Mercurio
+card_type: Personaje
+cost: 5
+eras:
+  - III
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Romana
+tags:
+  - Dios
+abilities:
+  - Enfrentamiento: Gana 1P por cada uno de tus Dioses en el campo de Batalla.
+passive_effect:
+quote: A menudo iba acompañado de un gallo, una cabra o un cordero.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

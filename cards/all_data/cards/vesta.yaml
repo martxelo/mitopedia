@@ -1,0 +1,17 @@
+name: Vesta
+card_type: Personaje
+cost: 6
+eras:
+  - III
+strength: 3
+max_pow: 8
+init_pow:
+mythology: Romana
+tags:
+  - Diosa
+  - Fuego
+abilities:
+  - Enfrentamiento: Elimina hasta 2P de un personaje enemigo.
+passive_effect:
+quote: El arte de mantener el fuego en el hogar.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

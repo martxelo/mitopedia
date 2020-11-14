@@ -1,0 +1,16 @@
+name: XX Valeria Victrix
+card_type: Personaje
+cost: 3
+eras:
+  - III
+strength: 2
+max_pow: 5
+init_pow:
+mythology: Romana
+tags:
+  - Soldado
+  - Manípulo
+abilities:
+passive_effect: Reduce en 1P el coste de equipar armas en este personaje.
+quote: Participó en la campaña contra los cántabros.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

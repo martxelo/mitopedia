@@ -1,0 +1,17 @@
+name: Jano
+card_type: Personaje
+cost: 7
+eras:
+  - III
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Romana
+tags:
+  - Dios
+  - Agua
+abilities:
+  - Enfrentamiento: Mueve un personaje a su panteón.
+passive_effect:
+quote: Dios del inicio y el final.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

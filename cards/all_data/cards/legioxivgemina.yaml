@@ -1,0 +1,17 @@
+name: Legio XIV Gemina
+card_type: Personaje
+cost: 4
+eras:
+  - III
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Romana
+tags:
+  - Soldado
+  - Centuria
+abilities:
+  - Influencia: Tus Soldados romanos no pueden ser destruidos por acciones de otros jugadores.
+passive_effect:
+quote: Responsables de la conquista romana de Britania.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

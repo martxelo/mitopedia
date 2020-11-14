@@ -1,0 +1,16 @@
+name: Centurión
+card_type: Personaje
+cost: 5
+eras:
+  - III
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Romana
+tags:
+  - Soldado
+abilities:
+  - Enfrentamiento: Mueve un personaje de tu mitología a un campo de batalla.
+passive_effect:
+quote: Comandante de centuria, la espina dorsal de las legiones.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

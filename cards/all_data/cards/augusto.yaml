@@ -1,0 +1,16 @@
+name: Augusto
+card_type: Personaje
+cost: 2
+eras:
+  - III
+strength: 0
+max_pow: 2
+init_pow:
+mythology: Romana
+tags:
+  - Senador
+abilities:
+  - Influencia: Anula los efectos de la próxima acción de INFLUENCIA.
+passive_effect:
+quote: El primer emperador.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

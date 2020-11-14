@@ -1,0 +1,17 @@
+name: Venus
+card_type: Personaje
+cost: 3
+eras:
+  - III
+strength: 0
+max_pow: 5
+init_pow:
+mythology: Romana
+tags:
+  - Diosa
+  - Invocadora
+abilities:
+  - Influencia: Cambia la mitología de un personaje por la de otro personaje en juego hasta la próxima fase de INFLUENCIA.
+passive_effect:
+quote: Comparte con Afrodita el mito de la manzana.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

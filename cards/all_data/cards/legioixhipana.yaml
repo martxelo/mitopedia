@@ -1,0 +1,17 @@
+name: Legio IX Hispana
+card_type: Personaje
+cost: 5
+eras:
+  - III
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Romana
+tags:
+  - Soldado
+  - Legión
+abilities:
+  - Influencia: Gana 1P en un recurso en tu oráculo.
+passive_effect:
+quote: Probablemente su estandarte fuera un toro.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

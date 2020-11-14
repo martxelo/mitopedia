@@ -1,0 +1,17 @@
+name: Saturno
+card_type: Personaje
+cost: 6
+eras:
+  - III
+strength: 3
+max_pow: 8
+init_pow:
+mythology: Romana
+tags:
+  - Dios
+  - Tiempo
+abilities:
+  - Enfrentamiento: Todos los jugadores pueden jugar un máximo de dos acciones este ENFRENTAMIENTO.
+passive_effect:
+quote: Devoraba a sus hijos porque no podía criarlos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

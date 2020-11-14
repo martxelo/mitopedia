@@ -1,0 +1,16 @@
+name: Ceres
+card_type: Personaje
+cost: 4
+eras:
+  - III
+strength: 0
+max_pow: 6
+init_pow:
+mythology: Romana
+tags:
+  - Diosa
+abilities:
+  - Enfrentamiento: Elige una tropa; su personaje aporta 0 fuerza este turno.
+passive_effect:
+quote: Da nombre a los cereales.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

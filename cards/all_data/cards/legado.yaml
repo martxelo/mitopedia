@@ -1,0 +1,16 @@
+name: Legado
+card_type: Personaje
+cost: 4
+eras:
+  - III
+strength: 3
+max_pow: 4
+init_pow:
+mythology: Romana
+tags:
+  - Soldado
+abilities:
+  - Influencia: Mueve un equipo de uno de tus personajes a otro. (Debes cumplir las reglas de equipar).
+passive_effect:
+quote: General romano de rango senatorial.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

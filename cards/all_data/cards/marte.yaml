@@ -1,0 +1,17 @@
+name: Marte
+card_type: Personaje
+cost: 6
+eras:
+  - III
+strength: 4
+max_pow: 8
+init_pow:
+mythology: Romana
+tags:
+  - Dios
+  - Guerrero
+abilities:
+  - Enfrentamiento: Da +1F a tus Soldados.
+passive_effect:
+quote: Fue identificado erróneamente como Ares el griego.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

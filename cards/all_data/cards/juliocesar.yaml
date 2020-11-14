@@ -1,0 +1,17 @@
+name: Julio César
+card_type: Personaje
+cost: 3
+eras:
+  - III
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Romana
+tags:
+  - Senador
+  - Soldado
+abilities:
+  - Influencia: Gana 1P en Julio César por cada Soldado en tu panteón. (Máximo 3).
+passive_effect:
+quote: Destacó, entre otras cosas, como literario excepcional.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

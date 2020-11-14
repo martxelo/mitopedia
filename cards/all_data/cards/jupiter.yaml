@@ -1,0 +1,17 @@
+name: Júpiter
+card_type: Personaje
+cost: 8
+eras:
+  - III
+strength: 5
+max_pow: 9
+init_pow:
+mythology: Romana
+tags:
+  - Dios
+  - Rayo
+abilities:
+  - Influencia: Cansa dos personajes con mitologías distintas.
+passive_effect:
+quote: Padre de los dioses y hombres por igual.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
