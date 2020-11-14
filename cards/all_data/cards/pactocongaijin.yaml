@@ -1,0 +1,14 @@
+name: Pacto con Gaijin
+card_type: Evento
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Elimina el texto de dos personajes que pertenezcan a mitologías diferentes.
+quote: Amaterasu no cuenta contigo, O'Tengu, pero yo tengo un plan plan- M.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

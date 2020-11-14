@@ -1,0 +1,14 @@
+name: Calan Gaeaf
+card_type: Evento
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Descarta sin efecto los dos próximos eventos que se revelen hasta el final de la partida.
+quote: El primer día del invierno en Gales.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

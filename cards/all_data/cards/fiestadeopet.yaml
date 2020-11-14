@@ -1,0 +1,15 @@
+name: Fiesta de Opet
+card_type: Evento
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Festival
+abilities:
+passive_effect: Reduce en 2 el coste de tus Dioses en juego y en oráculos este turno.
+quote: El más bello de los festivales egipcios, reafirmaba los lazos entre Amón-Ra y el Faraón.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

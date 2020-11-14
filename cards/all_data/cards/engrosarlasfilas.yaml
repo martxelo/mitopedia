@@ -1,0 +1,14 @@
+name: Engrosar las filas
+card_type: Evento
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Después de revelar tus oráculos gana 1P sobre cada personaje en revelado en tus oráculos.
+quote: Zeus había cumplido su palabra. Los hindúes se unieron a los demás frente a la hueste primiegenia.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

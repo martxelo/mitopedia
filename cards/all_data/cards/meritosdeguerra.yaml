@@ -1,0 +1,14 @@
+name: Méritos de guerra
+card_type: Evento
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Da permanentemente +1F y la clave Dios a un personaje.
+quote: Solo si capturas y sacrificas 100.000 prisioneros serás recompensado por Huitzilopotchli.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

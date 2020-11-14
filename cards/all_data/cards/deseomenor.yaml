@@ -1,0 +1,14 @@
+name: Deseo menor
+card_type: Evento
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Reordena este oráculo.
+quote: Algo deseado, apenas codiciado.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

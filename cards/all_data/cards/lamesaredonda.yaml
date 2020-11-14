@@ -1,0 +1,14 @@
+name: La mesa redonda
+card_type: Evento
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Anula los efectos de la primera acción de INFLUENCIA este turno.
+quote: No hay lugar privilegiado en una mesa redonda.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

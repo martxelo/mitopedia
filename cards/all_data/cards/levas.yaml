@@ -1,0 +1,14 @@
+name: Levas
+card_type: Evento
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Elige un personaje y cambia su mitología por la de tu panteón permanentemente.
+quote: En caso de guerra todo hombre es soldado.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,14 @@
+name: Batalla de Salambina
+card_type: Evento
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Hasta el final de la partida, puedes pagar equipos restando PM permanentemente del personaje que se equipe igual al coste del equipo.
+quote: Aquí luchó el ejército más numeroso jamás conocido.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

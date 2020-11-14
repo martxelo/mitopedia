@@ -1,0 +1,15 @@
+name: Kodomo No Hi
+card_type: Evento
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Festival
+abilities:
+passive_effect: Después de revelar tus oráculos descarta X cartas de tu mano; gana XP en tu personaje en un oráculo.
+quote: La familias izan cometas koinobori en forma de carpa, una por cada niño.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

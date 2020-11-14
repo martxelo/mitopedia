@@ -1,0 +1,15 @@
+name: Orgías de Inanna
+card_type: Evento
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Festival
+abilities:
+passive_effect: Da +2F a tu personaje y si está en el campo de batalla gana 2P en él.
+quote: Amor y fertilidad, el punto fuerte de Inanna.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,14 @@
+name: Maldición de Akván
+card_type: Evento
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Hasta el final de la partida, si algún jugador se queda sin mazo de designios pierde la partida.
+quote: Su propio nombre indica mala intención.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

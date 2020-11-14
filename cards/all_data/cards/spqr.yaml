@@ -1,0 +1,14 @@
+name: S.P.Q.R.
+card_type: Evento
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Si no se ha resuelto S.P.Q.R este turno, después de esta TRANSFERENCIA cambia el jugador inicial y comienza una nueva TRANSFERENCIA.
+quote: Senātus Populusque Rōmānus.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

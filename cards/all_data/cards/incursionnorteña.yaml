@@ -1,0 +1,14 @@
+name: Incursión norteña
+card_type: Evento
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Cada jugador escoge una mitología; sólo puede asignar personajes de esa mitología.
+quote: He aquí que me llaman. Me piden que ocupe mi lugar entre ellos, en los salones de Valhalla...
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

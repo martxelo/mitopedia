@@ -1,0 +1,14 @@
+name: Explosión del Tártaro
+card_type: Evento
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Destruye un recurso.
+quote: El último gran cataclismo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

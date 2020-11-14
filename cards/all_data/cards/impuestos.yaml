@@ -1,0 +1,14 @@
+name: Impuestos
+card_type: Evento
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Elimina hasta 4P de tus personajes; gánalos en tu reserva.
+quote: La obligación de todo ciudadano.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

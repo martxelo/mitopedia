@@ -1,0 +1,14 @@
+name: Saqueo del Imperio
+card_type: Evento
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Cansa todos los mortales con mitología distinta al panteón de su controlador.
+quote: Ocho saqueos en más de un milenio no es mucho.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

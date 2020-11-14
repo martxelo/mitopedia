@@ -1,0 +1,14 @@
+name: El Zoroastro
+card_type: Evento
+cost:
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Crea un nuevo oráculo con un recurso o personaje de tu descarte.
+quote: Se sabe poco o nada de él de manera directa.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
