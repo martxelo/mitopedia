@@ -1,0 +1,17 @@
+name: Xiuhcoatl
+card_type: Personaje
+cost: 7
+eras:
+  - III
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Azteca
+tags:
+  - Dragón
+  - Dios
+  - Fuego
+abilities:
+passive_effect: Las acciones de otros jugadores no pueden eliminar P de tus Dragones.
+quote: El arma más poderosa de Huitzilopochtli.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

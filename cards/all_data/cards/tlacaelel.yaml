@@ -1,0 +1,15 @@
+name: Tlacaelel
+card_type: Personaje
+cost: 3
+eras:
+  - III
+strength: 2
+max_pow: 5
+init_pow:
+mythology: Azteca
+tags:
+  - Invocador
+abilities:
+passive_effect: Cuando Tlacaelel entra en juego crea un personaje (Guerrero 1F/0C/2PM/1P).
+quote: Líder espiritual y guerrero de la Triple Alianza, reformador de la teología mexica.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

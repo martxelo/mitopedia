@@ -1,0 +1,17 @@
+name: Moquihuix
+card_type: Personaje
+cost: 0
+eras:
+  - III
+strength: 1
+max_pow: 2
+init_pow:
+mythology: Azteca
+tags:
+  - Guerrero
+  - Rey
+abilities:
+  - Influencia: Da el control permanente de Moquihuix a otro jugador.
+passive_effect: Al final de la fase de INFLUENCIA pierdes 1P.
+quote: El último Tlaotani.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

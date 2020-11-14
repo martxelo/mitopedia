@@ -1,0 +1,16 @@
+name: Zipacná
+card_type: Personaje
+cost: 3
+eras:
+  - III
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Azteca
+tags:
+  - Invocador
+  - Tierra
+abilities:
+passive_effect: Da +2F a Zipacná si es el primer personaje en asignarse.
+quote: Inmensamente fuerte, alardeaba de haber creado más de mil montañas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

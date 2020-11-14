@@ -1,0 +1,17 @@
+name: Axayacatl
+card_type: Personaje
+cost: 3
+eras:
+  - III
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Azteca
+tags:
+  - Guerrero
+  - Rey
+abilities:
+  - Influencia: Tus Guerreros no pueden ser destruidos por acciones de otros jugadores.
+passive_effect:
+quote: El último Tlaotani conquistador, padre de Moctezuma II.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

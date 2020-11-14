@@ -1,0 +1,16 @@
+name: Ahuízotl
+card_type: Personaje
+cost: 2
+eras:
+  - III
+strength: 1
+max_pow: 2
+init_pow:
+mythology: Azteca
+tags:
+  - Guerrero
+abilities:
+  - Enfrentamiento: Destruye Ahuízotl; tu mortal agotado gana tanto P como sea necesario para llegar a su PM.
+passive_effect:
+quote: Tlatoani, Rey Guerrero, inspiraba a sus hombres con palabras y gestas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

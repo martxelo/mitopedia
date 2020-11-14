@@ -1,0 +1,18 @@
+name: Ixchel
+card_type: Personaje
+cost: 6
+eras:
+  - III
+strength: 3
+max_pow: 8
+init_pow:
+mythology: Azteca
+tags:
+  - Diosa
+  - Luna
+  - Invocadora
+abilities:
+  - Enfrentamiento: Elimina 1P de Ixchel; mueve un mortal de tu descarte al campo de batalla y gana 1P en él.
+passive_effect:
+quote: Mujer de Itzamná, diosa del amor, la fertilidad y la Luna.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
