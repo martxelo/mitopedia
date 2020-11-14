@@ -1,0 +1,15 @@
+name: Ariete
+card_type: Recurso
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Cansa Ariete; elimina todos los penalizadores de una tropa.
+passive_effect:
+quote: ¡Esos son hombres valientes atacando nuestra puerta, vamos a matarlos!
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

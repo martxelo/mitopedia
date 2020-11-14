@@ -1,16 +1,15 @@
-name: Norna
+name: Cornucopia
 card_type: Recurso
 cost: 2
 eras:
-  - I
+  - III
 strength:
 max_pow:
 init_pow:
 mythology:
 tags:
-  - Vidente
 abilities:
-  - Influencia: Cansa Norna; roba una carta.
+  - Influencia: Cansa Cornucopia; da +1F permanente a tu personaje.
 passive_effect:
-quote: Lo que ha ocurrido, lo que ocurre ahora y lo que debería suceder.
+quote: Cuerno de la abundancia de la cabra marina Amaltea, nodriza del infante Zeus.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

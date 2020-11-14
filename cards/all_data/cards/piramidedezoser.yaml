@@ -1,0 +1,17 @@
+name: Pirámide de Zoser
+card_type: Recurso
+cost: 3
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Único
+  - Egipcio
+abilities:
+  - Influencia: Da +2 o -2 Coste a un personaje en el oráculo o panteón hasta el inicio de la próxima INFLUENCIA.
+passive_effect:
+quote: Dyeser, la más sagrada, construida por el propio Imhotep.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

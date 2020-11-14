@@ -1,0 +1,15 @@
+name: Casa de salarios
+card_type: Recurso
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Elimina 1P de tu reserva; gana 1P en tu personaje y no puede ser movido durante el ENFRENTAMIENTO.
+passive_effect:
+quote: Lugar de culto de los mercenarios.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

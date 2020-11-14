@@ -1,0 +1,16 @@
+name: Aokigahara
+card_type: Recurso
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Bosque
+abilities:
+  - Enfrentamiento: Cansa Aokigahara; gana 1P en tu Dios japonés en un oráculo.
+passive_effect:
+quote: Tan hermoso como maldito, una puerta al reino de los Demonios.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

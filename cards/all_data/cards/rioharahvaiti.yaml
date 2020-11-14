@@ -1,16 +1,15 @@
-name: Norna
+name: Río Harahvaiti
 card_type: Recurso
-cost: 2
+cost: 1
 eras:
-  - I
+  - III
 strength:
 max_pow:
 init_pow:
 mythology:
 tags:
-  - Vidente
 abilities:
-  - Influencia: Cansa Norna; roba una carta.
+  - Influencia: Descarta una carta de tu mano; gana 2P.
 passive_effect:
-quote: Lo que ha ocurrido, lo que ocurre ahora y lo que debería suceder.
+quote: Fluía desde el mar creando las fronteras del mundo habitado.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

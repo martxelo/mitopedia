@@ -1,0 +1,16 @@
+name: Lagash
+card_type: Recurso
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Ciudad
+abilities:
+  - Enfrentamiento: Cansa Lagash y elige un personaje; no puede ser movido al panteón y no regresa al panteón en la próxima REORGANIZACIÓN.
+passive_effect:
+quote: Situada al noroeste de la unión del Éufrates con el Tigris, al este de Uruk.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

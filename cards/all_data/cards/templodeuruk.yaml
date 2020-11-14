@@ -1,0 +1,18 @@
+name: Templo de Uruk
+card_type: Recurso
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Ciudad
+  - Templo
+abilities:
+  - Enfrentamiento: Cansa Templo de Uruk y elimina 1P de tu Demonio; dale +2F.
+  - Enfrentamiento: Cansa Templo de Uruk; da la clave Demonio permanentemente a tu personaje.
+passive_effect:
+quote: Levantado en honor a Anu.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

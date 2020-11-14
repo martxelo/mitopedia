@@ -1,0 +1,16 @@
+name: Templo de Amenhotep IV
+card_type: Recurso
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Templo
+abilities:
+  - Influencia: Cansa Templo de Amenhotep IV; todos los jugadores deben poner una carta de su mano en la parte inferior de su mazo de designios y robar otra.
+passive_effect:
+quote: Templo al dios solar Atón en vez de Ra.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

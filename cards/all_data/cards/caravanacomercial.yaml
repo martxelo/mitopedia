@@ -1,16 +1,15 @@
-name: Norna
+name: Caravana comercial
 card_type: Recurso
-cost: 2
+cost: 1
 eras:
-  - I
+  - III
 strength:
 max_pow:
 init_pow:
 mythology:
 tags:
-  - Vidente
 abilities:
-  - Influencia: Cansa Norna; roba una carta.
+  - Enfrentamiento: Roba una carta si no tienes cartas en la mano.
 passive_effect:
-quote: Lo que ha ocurrido, lo que ocurre ahora y lo que debería suceder.
+quote: Cuando todo parece perdido, a veces llegan los suministros.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

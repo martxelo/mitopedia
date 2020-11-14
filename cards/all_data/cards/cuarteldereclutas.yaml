@@ -1,16 +1,15 @@
-name: Norna
+name: Cuartel de reclutas
 card_type: Recurso
-cost: 2
+cost: 1
 eras:
-  - I
+  - III
 strength:
 max_pow:
 init_pow:
 mythology:
 tags:
-  - Vidente
 abilities:
-  - Influencia: Cansa Norna; roba una carta.
+  - Influencia: Elige un personaje; cambia su mitología por la de tu panteón.
 passive_effect:
-quote: Lo que ha ocurrido, lo que ocurre ahora y lo que debería suceder.
+quote: Donde se hacen los auténticos romanos.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

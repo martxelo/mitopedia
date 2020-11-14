@@ -1,0 +1,16 @@
+name: Awan
+card_type: Recurso
+cost: 2
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Sumerio
+abilities:
+  - Influencia: durante la INFLUENCIA tus personajes sumerios en el campo de batalla cuentan como si estuvieran en el Panteón.
+passive_effect:
+quote: Fundada por el rey Peli en los albores de la historia.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

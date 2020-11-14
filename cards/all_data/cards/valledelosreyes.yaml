@@ -1,0 +1,15 @@
+name: Valle de los Reyes
+card_type: Recurso
+cost: 2
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa Valle de los Reyes; tu personaje gana 1P por cada recurso que controles (máximo 3).
+passive_effect:
+quote: Conocido como Ta-sekhet-Ma'at, la mayor necrópolis del Alto Egipto.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

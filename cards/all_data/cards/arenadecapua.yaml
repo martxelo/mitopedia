@@ -1,0 +1,17 @@
+name: Arena de Capua
+card_type: Recurso
+cost: 3
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Único
+  - Roma
+abilities:
+  - Influencia: Destruye tu personaje; conviértelo en un equipo (XF/0C/0PM) permanentemente y equípalo en tu personaje. (X es igual a la fuerza impresa).
+passive_effect:
+quote: El primer anfiteatro del mundo romano.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Ezdna
+card_type: Recurso
+cost: 2
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Azteca
+  - Ciudad
+abilities:
+  - Influencia: Cansa Ezdna; crea un personaje (Guerrero 1F/0C/0PM/2P). Destrúyelo al final del turno.
+passive_effect:
+quote: Ciudad devota de Itzá, el Sol, radiante en la jungla Maya.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

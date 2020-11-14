@@ -1,0 +1,15 @@
+name: Altar de Dragones
+card_type: Recurso
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Destruye tu mortal; gana 2P en un Dragón en tu oráculo.
+passive_effect:
+quote: Venerados y temidos, los dragones son material de sueños y pesadillas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

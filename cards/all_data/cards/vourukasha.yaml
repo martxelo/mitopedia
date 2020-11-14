@@ -1,0 +1,16 @@
+name: Vourukasha
+card_type: Recurso
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Único
+abilities:
+  - Enfrentamiento: Elige un personaje; su controlador debe destruir uno de sus equipos o darle -3PM permanentemente.
+passive_effect:
+quote: El gran mar origen de todo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

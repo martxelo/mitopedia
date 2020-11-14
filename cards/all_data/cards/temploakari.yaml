@@ -1,0 +1,17 @@
+name: Templo Akari
+card_type: Recurso
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Templo
+abilities:
+  - Enfrentamiento: Cansa Templo Akari; gana 1P.
+  - Enfrentamiento: Cansa Templo Akari; gana 2P si tienes menos de 10P en tu reserva.
+passive_effect:
+quote: Hogar de paz y espiritualidad, especialmente para los más necesitados.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

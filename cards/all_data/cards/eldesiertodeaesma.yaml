@@ -1,16 +1,15 @@
-name: Norna
+name: El Desierto de Aesma
 card_type: Recurso
-cost: 2
+cost: 0
 eras:
-  - I
+  - III
 strength:
 max_pow:
 init_pow:
 mythology:
 tags:
-  - Vidente
 abilities:
-  - Influencia: Cansa Norna; roba una carta.
+  - Enfrentamiento: Descarta una carta; da +1F permanente a tu personaje.
 passive_effect:
-quote: Lo que ha ocurrido, lo que ocurre ahora y lo que debería suceder.
+quote: Solo encontrarás ira, rabia y furia.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

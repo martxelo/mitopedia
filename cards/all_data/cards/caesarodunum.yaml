@@ -1,16 +1,15 @@
-name: Norna
+name: Caesarodunum
 card_type: Recurso
 cost: 2
 eras:
-  - I
+  - III
 strength:
 max_pow:
 init_pow:
 mythology:
 tags:
-  - Vidente
 abilities:
-  - Influencia: Cansa Norna; roba una carta.
+  - Enfrentamiento: Cansa Caesarodunum; tu personaje sin bonos de F gana +1F por cada equipo en su tropa.
 passive_effect:
-quote: Lo que ha ocurrido, lo que ocurre ahora y lo que debería suceder.
+quote: La capital de los Turones.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

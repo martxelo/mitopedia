@@ -1,16 +1,15 @@
-name: Norna
+name: Cuartel general
 card_type: Recurso
-cost: 2
+cost: 1
 eras:
-  - I
+  - III
 strength:
 max_pow:
 init_pow:
 mythology:
 tags:
-  - Vidente
 abilities:
-  - Influencia: Cansa Norna; roba una carta.
+  - Enfrentamiento: Cambia la resolución del conflicto por la del libro de reglas.
 passive_effect:
-quote: Lo que ha ocurrido, lo que ocurre ahora y lo que debería suceder.
+quote: Indispensables para la batalla.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,14 @@
+name: El gran árbol de Saena
+card_type: Recurso
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Tus Dioses de tu mitología en el campo de batalla tienen +1F.
+quote: El árbol de todas las semillas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

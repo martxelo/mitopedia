@@ -1,0 +1,14 @@
+name: Nido del Simurg
+card_type: Recurso
+cost: 5
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Gana 2P en esta carta al principio de la fase de INFLUENCIA si está en tu oráculo.
+quote: Se encuentra en la montaña Kaf sobre la copa del arbol más alto.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,14 @@
+name: Las tierras del labrador
+card_type: Recurso
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Mientras está en juego cada jugador tiene tantos puntos de transferencia base como oráculos. (Aplica luego los modificadores.)
+quote: Escuchó al buey quejarse del asno.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

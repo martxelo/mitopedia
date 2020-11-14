@@ -1,0 +1,17 @@
+name: Otris
+card_type: Recurso
+cost: 3
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Único
+  - Griego
+abilities:
+  - Influencia: Cansa Otris y elimina 1P de tu Dios; cansa un personaje con menos F que ese Dios.
+passive_effect:
+quote: Trono de Cronos tras derrocar a Urano, morada de los Titanes.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

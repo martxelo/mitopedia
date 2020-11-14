@@ -1,0 +1,16 @@
+name: Drakkar
+card_type: Recurso
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Barco
+abilities:
+  - Enfrentamiento: Cansa Drakkar; si hay un personaje de coste 4 o mayor en tu ejército, roba 1 carta.
+passive_effect:
+quote: Teme a Dios, tu codicia y los barcos dragón de los nórdicos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,16 +1,15 @@
-name: Norna
+name: La Guarida de Escila
 card_type: Recurso
 cost: 2
 eras:
-  - I
+  - III
 strength:
 max_pow:
 init_pow:
 mythology:
 tags:
-  - Vidente
 abilities:
-  - Influencia: Cansa Norna; roba una carta.
+  - Enfrentamiento: Cansa La Guarida de Escila; elimina 1P de hasta dos personajes.
 passive_effect:
-quote: Lo que ha ocurrido, lo que ocurre ahora y lo que debería suceder.
+quote: Seis cabezas con triple hilera de dientes en las fauces.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

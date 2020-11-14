@@ -1,0 +1,15 @@
+name: Las 40 tinajas
+card_type: Recurso
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Puedes pagar el próximo coste de equipar de tu reserva.
+passive_effect:
+quote: Una llena de aceite y las otras treinta y nueve con los ladrones de la banda.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
