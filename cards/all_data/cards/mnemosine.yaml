@@ -1,0 +1,17 @@
+name: Mnemósine
+card_type: Personaje
+cost: 1
+eras:
+  - III
+strength: 0
+max_pow: 2
+init_pow:
+mythology: Griega
+tags:
+  - Invocadora
+  - Musa
+abilities:
+  - Influencia: Devuelve a tu personaje una clave o habilidad eliminada.
+passive_effect:
+quote: Visita en secreto para bendecir con memoria, pero nadie la recuerda.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

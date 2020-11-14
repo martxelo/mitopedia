@@ -1,0 +1,16 @@
+name: Meleagro
+card_type: Personaje
+cost: 1
+eras:
+  - III
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Griega
+tags:
+  - Héroe
+  - Guerrero
+abilities:
+passive_effect:
+quote: Héroe que derribó el Jabalí de Calidón, su vida ligada siempre a un tizón.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

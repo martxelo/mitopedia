@@ -1,0 +1,18 @@
+name: Prometeo
+card_type: Personaje
+cost: 5
+eras:
+  - III
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Griega
+tags:
+  - Titán
+  - Dios
+  - Héroe
+abilities:
+  - Influencia: Tus mortales griegos no pueden ser destruidos por acciones de otros jugadores.
+passive_effect:
+quote: Por favor, Zeus, ¡morirán sin el fuego!
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

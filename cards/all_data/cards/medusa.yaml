@@ -1,0 +1,17 @@
+name: Medusa
+card_type: Personaje
+cost: 5
+eras:
+  - III
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Griega
+tags:
+  - Monstruo
+  - Reina
+abilities:
+  - Influencia: Elimina 1P de Medusa; elimina hasta 2P de un personaje.
+passive_effect:
+quote: ¿Quieres ver a la reina de las Gorgonas? Te quedarás de piedra.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

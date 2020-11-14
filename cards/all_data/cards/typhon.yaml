@@ -1,0 +1,17 @@
+name: Typhon
+card_type: Personaje
+cost: 7
+eras:
+  - III
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Griega
+tags:
+  - Dragón
+  - Dios
+  - Aire
+abilities:
+passive_effect: Las acciones de otros jugadores no pueden evitar que se asignen tus Dragones
+quote: Trató de vengar a sus hermanastros los Titanes y Zeus le encerró bajo el monte Etna.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,16 @@
+name: Atlas
+card_type: Personaje
+cost: 7
+eras:
+  - III
+strength: 7
+max_pow: 7
+init_pow:
+mythology: Griega
+tags:
+  - Titán
+  - Dios
+abilities:
+passive_effect: No puede equiparse
+quote: Acaudilló los Titanes en la Batalla de Tesalea, y Zeus le castigó con el peso del mundo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

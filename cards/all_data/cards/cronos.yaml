@@ -1,0 +1,17 @@
+name: Cronos
+card_type: Personaje
+cost: 8
+eras:
+  - III
+strength: 5
+max_pow: 9
+init_pow:
+mythology: Griega
+tags:
+  - Titán
+  - Dios
+abilities:
+  - Enfrentamiento: Destruye todos los equipos de una tropa.
+passive_effect: Cuando entra en juego pasas a ser el jugador inicial.
+quote: Dios del Tiempo, patriarca Titán y progenitor de los Olimpos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

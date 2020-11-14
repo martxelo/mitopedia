@@ -1,0 +1,17 @@
+name: Gea
+card_type: Personaje
+cost: 3
+eras:
+  - III
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Griega
+tags:
+  - Titánide
+  - Diosa
+abilities:
+  - Enfrentamiento: Crea un oráculo con un Dios en tu descarte; revélalo.
+passive_effect:
+quote: Madre de la Tierra y los Titanes, Urano no la dejaba parir por miedo a sus hijos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

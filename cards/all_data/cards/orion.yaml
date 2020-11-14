@@ -1,0 +1,17 @@
+name: Orión
+card_type: Personaje
+cost: 3
+eras:
+  - III
+strength: 2
+max_pow: 4
+init_pow:
+mythology: Griega
+tags:
+  - Héroe
+  - Cazador
+abilities:
+  - Enfrentamiento: Da +3F a un personaje cansado.
+passive_effect:
+quote: Tanto le amaba Artemisa que lo inmortalizó en el cielo en su duelo con Escorpio.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Febe
+card_type: Personaje
+cost: 4
+eras:
+  - III
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Griega
+tags:
+  - Diosa
+  - Titánide
+abilities:
+  - Influencia: Gana 2P en tu Titán.
+passive_effect:
+quote: En la tierra se le llamaba Diana.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
