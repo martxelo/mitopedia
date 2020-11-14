@@ -1,0 +1,17 @@
+name: Alfisya
+card_type: Personaje
+cost: 1
+eras:
+  - III
+strength: 0
+max_pow: 2
+init_pow:
+mythology: Nórdica
+tags:
+  - Svartálfar
+  - Invocadora
+abilities:
+  - Influencia: Elige tu personaje que no haya sido objetivo de acciones este turno; no puede ser objetivo de acciones.
+passive_effect:
+quote: Musa oscura, enmudece poetas, enroca bardos y tulle herreros.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

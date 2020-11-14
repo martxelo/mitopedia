@@ -1,0 +1,18 @@
+name: Hrímgrímnir
+card_type: Personaje
+cost: 7
+eras:
+  - III
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Nórdica
+tags:
+  - Dios
+  - Jotun
+  - Hielo
+abilities:
+  - Enfrentamiento: Elimina 1P de Hrímgrímnir; mueve un personaje enemigo a su panteón.
+passive_effect:
+quote: Señor de los inviernos más crueles y del frío viento polar.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

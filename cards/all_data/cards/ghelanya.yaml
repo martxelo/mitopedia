@@ -1,0 +1,17 @@
+name: Ghelanya
+card_type: Personaje
+cost: 3
+eras:
+  - III
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Nórdica
+tags:
+  - Svartálfar
+  - Invocadora
+abilities:
+  - Enfrentamiento: Si tienes al menos dos personajes nórdicos en el campo de batalla; gana 2P.
+passive_effect:
+quote: Dama de la noche, Madre de Svartálfs, Reina de las Pesadillas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

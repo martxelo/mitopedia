@@ -1,0 +1,17 @@
+name: Laufrey
+card_type: Personaje
+cost: 4
+eras:
+  - III
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Nórdica
+tags:
+  - Diosa
+  - Jotun
+abilities:
+  - Influencia: Gana 2P en tu Jotun.
+passive_effect:
+quote: Mujer de Farbauti, madre de Býleistr, de Helblindi y de Loki.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

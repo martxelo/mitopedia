@@ -1,0 +1,17 @@
+name: Fafnir
+card_type: Personaje
+cost: 7
+eras:
+  - III
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Nórdica
+tags:
+  - Dragón
+  - Dios
+  - Trueno
+abilities:
+passive_effect: Las acciones de otros jugadores no pueden cansar a tus Dragones.
+quote: Por codiciar el oro lo convirtieron en Dragón y atormentó el mundo entre nubes negras.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
