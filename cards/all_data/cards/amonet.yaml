@@ -1,0 +1,17 @@
+name: Amonet
+card_type: Personaje
+cost: 5
+eras:
+  - III
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Egipcia
+tags:
+  - Diosa
+  - Invocadora
+abilities:
+  - Influencia: Da +2 o -2 Coste a una carta en juego u oráculo hasta el inicio de la próxima INFLUENCIA.
+passive_effect:
+quote: Adorada en Hermópolis y Karnak.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

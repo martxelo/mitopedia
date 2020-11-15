@@ -1,0 +1,17 @@
+name: Satis
+card_type: Personaje
+cost: 5
+eras:
+  - III
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Egipcia
+tags:
+  - Diosa
+  - Guardián
+abilities:
+  - Influencia: Prepara tu personaje egipcio.
+passive_effect:
+quote: Aquella que corre como una flecha.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

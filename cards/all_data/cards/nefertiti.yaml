@@ -1,0 +1,17 @@
+name: Nefertiti
+card_type: Personaje
+cost: 3
+eras:
+  - III
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Egipcia
+tags:
+  - Reina
+  - Invocadora
+abilities:
+  - Influencia: Da +1 o -1 Coste a un personaje en juego u oráculo hasta el inicio de la próxima INFLUENCIA.
+passive_effect:
+quote: Su belleza y su influencia sobre el faraón no conocían límites.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

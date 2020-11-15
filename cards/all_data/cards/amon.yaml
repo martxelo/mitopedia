@@ -1,0 +1,16 @@
+name: Amón
+card_type: Personaje
+cost: 8
+eras:
+  - III
+strength: 5
+max_pow: 9
+init_pow:
+mythology: Egipcia
+tags:
+  - Dios
+abilities:
+  - Influencia: Da +1F a Amón por cada uno de tus personajes con la clave Dios.
+passive_effect:
+quote: Triunfaré sobre un centenar de miles de hombres, pues soy el señor de la victoria y recompensaré tu valor.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

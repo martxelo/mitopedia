@@ -1,0 +1,17 @@
+name: Apis
+card_type: Personaje
+cost: 7
+eras:
+  - III
+strength: 4
+max_pow: 8
+init_pow:
+mythology: Egipcia
+tags:
+  - Dios
+  - Invocador
+abilities:
+  - Influencia: Elige un personaje egipcio; las acciones de tu oponente no pueden hacerle objetivo.
+passive_effect:
+quote: Representante terrenal, heraldo de P'tha.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

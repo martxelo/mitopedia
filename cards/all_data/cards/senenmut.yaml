@@ -1,0 +1,16 @@
+name: Senenmut
+card_type: Personaje
+cost: 4
+eras:
+  - III
+strength: 2
+max_pow: 4
+init_pow:
+mythology: Egipcia
+tags:
+  - Constructor
+abilities:
+  - Influencia: Reduce en 1 el Coste de tu recurso en un oráculo permanentemente.
+passive_effect:
+quote: Él que es la voluntad del amo, los oídos y los ojos del rey.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

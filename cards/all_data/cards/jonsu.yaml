@@ -1,0 +1,17 @@
+name: Jonsu
+card_type: Personaje
+cost: 4
+eras:
+  - III
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Egipcia
+tags:
+  - Dios
+  - Luna
+abilities:
+  - Influencia: Elimina 1P de Jonsu; puedes jugar dos veces una habilidad de tu Dios Egipcio.
+passive_effect:
+quote: Aquel que atraviesa el cielo. Eternamente joven.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

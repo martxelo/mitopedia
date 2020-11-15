@@ -1,0 +1,15 @@
+name: Hatshepsut
+card_type: Personaje
+cost: 2
+eras:
+  - III
+strength: 0
+max_pow: 2
+init_pow:
+mythology: Egipcia
+tags:
+abilities:
+  - Influencia: Cansa Hatshepsut; cansa una carta con igual o menor coste.
+passive_effect:
+quote: La primera de las nobles damas, unida a Amón.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

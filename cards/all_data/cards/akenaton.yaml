@@ -1,0 +1,17 @@
+name: Akenatón
+card_type: Personaje
+cost: 3
+eras:
+  - III
+strength: 2
+max_pow: 5
+init_pow:
+mythology: Egipcia
+tags:
+  - Faraón
+  - Constructor
+abilities:
+  - Influencia: Mira la primera carta sin revelar de tu oráculo. Puedes revelarla o ponerla debajo.
+passive_effect:
+quote: Su devoción por Atón puso en peligro todo el reino de Egipto.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
