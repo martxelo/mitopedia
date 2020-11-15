@@ -1,0 +1,15 @@
+name: Jauría
+card_type: Personaje
+cost: 1
+eras:
+  - IV
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Neutral
+tags:
+  - Monstruo
+abilities:
+passive_effect: Puedes llevar hasta 4 copias de Jauría
+quote: ¡Vienen de todos lados!
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
