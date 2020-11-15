@@ -1,0 +1,16 @@
+name: Zahhak
+card_type: Personaje
+cost: 2
+eras:
+  - III
+strength: 0
+max_pow: 2
+init_pow:
+mythology: Neutral
+tags:
+  - Monstruo
+  - Naga
+abilities:
+passive_effect: Da +2F permanente a Zahhak al principio de cada fase de INFLUENCIA si está en un oráculo.
+quote: Demonio maniqueo de la codicia.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Nabucodonosor II
+card_type: Personaje
+cost: 5
+eras:
+  - III
+strength: 3
+max_pow: 5
+init_pow:
+mythology: Sumeria
+tags:
+  - Rey
+  - Constructor
+abilities:
+  - Influencia: si Nabucodonosor II está en el campo de batalla, cansa un personaje. (Puede usarse desde el campo de batalla).
+passive_effect:
+quote: Más orgulloso por sus obras que por sus victorias.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

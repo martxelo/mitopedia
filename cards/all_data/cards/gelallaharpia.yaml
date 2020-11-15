@@ -1,0 +1,17 @@
+name: Gelal la Harpía
+card_type: Personaje
+cost: 2
+eras:
+  - III
+strength: 1
+max_pow: 2
+init_pow:
+mythology: Sumeria
+tags:
+  - Monstruo
+  - Demonio
+abilities:
+  - Enfrentamiento: Elige un mortal; no regresa al panteón en la próxima REORGANIZACIÓN.
+passive_effect:
+quote: Solo quiero liberar a mi gente y hacer pagar a esa harpía demente de Tiamat.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

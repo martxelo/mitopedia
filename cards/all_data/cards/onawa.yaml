@@ -1,0 +1,15 @@
+name: Onawa
+card_type: Personaje
+cost: 2
+eras:
+  - III
+strength: 1
+max_pow: 2
+init_pow:
+mythology: Nativa americana
+tags:
+abilities:
+  - Influencia: Mueve a tu Dios al campo de batalla.
+passive_effect:
+quote: Grandioso amanecer.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Dagonet
+card_type: Personaje
+cost: 3
+eras:
+  - III
+strength: 2
+max_pow: 5
+init_pow:
+mythology: Celta
+tags:
+  - Caballero
+  - Héroe
+abilities:
+  - Enfrentamiento: Da +1F a Dagonet si no eres el jugador inicial.
+passive_effect:
+quote: Bravo y abnegado guerrero de la corte de Arturo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

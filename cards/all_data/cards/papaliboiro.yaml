@@ -1,0 +1,15 @@
+name: Papa Liboiro
+card_type: Personaje
+cost: 3
+eras:
+  - III
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Voodoo
+tags:
+abilities:
+  - Enfrentamiento: Si pierdes este ENFRENTAMIENTO destruye sólo la mitad de contadores voodoo redondeando hacia abajo. (Tú eliges cuáles se destruyen).
+passive_effect:
+quote: Entonaba la Tilindanga con una botella de ron en la mano.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

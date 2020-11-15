@@ -1,0 +1,17 @@
+name: Lokapla
+card_type: Personaje
+cost: 6
+eras:
+  - III
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Hindú
+tags:
+  - Dios
+  - Invocador
+abilities:
+  - Enfrentamiento: Da +1F a tus invocadores.
+passive_effect:
+quote: Guardián de la sabiduría.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

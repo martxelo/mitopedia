@@ -1,0 +1,17 @@
+name: Etana de Kish
+card_type: Personaje
+cost: 2
+eras:
+  - III
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Sumeria
+tags:
+  - Rey
+  - Invocador
+abilities:
+  - Influencia: Puedes hacer objetivo con habilidades de INFLUENCIA a tus personajes en el campo de batalla.
+passive_effect:
+quote: El decimotercer rey legendario de su dinastía.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

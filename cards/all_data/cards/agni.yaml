@@ -1,0 +1,18 @@
+name: Agni
+card_type: Personaje
+cost: 3
+eras:
+  - III
+strength: 2
+max_pow: 5
+init_pow:
+mythology: Hindú
+tags:
+  - Invocador
+  - Vidente
+  - Dios
+abilities:
+  - Influencia: Da la clave Dios a un personaje.
+passive_effect:
+quote: El Fuego y el calor en la triada.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,16 @@
+name: Esclavo
+card_type: Personaje
+cost: 0
+eras:
+  - III
+strength: 0
+max_pow: 1
+init_pow:
+mythology: Neutral
+tags:
+  - Esclavo
+abilities:
+  - Influencia: Destruye Esclavo; conviértelo en un equipo (1F/0C/0PM) y equípalo en tu personaje.
+passive_effect:
+quote: Por unas pocas monedas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

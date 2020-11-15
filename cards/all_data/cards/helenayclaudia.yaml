@@ -1,0 +1,17 @@
+name: Helena y Claudia
+card_type: Personaje
+cost: 1
+eras:
+  - III
+strength: 0
+max_pow: 2
+init_pow:
+mythology: Neutral
+tags:
+  - Hermanas
+  - Princesas
+abilities:
+  - Enfrentamiento: Agota a Helena y Claudia; gana tanto P como hayas eliminado. (Máximo 4)
+passive_effect:
+quote: Las supervivientes.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

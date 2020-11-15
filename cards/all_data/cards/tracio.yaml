@@ -1,0 +1,17 @@
+name: Tracio
+card_type: Personaje
+cost: 1
+eras:
+  - III
+strength: 1
+max_pow: 2
+init_pow:
+mythology: Neutral
+tags:
+  - Soldado
+  - Mercenario
+abilities:
+  - Enfrentamiento: Destruye Tracio; conviértelo en un equipo (2F/0C/0PM) y equípalo en tu personaje.
+passive_effect:
+quote: Conjunto de pueblos unidos por una lengua.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
