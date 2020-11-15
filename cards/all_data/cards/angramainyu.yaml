@@ -1,0 +1,18 @@
+name: Angra Mainyu
+card_type: Personaje
+cost: 7
+eras:
+  - III
+strength: 4
+max_pow: 8
+init_pow:
+mythology: Persa
+tags:
+  - Dios
+  - Demonio
+  - Invocador
+abilities:
+  - Enfrentamiento: Da -2PM permanentemente a todos los personajes en el Campo de Batalla.
+passive_effect:
+quote: La fuente de todos los males del mundo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

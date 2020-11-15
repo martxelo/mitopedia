@@ -1,0 +1,18 @@
+name: Ifrit
+card_type: Personaje
+cost: 4
+eras:
+  - III
+strength: 2
+max_pow: 4
+init_pow:
+mythology: Persa
+tags:
+  - Genio
+  - Fuego
+  - Invocador
+abilities:
+  - Influencia: Reduce en 1 la próxima transferencia del resto de jugadores.
+passive_effect:
+quote: Su magia les permite transformarse en un muro de fuego.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,16 @@
+name: Gayomat
+card_type: Personaje
+cost: 4
+eras:
+  - III
+strength: 2
+max_pow: 4
+init_pow:
+mythology: Persa
+tags:
+  - Héroe
+abilities:
+  - Enfrentamiento: Elige una tropa; puedes usar todos sus equipos como si fueran tuyos.
+passive_effect:
+quote: El primer hombre que ejerce la justicia, el que da las leyes.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Criatura
+card_type: Personaje
+cost: 3
+eras:
+  - III
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Persa
+tags:
+  - Criatura
+  - Guardián
+abilities:
+  - Influencia: Tus personajes persas no pueden ser destruidos.
+passive_effect:
+quote: Con sus plumas se confeccionaban las alfombras mágicas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

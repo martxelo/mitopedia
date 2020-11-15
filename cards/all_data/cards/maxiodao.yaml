@@ -1,0 +1,18 @@
+name: Maxio Dao
+card_type: Personaje
+cost: 3
+eras:
+  - III
+strength: 2
+max_pow: 3
+init_pow:
+mythology: Persa
+tags:
+  - Genio
+  - Tierra
+  - Invocador
+abilities:
+  - Influencia: Descarta una carta; cansa un personaje con menos PM que esta tropa.
+passive_effect:
+quote: Les gusta presentarse en el plano material primario para hacer el mal.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

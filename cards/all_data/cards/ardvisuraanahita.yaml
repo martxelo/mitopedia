@@ -1,0 +1,16 @@
+name: Ardvi Sura Anahita
+card_type: Personaje
+cost: 5
+eras:
+  - III
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Persa
+tags:
+  - Diosa
+abilities:
+  - Influencia: Intercambia el P de este personaje (mínimo 1) con un personaje enemigo.
+passive_effect:
+quote: En su fiesta se reunían los hombres y las mujeres y bebían hasta embriagarse.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Azi-Dahaka
+card_type: Personaje
+cost: 4
+eras:
+  - III
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Persa
+tags:
+  - Dragón
+  - Aire
+  - Dios
+abilities:
+passive_effect: Las acciones de otros jugadores no pueden destruir equipos en tus Dragones.
+quote: Se dice que tiene mil sentidos, para sangrar serpientes, escorpiones, y otras criaturas venenosas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

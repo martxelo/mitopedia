@@ -1,0 +1,16 @@
+name: Aladino
+card_type: Personaje
+cost: 4
+eras:
+  - III
+strength: 3
+max_pow: 4
+init_pow:
+mythology: Persa
+tags:
+  - Ladrón
+abilities:
+  - Enfrentamiento: Equipa en Aladino un equipo enemigo.
+passive_effect:
+quote: Con su genio e ingenio podía conseguirlo todo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

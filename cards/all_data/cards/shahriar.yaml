@@ -1,0 +1,16 @@
+name: Shahriar
+card_type: Personaje
+cost: 3
+eras:
+  - III
+strength: 2
+max_pow: 4
+init_pow:
+mythology: Persa
+tags:
+  - Sultán
+abilities:
+  - Influencia: Crea un equipo 0F/0C/0PM y equípalo en tu personaje.
+passive_effect:
+quote: ¡El sultán desposaba una virgen cada día y mandaba decapitar a la esposa al día siguiente.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

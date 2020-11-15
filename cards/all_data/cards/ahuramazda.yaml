@@ -1,0 +1,17 @@
+name: Ahura Mazda
+card_type: Personaje
+cost: 8
+eras:
+  - III
+strength: 5
+max_pow: 9
+init_pow:
+mythology: Persa
+tags:
+  - Dios
+  - Invocador
+abilities:
+  - Enfrentamiento: Pon en tu mano un Deseo de tu descarte.
+passive_effect:
+quote: Atrapó a su hermano dentro de la Piedra del Fuego Secreto.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

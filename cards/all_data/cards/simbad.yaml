@@ -1,0 +1,16 @@
+name: Simbad
+card_type: Personaje
+cost: 4
+eras:
+  - III
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Persa
+tags:
+  - Ladrón
+abilities:
+  - Influencia: Gana +1F por cada equipo en esta tropa.
+passive_effect:
+quote: Cogió algunas joyas y se ató a un pedazo de carne...
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

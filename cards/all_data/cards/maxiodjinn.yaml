@@ -1,0 +1,18 @@
+name: Maxio Djinn
+card_type: Personaje
+cost: 3
+eras:
+  - III
+strength: 2
+max_pow: 3
+init_pow:
+mythology: Persa
+tags:
+  - Genio
+  - Aire
+  - Invocador
+abilities:
+  - Enfrentamiento: Descarta una carta; vuelve a usar una invocación inmediatamente.
+passive_effect:
+quote: Pueden formar torbellinos de aire con los que atacan a sus enemigos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

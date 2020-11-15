@@ -1,0 +1,16 @@
+name: Sherezade
+card_type: Personaje
+cost: 2
+eras:
+  - III
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Persa
+tags:
+  - Princesa
+abilities:
+  - Influencia: Prepra este personaje. (Puede usarse aunque esté cansado.)
+passive_effect:
+quote: Después de mil y una noches de diversas aventuras pasa a ser esposa del rey.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

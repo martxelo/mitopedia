@@ -1,0 +1,16 @@
+name: Alí Babá
+card_type: Personaje
+cost: 3
+eras:
+  - III
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Persa
+tags:
+  - Ladrón
+abilities:
+  - Enfrentamiento: mueve un equipo de tu personaje a otro personaje; gana 1P.
+passive_effect:
+quote: ¡Ábrete, Sésamo!
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

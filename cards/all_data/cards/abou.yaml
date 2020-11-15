@@ -1,0 +1,16 @@
+name: Abou
+card_type: Personaje
+cost: 2
+eras:
+  - III
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Persa
+tags:
+  - Ladrón
+abilities:
+  - Enfrentamiento: Agota tu personaje; redistribuye su poder entre tus personajes.
+passive_effect:
+quote: El último de los ladrones.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
