@@ -1,0 +1,17 @@
+name: Ameretat
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Portal
+  - Spenta
+abilities:
+  - Influencia: Pon esta carta en juego permanentemente en tu panteón.
+passive_effect: Cuando pongas en juego un personaje puedes equiparle un equipo del descarte.
+quote: El estado de Felicidad Inmortal.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

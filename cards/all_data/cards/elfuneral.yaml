@@ -1,0 +1,17 @@
+name: El funeral
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Portal
+  - Único
+abilities:
+  - Influencia: Pon esta carta en juego permanentemente en tu panteón.
+passive_effect: No se pueden jugar cartas con la clave Batalla.
+quote: Que mi espíritu se alce, Valkirias llevadme.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

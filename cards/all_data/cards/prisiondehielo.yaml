@@ -1,0 +1,15 @@
+name: Prisión de hielo
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Elige un personaje; no puede realizar ni ser objetivo de acciones.
+passive_effect:
+quote: No hacen falta barrotes cuando estás demasiado helado para moverte.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

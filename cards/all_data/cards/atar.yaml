@@ -1,0 +1,15 @@
+name: Atar
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Reduce en 1 permanentemente tus transferencias; gana 3P.
+passive_effect:
+quote: El fuego sagrado.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

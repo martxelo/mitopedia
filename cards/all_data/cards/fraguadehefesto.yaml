@@ -1,0 +1,17 @@
+name: Fragua de Hefesto
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Portal
+  - Único
+abilities:
+  - Influencia: Pon esta carta en juego permanentemente en tu panteón.
+passive_effect: Reduce en 1 el Coste de las armas al equiparlas en tus personajes.
+quote: En el volcánico corazón del monte Olimpo Hefesto y Zeus reforjaron el Talismán de Trueno.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

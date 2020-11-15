@@ -1,0 +1,15 @@
+name: Orbis
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Si controlas 3 o más personajes de tu mitología las acciones de otros jugadores no pueden mover a tus personajes.
+passive_effect:
+quote: En el círculo todos quedan protegidos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

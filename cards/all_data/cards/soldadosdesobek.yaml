@@ -1,0 +1,17 @@
+name: Soldados de Sobek
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Portal
+  - Único
+abilities:
+  - Influencia: Pon esta carta en juego permanentemente en tu panteón.
+passive_effect: Reduce en 1 el Coste de asignación de tus dos primeros personajes con armadura.
+quote: Con sus armaduras de Cocodrilo eran tan formidables como el dios al que servían.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

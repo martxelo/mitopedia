@@ -1,0 +1,15 @@
+name: Traición de Viriato
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Si controlas 3 o más personajes de tu mitología agota un personaje.
+passive_effect:
+quote: Asesinado por sus propios generales.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

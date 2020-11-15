@@ -1,0 +1,17 @@
+name: Memorias de Asgard
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Portal
+  - Spenta
+abilities:
+  - Influencia: Gana 2P en tu Dios en un oráculo.
+passive_effect:
+quote: ... irán en aumento...
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

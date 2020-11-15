@@ -1,0 +1,16 @@
+name: Hikikomori
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Portal
+abilities:
+  - Influencia: Pon esta carta en juego permanentemente en tu panteón.
+passive_effect: Cada jugador elimina 1P por cada evento que revele.
+quote: La tristeza más profunda, que ningún festival ni amor puede alegrar.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

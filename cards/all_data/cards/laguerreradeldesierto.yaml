@@ -1,0 +1,15 @@
+name: La guerrera del desierto
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cada jugador debe descartar una carta y robar otra.
+passive_effect:
+quote: Criada entre tormentas de arena.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

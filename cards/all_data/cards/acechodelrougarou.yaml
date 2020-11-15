@@ -1,0 +1,15 @@
+name: Acecho del Rougarou
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Destruye todos los personajes creados.
+passive_effect:
+quote: Huele la culpabilidad de tu conciencia, y jamás se cansa de perseguir.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,15 @@
+name: Kuji-In
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Destruye un personaje con PM 0.
+passive_effect:
+quote: Los nueve cortes se realizan a lo largo de una imagen para hacerse con el control del objeto deseado.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

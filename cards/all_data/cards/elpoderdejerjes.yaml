@@ -1,0 +1,15 @@
+name: El poder de Jerjes
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Revela 1 deseo de tu mazo de designios y añádelo a tu mano. Baraja tu mazo.
+passive_effect:
+quote: Fue designado como sucesor de Darío I por delante de todos sus hermanastros.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

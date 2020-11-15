@@ -1,0 +1,15 @@
+name: Aposentos
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Copia en tu personaje una habilidad de un personaje enemigo con al menos un contador voodoo.
+passive_effect:
+quote: Ministro de la agricultura, espíritu de la vegetación.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

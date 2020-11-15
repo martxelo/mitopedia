@@ -1,0 +1,15 @@
+name: Lucha gladiatoria
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Destruye tu personaje; conviértelo en un equipo (XF/0C/0PM) permanentemente y equípalo en tu personaje. (X es la fuerza impresa).
+passive_effect:
+quote: El mayor espectáculo de Roma.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

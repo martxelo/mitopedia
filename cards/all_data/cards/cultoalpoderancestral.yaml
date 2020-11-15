@@ -1,0 +1,15 @@
+name: Culto al poder ancestral
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Crea un personaje (Sectario 0F/0C/1PM/1P) por cada personaje Dragón en tu panteón y tus oráculos.
+passive_effect:
+quote: Desde los albores de la humanidad el terror de las escamas aladas impera en nuestras pesadillas y ambiciones.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

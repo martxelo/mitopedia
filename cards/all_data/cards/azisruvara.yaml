@@ -1,0 +1,15 @@
+name: Azi-Sruvara
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Elige un personaje; destrúyelo al principio de la INFLUENCIA del tercer turno después de este.
+passive_effect:
+quote: Tenía que aparentar se misericordioso.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

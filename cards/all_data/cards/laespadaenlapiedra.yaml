@@ -1,0 +1,16 @@
+name: La espada en la piedra
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Portal
+abilities:
+  - Influencia: Pon esta carta en juego permanentemente.
+passive_effect: Cuando tus personajes entran en juego, se mueven al campo de batalla.
+quote: Forjada en Ávalon.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

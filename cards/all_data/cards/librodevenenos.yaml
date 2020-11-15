@@ -1,0 +1,16 @@
+name: Libro de venenos
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Noticia
+abilities:
+  - Influencia: Pon esta carta en juego permanentemente en un oráculo.
+passive_effect: Después de revelar tus oráculos puedes volver a revelar este oráculo.
+quote: Menes, el primer faraón, estudió sobre todos los venenos y los grabó en este tomo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

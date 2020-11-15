@@ -1,0 +1,15 @@
+name: Asalto al monte Otris
+card_type: Acción
+cost: 3
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Mueve todos los personajes al campo de batalla.
+passive_effect:
+quote: ¡Hermanos Olimpos!¡Ésta es nuestra hora!¡Los Titanes caerán!
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

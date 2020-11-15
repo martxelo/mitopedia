@@ -1,0 +1,16 @@
+name: Altar de Xtoloc
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Portal
+abilities:
+  - Influencia: Pon esta carta en juego permanentemente en tu panteón.
+passive_effect: Tus portales no pueden ser destruidos.
+quote: El Cenote sagrado de Chichén Itzá.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

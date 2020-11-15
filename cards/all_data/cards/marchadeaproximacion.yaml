@@ -1,0 +1,15 @@
+name: Marcha de aproximación
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Mueve un personaje del panteón al campo de Batalla.
+passive_effect:
+quote: Sabiendo donde va a ser posible la batalla es fácil anticiparse.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,16 @@
+name: Huida de la Atlántida
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Noticia
+abilities:
+  - Influencia: Pon esta carta en juego permanentemente en un oráculo.
+passive_effect: Reduce en 1P el Coste de los Dioses en este oráculo.
+quote: ¡Todos a las aeronaves! Debemos abandonar nuestro hogar.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

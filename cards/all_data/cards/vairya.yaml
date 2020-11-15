@@ -1,0 +1,15 @@
+name: Vairya
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cada jugador puede preparar un personaje.
+passive_effect:
+quote: La buena elección.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

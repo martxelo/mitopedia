@@ -1,0 +1,16 @@
+name: El último emperador
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Portal
+abilities:
+  - Influencia: Pon esta carta en juego permanentemente.
+passive_effect: Cuando se revele un evento descártalo sin efecto y elimina 1P.
+quote: Curiosamente el último coincidía en nombre con el primero.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Guerras médicas
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Portal
+  - Único
+abilities:
+  - Influencia: Pon esta carta en juego permanentemente en tu panteón.
+passive_effect: Al asignar tu primer personaje debes descartar una carta y robar otra.
+quote: ¡Ormuz, dame la ocasión de vengarme de atenienses!
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
