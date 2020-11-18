@@ -1,0 +1,15 @@
+name: El Simurg
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Gana 1P por cada clave elemental (Aire, Fuego, Agua, Tierra y Rayo) que controles.
+passive_effect:
+quote: Amigo y protector de de Rustam
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

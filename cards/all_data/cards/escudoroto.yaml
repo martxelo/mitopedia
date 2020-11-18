@@ -1,0 +1,15 @@
+name: Escudo roto
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Da +1F a tu personaje y no puede ser movido al panteón durante el ENFRENTAMIENTO.
+passive_effect:
+quote: Cuando falla la defensa, lo mejor es un buen ataque.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

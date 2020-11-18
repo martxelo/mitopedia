@@ -1,0 +1,15 @@
+name: Nido de dragones
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Si controlas 5 Dragones con distinta clave elemental (Tierra, Agua, Fuego, Aire o Trueno) elimina 20P de la reserva de tu oponente.
+passive_effect:
+quote: ¡Nosotros tenemos dragones!
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

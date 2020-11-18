@@ -1,0 +1,15 @@
+name: Katsugi Waza
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Prepara tu tropa.
+passive_effect:
+quote: La técnica de preparar la katana más velozmente.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

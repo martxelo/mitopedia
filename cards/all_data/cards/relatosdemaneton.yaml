@@ -1,0 +1,15 @@
+name: Relatos de Manetón
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Si eres el jugador con la carta de mayor coste en juego gana 3P.
+passive_effect:
+quote: Te contaré la historia desde que Ra iluminó el cielo hasta Cleopatra y la Cobra.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

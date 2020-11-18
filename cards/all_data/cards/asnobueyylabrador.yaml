@@ -1,0 +1,15 @@
+name: Asno, buey y labrador
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Da +1F a tu personaje por cada clave elemental (Aire, Fuego, Agua, Tierra y Rayo) que controles.
+passive_effect:
+quote: Trabajas mucho y me gustaría ayudarte un poco.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

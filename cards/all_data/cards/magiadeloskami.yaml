@@ -1,0 +1,15 @@
+name: Magia de los Kami
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Si eres el jugador con mas invocaciones gana 3P.
+passive_effect:
+quote: Desde una luciérnaga hasta una tormenta, todo puede ser manifestación de los Kami.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

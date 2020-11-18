@@ -1,0 +1,15 @@
+name: Los viajes de Simbad
+card_type: Acción
+cost: 2
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Roba dos cartas.
+passive_effect:
+quote: Y entonces mi barco naufragó...
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,15 @@
+name: Fallo en el suministro
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Si controlas 3 o más cartas en tu tropa mueve un personaje a su panteón.
+passive_effect:
+quote: El punto débil de todo ejército.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

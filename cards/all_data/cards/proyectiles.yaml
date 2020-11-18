@@ -1,0 +1,16 @@
+name: Proyectiles
+card_type: Acción
+cost: 2
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Entorno
+abilities:
+  - Enfrentamiento: Gana 1P por cada personaje en el panteón de tu oponente.
+passive_effect:
+quote: Gran invento de destrucción a distancia.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

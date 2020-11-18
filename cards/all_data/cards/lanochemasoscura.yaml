@@ -1,0 +1,15 @@
+name: La noche mas oscura
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Gana 3P en tu dios.
+passive_effect:
+quote: Odín duerme una semana al año. Ésa es nuestra oportunidad.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

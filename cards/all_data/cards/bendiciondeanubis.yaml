@@ -1,0 +1,15 @@
+name: Bendición de Anubis
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Si eres el jugador con más recursos en juego gana 3P.
+passive_effect:
+quote: Puedo darte ejércitos, templos e imperios... ¿pero los podrás pagar?.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

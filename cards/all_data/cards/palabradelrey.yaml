@@ -1,0 +1,16 @@
+name: Palabra del rey
+card_type: Acción
+cost: 2
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Entorno
+abilities:
+  - Enfrentamiento: Da +1F a tu Caballero por cada caballero en tu ejército.
+passive_effect:
+quote: Moriré en combate, espero que sea un combate de mi elección.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

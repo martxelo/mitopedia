@@ -1,0 +1,15 @@
+name: Magh Turied
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Gana 2P en tu Invocador.
+passive_effect:
+quote: La batalla de la llanura de los pilares
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

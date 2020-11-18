@@ -1,0 +1,15 @@
+name: Línea triple
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Mueve tu personaje al panteón; mueve tu personaje al campo de batalla.
+passive_effect:
+quote: Asteros en primera fila, los príncipes en segunda y los veteranos triarios en la tercera.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

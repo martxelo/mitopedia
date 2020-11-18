@@ -1,0 +1,15 @@
+name: El desfiladero
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Cada jugador elige hasta 3 de sus personajes; cansa el resto de su ejército.
+passive_effect:
+quote: Unos pasan, todos no.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

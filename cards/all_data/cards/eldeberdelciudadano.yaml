@@ -1,0 +1,15 @@
+name: El deber del ciudadano
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Si eres el jugador con más Armas en juego gana 3P.
+passive_effect:
+quote: ¡Acadio! ¿Cuál es tu oficio? -Alfarero, señor.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

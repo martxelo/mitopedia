@@ -1,0 +1,15 @@
+name: Salvación de Enkidu
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Si controlas 3 o más personajes de tu mitología mueve un personaje al campo de batalla.
+passive_effect:
+quote: Civilizado por la Hieródula se ve obligado a convivir con los hombres.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

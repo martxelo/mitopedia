@@ -1,0 +1,15 @@
+name: Imperio de Tiamat
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Elige un personaje que no vuelve al panteón en REORGANIZACIÓN este turno.
+passive_effect:
+quote: Es en verdad un ser encantador, cuando se aprende a conocerla.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

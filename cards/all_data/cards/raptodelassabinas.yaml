@@ -1,0 +1,15 @@
+name: Rapto de las sabinas
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Usa inmediatamente la habilidad de un personaje como si fuera uno de tus personajes.
+passive_effect:
+quote: Invitaron a los pueblos vecinos a quedarse con sus hijas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

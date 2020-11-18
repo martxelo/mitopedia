@@ -1,0 +1,15 @@
+name: Visión de las Moiras
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Tu contrario debe eliminar 3P repartidos entre sus personajes
+passive_effect:
+quote: Los derribaron a todos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

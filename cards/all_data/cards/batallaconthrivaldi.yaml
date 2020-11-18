@@ -1,0 +1,15 @@
+name: Batalla con Thrivaldi
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Cansa tu personaje con mitología; da +1F a tus personajes de esa mitología.
+passive_effect:
+quote: El 'Tres Veces Poderoso' Jotun, el rival más igualado de Thor
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,15 @@
+name: Anfiteatro Flavio
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Da +1F a tu Monstruo por cada monstruo en el campo de batalla.
+passive_effect:
+quote: Pasó a llamarse colosseum por una gran estatua que había cerca.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

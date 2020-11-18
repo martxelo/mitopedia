@@ -1,0 +1,15 @@
+name: Derrumbe de templos
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Destruye tu recurso; da +3F a tu personaje.
+passive_effect:
+quote: Hasta la última bóveda se hundió en las dunas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

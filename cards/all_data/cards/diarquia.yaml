@@ -1,0 +1,15 @@
+name: Diarquía
+card_type: Acción
+cost: 2
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Mueve un mortal de tu mitología de tu descarte al campo de batalla.
+passive_effect:
+quote: Agíadas y Euripóntidas reinando juntos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

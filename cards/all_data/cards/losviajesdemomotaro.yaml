@@ -1,0 +1,15 @@
+name: Los viajes de Momotaro
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Si eres el jugador con más mortales en juego gana 3P.
+passive_effect:
+quote: Tenochtitlan, Tlacopan y Tetzuco se unieron para frenar la codicia de Mixtla.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

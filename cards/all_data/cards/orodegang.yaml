@@ -1,0 +1,15 @@
+name: Oro de Gang
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Si eres del jugador con más Armaduras en juego gana 3P.
+passive_effect:
+quote: Olvaldi dejó el oro del mundo a sus tres hijos, pero Gang se apoderó de la mayoría.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

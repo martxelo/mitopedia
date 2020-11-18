@@ -1,0 +1,15 @@
+name: El favor de Ginebra
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Gana 1P en tu personaje por cada carta en su tropa.
+passive_effect:
+quote: Fue infiel al ry con Lancelot.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

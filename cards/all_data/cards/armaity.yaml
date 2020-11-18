@@ -1,0 +1,16 @@
+name: Armaity
+card_type: Acción
+cost: 0
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Spenta
+abilities:
+  - Enfrentamiento: Cada jugador debe dar -1PM permanente a su personaje (mínimo 0) como coste adicional por cada acción que juegue.
+passive_effect:
+quote: La Actitud Sagrada.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

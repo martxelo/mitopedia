@@ -1,0 +1,16 @@
+name: El ataque de los Cíclopes
+card_type: Acción
+cost: 5
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Entorno
+abilities:
+  - Enfrentamiento: Mueve todos los personajes a su panteón.
+passive_effect:
+quote: Encarcelados por Urano, traicionados por Cronos, liberados por Zeus.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

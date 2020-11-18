@@ -1,0 +1,15 @@
+name: Venta de esclavos
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Si controlas 3 o más cartas en tu tropa mueve tu tropa al campo de batalla.
+passive_effect:
+quote: El dinero mueve montañas, y soldados.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

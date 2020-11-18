@@ -1,0 +1,15 @@
+name: Haurvatat
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Mira las tres cartas superiores de tu mazo de designios, puedes equipar una, descartar otra y poner el resto bajo el mazo.
+passive_effect:
+quote: El estado completo de Bien-estar, integridad física y espiritual.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

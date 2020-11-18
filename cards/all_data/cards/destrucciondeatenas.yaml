@@ -1,0 +1,15 @@
+name: Destrucción de Atenas
+card_type: Acción
+cost: 2
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Cansa tu dios; destruye un mortal enemigo con igual o menor fuerza.
+passive_effect:
+quote: Cuantas veces caiga la capital del pensamiento, se reconstruirá.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

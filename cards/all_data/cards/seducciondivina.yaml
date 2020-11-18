@@ -1,0 +1,15 @@
+name: Seducción divina
+card_type: Acción
+cost: 1
+eras:
+  - III
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Cansa tu personaje; cansa uno o más personajes enemigos cuya fuerza combinada sea igual o menor a la de tu personaje.
+passive_effect:
+quote: Deja que mis aguas te acaricien cuando crezcan y yazcamos en un fértil lecho.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
