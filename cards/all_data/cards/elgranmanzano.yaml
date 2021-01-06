@@ -1,4 +1,4 @@
-name: Twynpath
+name: El Gran Manzano
 card_type: Recurso
 cost: 1
 eras:
@@ -9,7 +9,7 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Influencia: Cansa Twynpath; cambia las habilidades de un recurso de INFLUENCIA a ENFRENTAMIENTO.
+  - Influencia: Cansa El Gran Manzano; tu personaje de tu mitología gana 1P.
 passive_effect:
-quote: La mayoría estaban vacíos, solo extrañas inscripciones en las pareces.
+quote: El centro de la Isla Celeste, de sus frutos nacieron los diferentes seres de ambos mundos.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

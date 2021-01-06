@@ -1,0 +1,16 @@
+name: Tienda de curiosidades
+card_type: Recurso
+cost: 3
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Mitos de Cthulhu
+abilities:
+  - Influencia: Mueve un Primigenio con más de la mitad de su PM de tu oráculo a tu panteón.
+passive_effect:
+quote: Un escaparate de misterios e historias sin resolver, donde la moneda de cambio es tu cordura.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

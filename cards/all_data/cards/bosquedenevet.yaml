@@ -1,4 +1,4 @@
-name: Twynpath
+name: Bosque de Nevet
 card_type: Recurso
 cost: 1
 eras:
@@ -8,8 +8,9 @@ max_pow:
 init_pow:
 mythology:
 tags:
+  - Bosque
 abilities:
-  - Influencia: Cansa Twynpath; cambia las habilidades de un recurso de INFLUENCIA a ENFRENTAMIENTO.
+  - Influencia: Cansa Bosque de Nevet; gana 1P en tu invocador.
 passive_effect:
-quote: La mayoría estaban vacíos, solo extrañas inscripciones en las pareces.
+quote: Un bosque sagrado, aún en funcionamiento, a juzgar por las tradiciones.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

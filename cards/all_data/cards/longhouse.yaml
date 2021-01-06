@@ -1,4 +1,4 @@
-name: Twynpath
+name: Longhouse
 card_type: Recurso
 cost: 1
 eras:
@@ -9,7 +9,7 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Influencia: Cansa Twynpath; cambia las habilidades de un recurso de INFLUENCIA a ENFRENTAMIENTO.
+  - Influencia: Destruye tu personaje Espíritu; gana P igual a su F.
 passive_effect:
-quote: La mayoría estaban vacíos, solo extrañas inscripciones en las pareces.
+quote: Casa, escuela, almacén, sitio comunal e íntimo a la vez, donde todo es uno.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

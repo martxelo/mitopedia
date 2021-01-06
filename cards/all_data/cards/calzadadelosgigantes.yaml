@@ -1,0 +1,15 @@
+name: Calzada de los gigantes
+card_type: Recurso
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa calzada de los gigantes; gana 1P en un dios de coste superior a 5 en tu oráculo.
+passive_effect: Cuesta 1P más para Asgard.
+quote: Cuenta la leyenda que Finn MacCool constuyó un camino a su medida.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,18 @@
+name: Torre de Babel
+card_type: Recurso
+cost: 3
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Templo
+  - Sumerio
+  - Único
+abilities:
+  - Influencia: Cansa Torre de Babel; da la clave Demonio y +3F a tu personaje y destrúyelo si vuelve al panteón este turno.
+passive_effect:
+quote: Desdendamos y allí mismo confundamos su lenguaje de modo que no se entiendan los unos con los otros.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

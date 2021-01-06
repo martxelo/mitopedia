@@ -1,0 +1,17 @@
+name: La casa de Papa Legba
+card_type: Recurso
+cost: 3
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Único
+  - Voodoo
+abilities:
+  - Enfrentamiento: Elige un personaje con al menos 4 contadores voodoo y destrúyelos; toma el control sobre ese personaje y devuélvelo al final del ENFRENTAMIENTO.
+passive_effect:
+quote: La puerta al Vilokan, custodiada por el guardián unión entre Loas y humanos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

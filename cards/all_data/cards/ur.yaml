@@ -1,0 +1,16 @@
+name: Ur
+card_type: Recurso
+cost: 2
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Ciudad
+abilities:
+  - Influencia: Cansa Ur; mueve a tu personaje al campo de batalla.
+passive_effect:
+quote: Sus exquisitos edificios, sus fuentes, sus palacios y sus templos ataraían a fieles y paganos de todo el mundo conocido.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

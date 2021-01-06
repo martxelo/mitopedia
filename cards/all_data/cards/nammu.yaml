@@ -1,0 +1,15 @@
+name: Nammu
+card_type: Recurso
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa Nammu; da el control de este recurso a tu oponente permanentemente, toma el control de un recurso contrario permanentemente.
+passive_effect:
+quote: El abismo de las aguas, el origen de todo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

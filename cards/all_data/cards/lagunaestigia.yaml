@@ -1,0 +1,16 @@
+name: Laguna Estigia
+card_type: Recurso
+cost: 2
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Griego
+abilities:
+  - Enfrentamiento: Cansa Laguna Estigia; gana 2P en tu héroe en tu oráculo.
+passive_effect:
+quote: Sus aguas nacían de las lágrimas y la sangre de los desdichados, por eso un solo trago provocaba la peor de las muertes.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

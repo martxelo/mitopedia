@@ -1,0 +1,16 @@
+name: Sitguna
+card_type: Recurso
+cost: 2
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Nórdico
+abilities:
+  - Influencia: Crea una armadura +1F/0C/-1PM y equípala en uno de tus personajes.
+passive_effect:
+quote: Y Odín se asentó en Sitguna, donde empezó el linaje de príncipes y guerreros.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

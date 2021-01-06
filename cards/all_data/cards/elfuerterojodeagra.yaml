@@ -1,0 +1,17 @@
+name: El Fuerte rojo de Agra
+card_type: Recurso
+cost: 3
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Único
+  - Hindú
+abilities:
+  - Influencia: Cansa Fuerte rojo de Agra; mira las dos primeras cartas de tu mazo de designios, roba una.
+passive_effect:
+quote: En la otra orilla, el fuerte rojo alberga el dolor de un gran rey que murió por amor.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

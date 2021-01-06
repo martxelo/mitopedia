@@ -1,0 +1,15 @@
+name: El cementerio
+card_type: Recurso
+cost: 2
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Pon un contador voodoo en un personaje.
+passive_effect:
+quote: Orisha la dueña del cementerio caminaba como si sus pies apenas rozaran el suelo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

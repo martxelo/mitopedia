@@ -1,0 +1,16 @@
+name: Takeyama
+card_type: Recurso
+cost: 2
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Japonés
+abilities:
+  - Influencia: Crea un personaje Ashigaru 1F/0C/2PM.
+passive_effect:
+quote: Más de 30000 ashigarus en la fortaleza de Musashi.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

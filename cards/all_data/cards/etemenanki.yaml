@@ -1,0 +1,16 @@
+name: Etemenanki
+card_type: Recurso
+cost: 2
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Templo
+abilities:
+  - Enfrentamiento: Cansa Etemenanki; cansa un personaje.
+passive_effect:
+quote: Tanto era el amor por sus dioses que el hombre intentó levantarse de la tierra y alcanzar el cielo para tocarlos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

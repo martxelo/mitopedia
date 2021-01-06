@@ -1,0 +1,16 @@
+name: Prayapati
+card_type: Recurso
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Hindú
+  - Vidente
+abilities:
+passive_effect: Aumenta en 1 el límite de tu mano.
+quote: Nacido de Hiranyagarbha.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

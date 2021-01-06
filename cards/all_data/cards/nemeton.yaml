@@ -1,0 +1,16 @@
+name: Nemeton
+card_type: Recurso
+cost: 2
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Celta
+abilities:
+  - Influencia: Crea un personaje con las claves Druida e Invocador 0F/0C/2PM.
+passive_effect:
+quote: En sus claros se formaban los druidas, seres de sabiduría, conocimiento y magia.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

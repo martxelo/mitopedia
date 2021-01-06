@@ -1,0 +1,15 @@
+name: Bosque de los cedros
+card_type: Recurso
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa bosque de los cedros; crea un oráculo con un personaje de tu descarte.
+passive_effect:
+quote: Estoy decidido a penetrar en el bosque de los cedros, quiero fundar toda mi gloria.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

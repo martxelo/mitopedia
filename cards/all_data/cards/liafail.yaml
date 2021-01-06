@@ -1,0 +1,17 @@
+name: Lia Fail
+card_type: Recurso
+cost: 3
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Único
+  - Celta
+abilities:
+  - Influencia: Cansa Lia Fail; da +2F y gana 1P en tu personaje.
+passive_effect:
+quote: Piedra del destino, donde una vez reposó la espada de Nuada.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

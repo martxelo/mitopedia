@@ -1,0 +1,15 @@
+name: Cromlech
+card_type: Recurso
+cost: 2
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa Cromlech; si no se ha jugado esta habilidad este turno, pasas a ser el jugagor inicial.
+passive_effect:
+quote: El misterio del significado de sus ruinas sigue en pie.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

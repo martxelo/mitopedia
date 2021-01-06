@@ -1,0 +1,15 @@
+name: Tamil Nadu
+card_type: Recurso
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa tu vidente; roba una carta.
+passive_effect:
+quote: Tamil se viste de fiesta para celebrar la destrucción de Surapadma.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

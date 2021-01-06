@@ -1,0 +1,16 @@
+name: Narmada
+card_type: Recurso
+cost: 2
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Río
+abilities:
+  - Enfrentamieto: Cansa Narmada; prepara tu personaje.
+passive_effect:
+quote: El que está dotado de felicidad.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

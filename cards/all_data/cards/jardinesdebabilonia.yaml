@@ -1,4 +1,4 @@
-name: Twynpath
+name: Jardines de Babilonia
 card_type: Recurso
 cost: 1
 eras:
@@ -9,7 +9,7 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Influencia: Cansa Twynpath; cambia las habilidades de un recurso de INFLUENCIA a ENFRENTAMIENTO.
+  - Influencia: Cansa tu Personaje y gana 4P en él.
 passive_effect:
-quote: La mayoría estaban vacíos, solo extrañas inscripciones en las pareces.
+quote: Nabucodonosor II quiso hacer a su esposa un regalo que le recordara las hermosas montañas de su florida tierra.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

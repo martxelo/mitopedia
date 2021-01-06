@@ -1,0 +1,15 @@
+name: Tipi
+card_type: Recurso
+cost: 2
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Tus personajes en el campo de batalla ganan 1P.
+passive_effect:
+quote: La mejor forma de crear estabilidad es apoyarse sobre tres piernas, mezcla entre hombre y animal.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
