@@ -1,0 +1,14 @@
+name: El vínculo
+card_type: Evento
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Este turno los personajes mortales no pueden ser destruidos.
+quote: De repente una mañana, alguna parte del mundo despertaba con la noticia de alguna matanza.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

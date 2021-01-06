@@ -1,0 +1,15 @@
+name: Tonalpohualli
+card_type: Evento
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Festival
+abilities:
+passive_effect: Elimina 1P de tus personajes en juego; gana tanto poder como eliminaste.
+quote: El Tonalamatl precedía los días de fastos y nefastos para poder preparar los sacrificios.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

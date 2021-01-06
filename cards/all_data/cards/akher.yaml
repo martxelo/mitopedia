@@ -1,0 +1,15 @@
+name: Akher
+card_type: Evento
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Festival
+abilities:
+passive_effect: Busca un recurso en este oráculo, descarta este evento, baraja de nuevo el oráculo dejando encima el recurso revelado.
+quote: El periodo de Inundaciones comenzaba a finales de verano.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

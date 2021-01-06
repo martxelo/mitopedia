@@ -1,0 +1,15 @@
+name: Shogatsu
+card_type: Evento
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Festival
+abilities:
+passive_effect: Gana 1P en cada uno de tus personajes en juego.
+quote: El año nuevo japonés es la fiesta más importante del calendario, tiene un carácter eminentemente religioso y familiar.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

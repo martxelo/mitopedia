@@ -1,4 +1,4 @@
-name: Luces del Norte
+name: El rastro
 card_type: Evento
 cost:
 eras:
@@ -8,8 +8,7 @@ max_pow:
 init_pow:
 mythology:
 tags:
-  - Festival
 abilities:
-passive_effect: Después de revelar tus oráculos gana 2P en tu personaje en un oráculo.
-quote: El resplandor de la armadura de las valkirias.
+passive_effect: Este turno no se puede jugar las habilidades de los equipos.
+quote: Su garganta está abierta, y requiere sacrificios.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

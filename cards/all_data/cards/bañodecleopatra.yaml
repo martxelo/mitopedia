@@ -1,4 +1,4 @@
-name: Luces del Norte
+name: Baño de Cleopatra
 card_type: Evento
 cost:
 eras:
@@ -10,6 +10,6 @@ mythology:
 tags:
   - Festival
 abilities:
-passive_effect: Después de revelar tus oráculos gana 2P en tu personaje en un oráculo.
-quote: El resplandor de la armadura de las valkirias.
+passive_effect: Cansa un dios y dale +2P.
+quote: Quinientas burras nodrizas acompañaban su comitiva.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

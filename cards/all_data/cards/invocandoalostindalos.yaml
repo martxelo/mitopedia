@@ -1,0 +1,14 @@
+name: Invocando a los Tíndalos
+card_type: Evento
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Elimina todas las claves (excepto Dios) de los personajes en panteones y oráculos hasta el final de turno. Todos ganan la clave Loco.
+quote: ¿Qué puede pasar? Sólo es un nombre. (Joe Boffer, últimas palabras).
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

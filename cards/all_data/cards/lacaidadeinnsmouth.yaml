@@ -1,0 +1,15 @@
+name: La caída de Innsmouth
+card_type: Evento
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Único
+abilities:
+passive_effect: Cansa todos los personajes con PM2 o menos.
+quote: Había un motivo por el que no había ancianos ni fotos de familia en las casas, pero era tarde para huir.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

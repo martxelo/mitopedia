@@ -1,0 +1,15 @@
+name: Cataclismo de Deucalión
+card_type: Evento
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Plaga
+abilities:
+passive_effect: Da -1F a todos los personajes en juego hasta el final de turno.
+quote: Cuando Zeus decidió terminar la Edad Dorada, Deucalión construyó un arca y se embarcó con todo lo necesario.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

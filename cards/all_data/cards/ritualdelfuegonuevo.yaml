@@ -1,0 +1,15 @@
+name: Ritual del fuego nuevo
+card_type: Evento
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Plaga
+abilities:
+passive_effect: Elimina todos los puntos de poder de tu personaje; gana tantos puntos como eliminaste.
+quote: Cada 52 años el mundo está en peligro de dejar de existir, con el fuego nuevo se anima al sol a seguir saliendo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

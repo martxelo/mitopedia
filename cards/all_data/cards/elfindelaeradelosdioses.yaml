@@ -1,0 +1,14 @@
+name: El fin de la era de los dioses
+card_type: Evento
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Este turno no se puede usar las habilidades de los personajes con la clave Dios.
+quote: Ellos tomarán de nosotros cuanto quieran. ¿Preguntas al aire si quiere ser respirado?. (Uno Sin Nombre, sectario).
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

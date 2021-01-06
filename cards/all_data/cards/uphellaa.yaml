@@ -1,4 +1,4 @@
-name: Luces del Norte
+name: Uphellaa
 card_type: Evento
 cost:
 eras:
@@ -10,6 +10,6 @@ mythology:
 tags:
   - Festival
 abilities:
-passive_effect: Después de revelar tus oráculos gana 2P en tu personaje en un oráculo.
-quote: El resplandor de la armadura de las valkirias.
+passive_effect: Da +1F a todos tus guerreros hasta el final del turno.
+quote: Los vikingos son conocidos por la crueldad y el modo dañino de hacerse con los nuevos territorios.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

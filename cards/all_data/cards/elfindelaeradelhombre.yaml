@@ -1,0 +1,16 @@
+name: El fin de la era del hombre
+card_type: Evento
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Cataclismo
+  - Único
+abilities:
+passive_effect: Destruye a tu personaje en tu panteón; roba tantas cartas como su poder máximo.
+quote: Un mundo no puede vivir sin fe. Un hombre sin fe no merece hacerlo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

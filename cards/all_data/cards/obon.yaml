@@ -1,0 +1,15 @@
+name: Obon
+card_type: Evento
+cost:
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Festival
+abilities:
+passive_effect: Tu personaje en juego gana tantos puntos de poder como sean necesarios para llegar a su poder máximo.
+quote: Se dice que los que están en el otro mundo vuelven para reunirse con sus familiares.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
