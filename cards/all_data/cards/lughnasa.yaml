@@ -1,0 +1,14 @@
+name: Lughnasa
+card_type: Evento
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Descarta sin efecto todos los festivales hasta el final de la próxima fase de TRANSFERENCIA.
+quote: ... y los dioses premiaron su esfuerzo y de su sudor brotaron gemas y de la sangre de sus yagas manaron campos de oro.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

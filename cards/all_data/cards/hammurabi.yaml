@@ -1,4 +1,4 @@
-name: Imbolc
+name: Hammurabi
 card_type: Evento
 cost:
 eras:
@@ -10,6 +10,6 @@ mythology:
 tags:
   - Festival
 abilities:
-passive_effect: Roba una carta.
-quote: Bendícenos Briggit, que la Rueda siga girando.
+passive_effect: Este turno puedes jugar dos veces la habilidad de tu mortal.
+quote: Uno de los primeros códigos de leyes escritas de la Historia.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

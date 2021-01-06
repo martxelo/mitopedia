@@ -1,4 +1,4 @@
-name: Imbolc
+name: Traición entre las filas
 card_type: Evento
 cost:
 eras:
@@ -8,8 +8,7 @@ max_pow:
 init_pow:
 mythology:
 tags:
-  - Festival
 abilities:
-passive_effect: Roba una carta.
-quote: Bendícenos Briggit, que la Rueda siga girando.
+passive_effect: Todos los jugadores descartan una carta.
+quote: La cordura de las valkyrias fue un tanto primigenio.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

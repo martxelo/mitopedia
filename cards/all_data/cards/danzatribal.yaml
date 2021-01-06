@@ -1,4 +1,4 @@
-name: Imbolc
+name: Danza tribal
 card_type: Evento
 cost:
 eras:
@@ -8,8 +8,7 @@ max_pow:
 init_pow:
 mythology:
 tags:
-  - Festival
 abilities:
-passive_effect: Roba una carta.
-quote: Bendícenos Briggit, que la Rueda siga girando.
+passive_effect: Pasas a ser el jugador inicial o aumenta en 1 tu transferencia.
+quote: La danza Chippewa solo podía ser acompañada del tambor sagrado.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

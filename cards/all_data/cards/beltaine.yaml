@@ -1,4 +1,4 @@
-name: Imbolc
+name: Beltaine
 card_type: Evento
 cost:
 eras:
@@ -10,6 +10,6 @@ mythology:
 tags:
   - Festival
 abilities:
-passive_effect: Roba una carta.
-quote: Bendícenos Briggit, que la Rueda siga girando.
+passive_effect: Cambia las habilidades de todos los recursos de INFLUENCIA a ENFRENTAMIENTO hasta el final del turno.
+quote: Ofrendas y Gracias a Bel por la vuelta del sol.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

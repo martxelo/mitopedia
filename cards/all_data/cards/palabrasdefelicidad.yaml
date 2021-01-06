@@ -1,4 +1,4 @@
-name: Imbolc
+name: Palabras de felicidad
 card_type: Evento
 cost:
 eras:
@@ -10,6 +10,6 @@ mythology:
 tags:
   - Festival
 abilities:
-passive_effect: Roba una carta.
-quote: Bendícenos Briggit, que la Rueda siga girando.
+passive_effect: Gana 4P repartidos entre cualquier número de tus personajes en el panteón.
+quote: El viaje del héroe, el camino del alma.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

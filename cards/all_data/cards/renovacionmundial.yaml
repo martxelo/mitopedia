@@ -1,0 +1,15 @@
+name: Renovación mundial
+card_type: Evento
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Festival
+abilities:
+passive_effect: Este turno se juega la fase de ENFRENTAMIENTO antes de INFLUENCIA si no se ha jugado.
+quote: Cuerpo y alma, divino y terrenal, tierra y cielo, muerte y vida; todo fluye en un ciclo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

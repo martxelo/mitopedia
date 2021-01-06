@@ -1,0 +1,15 @@
+name: Samsara
+card_type: Evento
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Festival
+abilities:
+passive_effect: Este turno se juega la fase de REORGANIZACIÓN antes de ENFRENTAMIENTO si no se ha jugado.
+quote: Alma y cuerpo, terrenal y divino, cielo y tierra, vida y muerte; todo fluye en un ciclo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,15 @@
+name: Transformación en Gros-Bon-Ange
+card_type: Evento
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Plaga
+abilities:
+passive_effect: Las acciones de enfrentamiento tienen como coste adicional descartar una carta.
+quote: Uno de los dos espíritus que forman el alma, el alma esencial.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

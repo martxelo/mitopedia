@@ -1,0 +1,15 @@
+name: Ventaja táctica
+card_type: Evento
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Único
+abilities:
+passive_effect: Todos los jugadores ganan 5P; la condición de victoria por Dios de Dioses se ve incrementada en 5P permanentemente.
+quote: Los soldados que habían logrado recuperar una posición estable comenzaron a disparar al gigantesco ser.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

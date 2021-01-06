@@ -1,0 +1,15 @@
+name: Descenso al infierno
+card_type: Evento
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Plaga
+abilities:
+passive_effect: Elimina la habilidad de todos los panteones contrarios.
+quote: Baja a los infiernos, a Kurnugui, al país sin regreso, un lugar oscuro, sombrío y polvoriento donde reina Ereshkigal.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

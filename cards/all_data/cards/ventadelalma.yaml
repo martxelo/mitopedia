@@ -1,0 +1,14 @@
+name: Venta el alma
+card_type: Evento
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Da +2F y gana 2P en tu personaje; si es asignado, destrúyelo al final de este turno.
+quote: El alma iba acompañando con la venta de las tierras en las que los guerreros habían caído.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

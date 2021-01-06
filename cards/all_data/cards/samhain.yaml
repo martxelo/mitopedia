@@ -1,4 +1,4 @@
-name: Imbolc
+name: Samhain
 card_type: Evento
 cost:
 eras:
@@ -10,6 +10,6 @@ mythology:
 tags:
   - Festival
 abilities:
-passive_effect: Roba una carta.
-quote: Bendícenos Briggit, que la Rueda siga girando.
+passive_effect: Mueve un mortal de coste menor de 5 de tu descarte a tu panteón.
+quote: Encended las hogueras. Que el fuego ilumine la noche.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

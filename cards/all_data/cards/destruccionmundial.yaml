@@ -1,0 +1,16 @@
+name: Libaciones
+card_type: Evento
+cost:
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Único
+  - Plaga
+abilities:
+passive_effect: Cansa todas las cartas en juego.
+quote: Incluso los dioses más tiranos y de corazón negro lloraron ese día, cuando tantas vidas quedaron reducidas a polvo y las ciudades fueron asoladas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

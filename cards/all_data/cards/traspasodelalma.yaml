@@ -1,4 +1,4 @@
-name: Imbolc
+name: Traspaso del alma
 card_type: Evento
 cost:
 eras:
@@ -8,8 +8,7 @@ max_pow:
 init_pow:
 mythology:
 tags:
-  - Festival
 abilities:
-passive_effect: Roba una carta.
-quote: Bendícenos Briggit, que la Rueda siga girando.
+passive_effect: Tu personaje pasa a ser una copia exacta de un personaje enemigo.
+quote: El alma se alimentaba de los triunfos conseguidos.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
