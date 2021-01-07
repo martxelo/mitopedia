@@ -1,0 +1,16 @@
+name: Miskatonic
+card_type: Recurso
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Biblioteca
+abilities:
+  - Influencia: Cansa Miskatonic, mira la primera carta de tu mazo de designios; si es una invocación, muéstrala y ponla en tu mano.
+passive_effect:
+quote: No encontrarás viejos profesores de antropología aquí.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

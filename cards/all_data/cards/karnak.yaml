@@ -1,0 +1,16 @@
+name: Karnak
+card_type: Recurso
+cost: 2
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Ciudad
+abilities:
+  - Influencia: Cansa Karnak; mira la primera carta de un oráculo sin P encima, puedes ponerla debajo de ese oráculo.
+passive_effect:
+quote: La ciudad fortificada, también llamada, el lugar más venerado.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

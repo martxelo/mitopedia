@@ -1,0 +1,17 @@
+name: Manicomio
+card_type: Recurso
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Biblioteca
+abilities:
+  - Influencia: Cansa Manicomio; da la clave Loco a tu personaje.
+  - Influencia: Cansa Manicomio; da +1F a tu personaje con la clave Loco.
+passive_effect:
+quote: Hay más dentro que fuera.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,4 +1,4 @@
-name: Carcosa
+name: Pozo de Urd
 card_type: Recurso
 cost: 3
 eras:
@@ -8,10 +8,10 @@ max_pow:
 init_pow:
 mythology:
 tags:
-  - Única
-  - Mitos de Cthulhu
+  - Nórdico
+  - Único
 abilities:
-  - Influencia: Cansa Carcosa; gana 2P en un Dios en tu oráculo.
+  - Enfrentamiento: Cansa Pozo de Urd; gana 1P por cada guerrero en tu ejército (máximo 3).
 passive_effect:
-quote: Hoy sólo quedan ruinas, y los soles gemelos se hunden en su lago.
+quote: Alimenta una de las raíces de Iggdrasil.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

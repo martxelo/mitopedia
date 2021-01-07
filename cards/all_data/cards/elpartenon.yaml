@@ -1,0 +1,15 @@
+name: El Partenón
+card_type: Recurso
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa El Partenón, destruye un equipo de tu personaje; gana poder igual al coste del equipo destruido.
+passive_effect:
+quote: Construido sobre la Acrópolis, antigua morada de Cecrops.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

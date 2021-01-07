@@ -1,0 +1,16 @@
+name: Caelano
+card_type: Recurso
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Biblioteca
+abilities:
+  - Influencia: Cansa Caelano; da +1PM permanente a tu personaje con la clave Invocador.
+passive_effect:
+quote: Una vez tienes el conocimiento cósmico en tu cabeza, ya no necesitas ojos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

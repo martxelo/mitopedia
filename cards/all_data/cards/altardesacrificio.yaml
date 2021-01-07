@@ -1,0 +1,15 @@
+name: Altar de Sacrificio
+card_type: Recurso
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa Altar de Sacrificio; da -1F a un personaje enemigo.
+passive_effect:
+quote: El agujero en el centro permite pasar la cuerda blanca con que se ata el sacrificio.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

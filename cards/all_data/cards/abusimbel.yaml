@@ -1,0 +1,16 @@
+name: Abu Simbel
+card_type: Recurso
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Templo
+abilities:
+  - Influencia: Cansa Abu Simbel; gana 1P en tu personaje con la clave Dios.
+passive_effect:
+quote: Los templos se erigieron para impresionar a los reinos vecinos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

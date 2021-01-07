@@ -1,0 +1,17 @@
+name: Ópera de Sidney
+card_type: Recurso
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Único
+  - Punto de poder
+abilities:
+  - Influencia: Cansa Ópera de Sidney; el próximo evento revelado se descarta sin resolución.
+passive_effect:
+quote: El teatro se había quedado vacío, desde fuera llegaba el murmullo de agitación y pánico.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

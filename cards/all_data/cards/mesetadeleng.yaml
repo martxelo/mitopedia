@@ -1,0 +1,16 @@
+name: Meseta de Leng
+card_type: Recurso
+cost: 2
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Único
+abilities:
+  - Influencia: Cansa Meseta de Leng; da -2PM a todos los personajes hasta el principio del turno siguiente.
+passive_effect:
+quote: En los dominios del Rey de Amarillo nada encontrarás, salvo locura.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

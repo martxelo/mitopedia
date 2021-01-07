@@ -1,0 +1,16 @@
+name: Wabi-Sabi
+card_type: Recurso
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa Wabi-Sabi, elimina 1P de tu personaje; gana 1P.
+  - Influencia: Cansa Wabi-Sabi, elimina 1P; gana 1P en tu personaje.
+passive_effect:
+quote: El fluir constante.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

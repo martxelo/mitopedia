@@ -1,4 +1,4 @@
-name: Carcosa
+name: Templo Jinja
 card_type: Recurso
 cost: 3
 eras:
@@ -8,10 +8,11 @@ max_pow:
 init_pow:
 mythology:
 tags:
-  - Única
-  - Mitos de Cthulhu
+  - Templo
+  - Japonés
+  - Único
 abilities:
-  - Influencia: Cansa Carcosa; gana 2P en un Dios en tu oráculo.
+  - Influencia: Cansa Templo Jinja; elimina 2P de un personaje.
 passive_effect:
-quote: Hoy sólo quedan ruinas, y los soles gemelos se hunden en su lago.
+quote: Su único propósito es santificar y realizar cultos a un kami.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

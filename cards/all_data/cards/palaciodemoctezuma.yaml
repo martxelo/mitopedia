@@ -1,0 +1,15 @@
+name: Palacio de Moctezuma
+card_type: Recurso
+cost: 2
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Copia la habilidad de un recurso contrario.
+passive_effect:
+quote: Hubo diez señales antes de ser conquistado, la primera fue una columna de fuego.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

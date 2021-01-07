@@ -1,0 +1,17 @@
+name: Coliseo
+card_type: Recurso
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Único
+  - Punto de poder
+abilities:
+  - Influencia: Cansa Coliseo; da +1F a uno o dos personajes con la clave Héroe.
+passive_effect:
+quote: Si Thor cerraba los ojos podía todavía escuchar el rugir del populacho.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Kremlin
+card_type: Recurso
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Único
+  - Punto de poder
+abilities:
+  - Influencia: Cansa Kremlin; revela la carta superior de un oráculo.
+passive_effect:
+quote: Siguió el río Moskova hacia el oeste y al poco rato vio el origen de la llamada.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

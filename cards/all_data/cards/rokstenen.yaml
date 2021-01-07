@@ -1,0 +1,15 @@
+name: Rokstenen
+card_type: Recurso
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa Rokstenen; gana 1P.
+passive_effect:
+quote: Yo les digo a los jovenes... yo digo para recordar...
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

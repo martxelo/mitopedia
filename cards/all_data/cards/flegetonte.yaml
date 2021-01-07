@@ -1,0 +1,15 @@
+name: Flegetonte
+card_type: Recurso
+cost: 2
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa Flegetonte; da -1PM (permanente) a un personaje enemigo.
+passive_effect:
+quote: En él fluyen las sombras de los tiranos, los asesinos, los ladrones y los violentos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

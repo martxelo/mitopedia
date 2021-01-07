@@ -1,4 +1,4 @@
-name: Carcosa
+name: Oráculo de Delfos
 card_type: Recurso
 cost: 3
 eras:
@@ -8,10 +8,10 @@ max_pow:
 init_pow:
 mythology:
 tags:
-  - Única
-  - Mitos de Cthulhu
+  - Griego
+  - Único
 abilities:
-  - Influencia: Cansa Carcosa; gana 2P en un Dios en tu oráculo.
+  - Enfrentamiento: Cansa Oráculo de Delfos; gana 1P en cada uno de tus personajes en el campo de batalla.
 passive_effect:
-quote: Hoy sólo quedan ruinas, y los soles gemelos se hunden en su lago.
+quote: Conócete a ti mismo.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
