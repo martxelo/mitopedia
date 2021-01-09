@@ -1,0 +1,16 @@
+name: Vermiis Misteriis
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 0
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Libro
+abilities:
+  - Enfrentamiento: Destruye Vermiis Misteriis; este personaje gana tanto P como sea necesario para llegar a su PM.
+passive_effect:
+quote: Todo tiene un precio. Y allá donde vas no necesitarás tu cordura.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

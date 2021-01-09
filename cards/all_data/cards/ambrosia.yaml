@@ -1,0 +1,14 @@
+name: Ambrosía
+card_type: Equipo
+cost: 1
+eras:
+  - I
+strength: 0
+max_pow: 2
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect: Este personaje tiene la clave Dios.
+quote: Comida de dioses, maná caído del cielo, rocío.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

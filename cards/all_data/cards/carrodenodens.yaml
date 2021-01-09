@@ -1,0 +1,16 @@
+name: Carro de Nodens
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Carruaje
+abilities:
+  - Enfrentamiento: Mueve un personaje de otro jugador al campo de batalla, en este momento él debe decidir qué ejército lo controla.
+passive_effect:
+quote: Los pensamientos de los Seres Superiores no pueden ser descifrados.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

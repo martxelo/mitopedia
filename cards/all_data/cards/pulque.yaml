@@ -1,0 +1,15 @@
+name: Pulque
+card_type: Equipo
+cost: 0
+eras:
+  - I
+strength: 0
+max_pow: -1
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Elimina 1P de este personaje y cánsalo; equipa el pulque en un personaje enemigo. Un personaje con el pulque equipado no puede usar su habilidad impresa.
+passive_effect:
+quote: Se obtiene haciendo fermentar el aguamiel o jugo extraído del maguey.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

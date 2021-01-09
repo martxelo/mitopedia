@@ -1,0 +1,17 @@
+name: Talismán de Fuego
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 0
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Fuego
+  - Único
+abilities:
+  - Influencia: Elige a un personaje enemigo; elimina 1P en él.
+passive_effect: Cuesta 1P menos para Amateratsu.
+quote: Omamori no hi.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

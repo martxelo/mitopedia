@@ -1,0 +1,14 @@
+name: Saga sacrificio
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 1
+max_pow: 1
+init_pow:
+mythology:
+tags:
+abilities:
+passive_effect:
+quote: Con ella, el chamán tocaba el corazón de sus súbditos... literalmente... y con él desgarraba las tripas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

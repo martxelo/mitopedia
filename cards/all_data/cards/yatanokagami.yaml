@@ -1,0 +1,17 @@
+name: Yata No Kagami
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 0
+max_pow: 2
+init_pow:
+mythology:
+tags:
+  - Única
+  - Oricalco
+abilities:
+  - Influencia: Elimina hasta 3P de tus personajes preparados; gana tanto P como has eliminado.
+passive_effect: Solo se puede equipar a un Dios.
+quote: Lo que una vez devolvió la luz al mundo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Tridente
+card_type: Equipo
+cost: 3
+eras:
+  - I
+strength: 3
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Arma
+  - Griega
+  - Única
+abilities:
+passive_effect: Solo se puede equipar a un Dios. Cuesta 1P menos para Poseidón.
+quote: Poseidón golpeó la tierra con él para crear el caballo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

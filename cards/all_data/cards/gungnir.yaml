@@ -1,0 +1,18 @@
+name: Gungnir
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+  - Única
+  - Oricalco
+abilities:
+  - Influencia: Elimina 1P de este personaje; prepáralo.
+passive_effect: Solo se puede equipar a un Dios.
+quote: Infalible, dedo de la justicia, sagrada vengadora y juramento de guerreros.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

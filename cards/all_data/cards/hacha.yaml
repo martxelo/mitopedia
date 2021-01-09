@@ -1,16 +1,15 @@
-name: Duamutef
+name: Hacha
 card_type: Equipo
-cost: 1
+cost: 2
 eras:
   - I
-strength: -1
+strength: 2
 max_pow: -1
 init_pow:
 mythology:
 tags:
-  - Única
+  - Arma
 abilities:
-  - Enfrentamiento: Roba una carta.
 passive_effect:
-quote: En su interior se depositaba el estómago y su taba tenía forma de chacal.
+quote: Las favoritas de los vikingos, un solo hachazo puede cortar extremidades con aparente facilidad.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

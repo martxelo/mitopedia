@@ -1,0 +1,17 @@
+name: Talismán de Aire
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 0
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Aire
+  - Único
+abilities:
+  - Influencia: Prepara un recurso de coste 2 o menos; puedes volver a usarlo este turno.
+passive_effect: Cuesta 1P menos para Takami-misubi.
+quote: Omamori no kaze.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

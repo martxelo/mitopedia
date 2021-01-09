@@ -1,0 +1,16 @@
+name: Auriga
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Carruaje
+abilities:
+  - Enfrentamiento: Mueve a este personaje al campo de batalla si ha estado allí este turno.
+passive_effect:
+quote: Un infante corría a la par del carro para rematar a los heridos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

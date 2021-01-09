@@ -1,0 +1,17 @@
+name: Rayo
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 0
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+  - Única
+abilities:
+  - Enfrentamiento: Cansa a un personaje enemigo con menos PM que este personaje.
+passive_effect:
+quote: Tras la Titanomaquia, los cíclopes regalaron a Zeus el relámpago y los hecatónquiros quedaron como custodios del Tártaro.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

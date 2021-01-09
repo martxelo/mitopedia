@@ -1,0 +1,16 @@
+name: Yoroi
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 0
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Armadura
+abilities:
+  - Enfrentamiento: Gana 1P en este personaje.
+passive_effect:
+quote: Conjuga protección con una alta movilidad.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

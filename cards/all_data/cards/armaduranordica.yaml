@@ -1,0 +1,16 @@
+name: Armadura nórdica
+card_type: Equipo
+cost: 1
+eras:
+  - I
+strength: 0
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Armadura
+abilities:
+  - Influencia: Elimina 1P de este personaje; gana 1P.
+passive_effect:
+quote: Cueros endurecidos o simples mantos de lana cubiertos con pieles.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

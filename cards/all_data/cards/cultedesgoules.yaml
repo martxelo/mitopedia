@@ -1,0 +1,17 @@
+name: Culte des Goules
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 0
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Único
+  - Libro
+abilities:
+  - Enfrentamiento: Destruye Culte des Goules; todos los jugadores eliminan 1P por cada evento en su descarte (máximo 3).
+passive_effect:
+quote: Hay demasiada carne muerta y profanación en mi conciencia como para retroceder (Whatey).
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

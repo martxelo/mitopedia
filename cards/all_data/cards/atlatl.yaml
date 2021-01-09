@@ -1,16 +1,16 @@
-name: Duamutef
+name: Átlatl
 card_type: Equipo
-cost: 1
+cost: 2
 eras:
   - I
-strength: -1
+strength: 0
 max_pow: -1
 init_pow:
 mythology:
 tags:
-  - Única
+  - Veneno
 abilities:
-  - Enfrentamiento: Roba una carta.
+  - Influencia: Da -1PM permanente a un personaje enemigo.
 passive_effect:
-quote: En su interior se depositaba el estómago y su taba tenía forma de chacal.
+quote: Más potente que un arco, más mortífero que una jabalina.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

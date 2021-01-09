@@ -1,0 +1,16 @@
+name: Libro de Eibon
+card_type: Equipo
+cost: 1
+eras:
+  - I
+strength: 0
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Libro
+abilities:
+  - Influencia: Destruye el Libro de Eibon; reordena uno de tus oráculos.
+passive_effect:
+quote: Hubo una tierra más allá del norte que una vez fue fértil. Allí fue escrito el libro más antiguo del mundo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

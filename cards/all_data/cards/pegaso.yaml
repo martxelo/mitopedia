@@ -1,0 +1,15 @@
+name: Pegaso
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Elimina 1P de este personaje; muévelo al campo de batalla.
+passive_effect: Este personaje tiene la clave Guerrero y Héroe.
+quote: Nacido de la sangre derramada de Medusa, sirvió a Belerofonte para dar muerte a la Quimera.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

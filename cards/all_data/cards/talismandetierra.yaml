@@ -1,0 +1,17 @@
+name: Talismán de Tierra
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 0
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Tierra
+  - Único
+abilities:
+  - Influencia: Da -1F a un personaje enemigo.
+passive_effect: Cuesta 1P menos para Ame-no-oshido-mimi.
+quote: De la tierra coge su poder.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

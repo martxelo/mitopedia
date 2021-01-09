@@ -1,0 +1,17 @@
+name: Talismán de Agua
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 0
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Agua
+  - Único
+abilities:
+  - Enfrentamiento: Elimina 1P de este personaje; puedes volver a poder jugar su habilidad.
+passive_effect: Cuesta 1P menos para Ame-no-mi Kurami.
+quote: Omamori no mizu.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

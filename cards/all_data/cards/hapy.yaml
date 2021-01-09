@@ -1,4 +1,4 @@
-name: Duamutef
+name: Hapy
 card_type: Equipo
 cost: 1
 eras:
@@ -8,9 +8,8 @@ max_pow: -1
 init_pow:
 mythology:
 tags:
-  - Única
+  - Único
 abilities:
-  - Enfrentamiento: Roba una carta.
-passive_effect:
-quote: En su interior se depositaba el estómago y su taba tenía forma de chacal.
+passive_effect: Todas las transferencias se reducen en 1.
+quote: Vaso canopo donde se guardaban los pulmones.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

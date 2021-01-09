@@ -1,16 +1,17 @@
-name: Duamutef
+name: Vara de Hermes
 card_type: Equipo
-cost: 1
+cost: 2
 eras:
   - I
-strength: -1
-max_pow: -1
+strength: 1
+max_pow: 1
 init_pow:
 mythology:
 tags:
+  - Arma
   - Única
 abilities:
-  - Enfrentamiento: Roba una carta.
+  - Enfrentamiento: Gana 1P por cada arma equipada en tus personajes.
 passive_effect:
-quote: En su interior se depositaba el estómago y su taba tenía forma de chacal.
+quote: Una vara con un sol alado.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

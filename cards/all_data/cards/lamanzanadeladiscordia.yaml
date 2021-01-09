@@ -1,0 +1,15 @@
+name: La manzana de la discordia
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 0
+max_pow: 1
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Destruye este equipo; roba 2 cartas.
+passive_effect:
+quote: Para la más bella.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Vellocino Dorado
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 0
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Única
+  - Oricalco
+abilities:
+  - Influencia: Elimina 1P de este personaje; cansa un recurso.
+passive_effect: Solo se puede equipar a un Dios.
+quote: No te conviertes en estrellas en el cielo sin dejarte la piel intentándolo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

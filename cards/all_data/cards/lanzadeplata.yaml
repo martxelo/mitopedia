@@ -1,0 +1,16 @@
+name: Lanza de plata
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Influencia: Elimina 2P de este personaje; prepara tu personaje.
+passive_effect: Este personaje tiene la clave Ashigaru.
+quote: Tu fe acaba de salvar Japón, mi pequeña guerrera, mi primera ashigaru...
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

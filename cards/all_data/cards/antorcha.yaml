@@ -1,0 +1,16 @@
+name: Antorcha
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Enfrentamiento: Elimina 1P de un personaje enemigo si no tiene el trato fuego.
+passive_effect:
+quote: Iluminan, transportan el fuego y son útiles para pelear.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

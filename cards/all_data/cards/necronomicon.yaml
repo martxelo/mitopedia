@@ -1,0 +1,18 @@
+name: Necronomicón
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 0
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Único
+  - Libro
+  - Mitos de Cthulhu
+abilities:
+  - Influencia: Cansa a X mortales que controles; gana XP en un personaje con la clave Primigenio en tu oráculo.
+passive_effect:
+quote: Que no está muerto lo que yace eternamente, y con los evos extraños incluso la muerte puede morir.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

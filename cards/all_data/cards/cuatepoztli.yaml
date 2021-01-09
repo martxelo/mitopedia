@@ -1,16 +1,15 @@
-name: Duamutef
+name: Cuatepoztli
 card_type: Equipo
 cost: 1
 eras:
   - I
-strength: -1
-max_pow: -1
+strength: 0
+max_pow: 0
 init_pow:
 mythology:
 tags:
-  - Única
 abilities:
-  - Enfrentamiento: Roba una carta.
+  - Influencia: da -1PM permanente a tu personaje (mínimo 0); gana 1P.
 passive_effect:
-quote: En su interior se depositaba el estómago y su taba tenía forma de chacal.
+quote: Infunde terror a los enemigos.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

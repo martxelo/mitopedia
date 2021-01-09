@@ -1,0 +1,15 @@
+name: Máscara
+card_type: Equipo
+cost: 1
+eras:
+  - I
+strength: 0
+max_pow: 0
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Cansa un personaje con la clave Loco.
+passive_effect: Este personaje tiene la clave Loco.
+quote: Su simple imagen es capaz de quebrar la voluntad de un mortal.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

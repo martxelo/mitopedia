@@ -1,0 +1,15 @@
+name: Origami
+card_type: Equipo
+cost: 2
+eras:
+  - I
+strength: 0
+max_pow: 0
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa Origami; mueve 1P de la reserva de tu oponente a un personaje enemigo.
+passive_effect:
+quote: Con tan solo papel y las manos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
