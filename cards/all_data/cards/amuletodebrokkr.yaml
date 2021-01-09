@@ -1,0 +1,16 @@
+name: Amuleto de Brokkr
+card_type: Equipo
+cost: 1
+eras:
+  - II
+strength: 0
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Amuleto
+abilities:
+  - Influencia: Este personaje puede usar su habilidad aunque esté cansado.
+passive_effect:
+quote: Y de la forja de Brokkr surgió el Mjolnir que fue el primero de muchos objetos estelares.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

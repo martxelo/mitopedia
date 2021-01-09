@@ -1,0 +1,16 @@
+name: El mochuelo de Atenea
+card_type: Equipo
+cost: 2
+eras:
+  - II
+strength: 0
+max_pow: 2
+init_pow:
+mythology:
+tags:
+  - Único
+abilities:
+  - Influencia: Elimina la habilidad de un panteón.
+passive_effect: Da la clave Vidente a este personaje.
+quote: La lechuza atendió a Atenea con una coraza de piel de cabra, la Diosa fue puesta a salvo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

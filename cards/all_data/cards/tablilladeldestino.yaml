@@ -1,0 +1,16 @@
+name: Tablilla del destino
+card_type: Equipo
+cost: 3
+eras:
+  - II
+strength: 2
+max_pow: 2
+init_pow:
+mythology:
+tags:
+  - Único
+  - Sumerio
+abilities:
+passive_effect: Da a este personaje las claves Dios, Demonio, Invocador, Rey y Vidente.
+quote: Fueron escritas cuando aún nadie tenía nombre.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

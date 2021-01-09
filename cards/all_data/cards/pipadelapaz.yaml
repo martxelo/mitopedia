@@ -1,0 +1,17 @@
+name: Pipa de la paz
+card_type: Equipo
+cost: 2
+eras:
+  - II
+strength: 0
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Único
+  - Nativo
+abilities:
+  - Influencia: Elige un personaje preparado de cada jugador; no pueden ser asignados este turno.
+passive_effect:
+quote: Y tras fumar la pipa volvió con sus hermanos los Siux.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

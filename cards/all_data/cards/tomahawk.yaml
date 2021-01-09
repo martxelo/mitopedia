@@ -1,0 +1,15 @@
+name: Tomahawk
+card_type: Equipo
+cost: 1
+eras:
+  - II
+strength: 1
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+passive_effect: Solo se puede equipar a un guerrero.
+quote: Silva cortando el viento, tallada en piedra a la cual se le pide permiso para usarla en la batalla.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

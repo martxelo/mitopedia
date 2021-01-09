@@ -1,0 +1,16 @@
+name: Marmita mágica
+card_type: Equipo
+cost: 2
+eras:
+  - II
+strength: 0
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Caldero
+abilities:
+  - Influencia: Cansa este personaje; da +2F a tu personaje.
+passive_effect: Cuesta 1P menos para druidas.
+quote: ¿Te caíste en la marmita cuando eras pequeño?
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

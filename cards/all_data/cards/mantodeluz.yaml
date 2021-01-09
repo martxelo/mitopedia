@@ -1,0 +1,15 @@
+name: Manto de luz
+card_type: Equipo
+cost: 2
+eras:
+  - II
+strength: 0
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Armadura
+abilities:
+passive_effect: Este personaje no puede ser destruido.
+quote: La luz del día no brillaba, la de la luna no emergía, la invisivilidad surgía.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

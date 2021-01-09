@@ -1,0 +1,15 @@
+name: Djakou
+card_type: Equipo
+cost: 1
+eras:
+  - II
+strength: 0
+max_pow: 1
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Incrementa en 1P el coste de las acciones que hagan objetivo a este personaje.
+passive_effect:
+quote: Oyá caminaba por el río Niger, su Djakou la protegía del Sol y de las miradas curiosas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

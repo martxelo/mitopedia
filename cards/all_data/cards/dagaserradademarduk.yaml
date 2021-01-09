@@ -1,0 +1,16 @@
+name: Daga serrada de Marduk
+card_type: Equipo
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Enfrentamiento: Da +1F permanente a este personaje.
+passive_effect:
+quote: La daga que sostiene en su correa es la ayuda para mantener el orden en los cielos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

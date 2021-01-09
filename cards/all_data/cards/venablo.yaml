@@ -1,0 +1,16 @@
+name: Venablo
+card_type: Equipo
+cost: 2
+eras:
+  - II
+strength: 0
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Enfrentamiento: Elimina 1P a un personaje enemigo.
+passive_effect: Solo puede usarse desde el panteón.
+quote: Cuando lo veas volar por el cielo ya será demasiado tarde para esconderte.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

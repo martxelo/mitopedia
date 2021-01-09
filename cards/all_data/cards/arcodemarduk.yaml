@@ -1,0 +1,16 @@
+name: Arco de Marduk
+card_type: Equipo
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Influencia: Mueve este personaje al campo de batalla.
+passive_effect:
+quote: ... Y se armó con un arco y un carro atronador para ir en busca de Tiamat.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

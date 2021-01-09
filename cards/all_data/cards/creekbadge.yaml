@@ -1,0 +1,15 @@
+name: Creek Badge
+card_type: Equipo
+cost: 1
+eras:
+  - II
+strength: 0
+max_pow: 3
+init_pow:
+mythology:
+tags:
+  - Armadura
+abilities:
+passive_effect:
+quote: ¿Sientes eso? Eso, amigo mío, es el poder.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

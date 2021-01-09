@@ -1,0 +1,17 @@
+name: Kumbha
+card_type: Equipo
+cost: 3
+eras:
+  - II
+strength: 1
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Único
+  - Hindú
+abilities:
+  - Influencia: Destruye Kumbha; mueve tu Dios hindú del descarte al panteón.
+passive_effect: Solo se puede equipar a un Dios.
+quote: Contiene la semilla de todas las criaturas, de ella nació todo lo que existe y existirá.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

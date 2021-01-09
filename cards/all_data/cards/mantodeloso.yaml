@@ -1,0 +1,15 @@
+name: Manto del oso
+card_type: Equipo
+cost: 1
+eras:
+  - II
+strength: 0
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Armadura
+abilities:
+passive_effect: Da la clave Criatura a este personaje.
+quote: Te protegerá del frío y de aquello que pueda matarte más rápido que el frío.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

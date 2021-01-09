@@ -1,0 +1,16 @@
+name: Arco de Ses
+card_type: Equipo
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Enfrentamiento: Devuelve una habilidad eliminada a tu panteón.
+passive_effect:
+quote: Tranquilo no te dolerá, garantizó la enfermera.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

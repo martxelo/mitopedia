@@ -1,0 +1,16 @@
+name: Daga ritual
+card_type: Equipo
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Influencia: Paga de la reserva de este personaje el coste en P de tu próxima acción de INFLUENCIA.
+passive_effect:
+quote: Se gira, se cambia de mano, se repite el ritual, se vuelve a empezar.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

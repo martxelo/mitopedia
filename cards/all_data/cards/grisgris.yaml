@@ -1,0 +1,16 @@
+name: GrisGris
+card_type: Equipo
+cost: 2
+eras:
+  - II
+strength: 0
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Amuleto
+abilities:
+  - Influencia: Destruye GrisGris; otros jugadores no pueden eliminar P de tu reserva durante esta fase.
+passive_effect:
+quote: Un paso menos hacia el control, un paso más hacia la protección.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

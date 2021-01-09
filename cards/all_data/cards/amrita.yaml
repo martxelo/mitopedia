@@ -1,0 +1,15 @@
+name: Amrita
+card_type: Equipo
+cost: 0
+eras:
+  - II
+strength: 0
+max_pow: 1
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Devuelve una clave o habilidad eliminada a un personaje permanentemente.
+passive_effect:
+quote: El océano revuelto, la inmortalidad, una gota es suficiente para vencer a la muerte.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,16 @@
+name: Gae Bolga
+card_type: Equipo
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Enfrentamiento: Elimina hasta 2P en un oráculo.
+passive_effect:
+quote: Sus heridas se sentían incluso más allá de la muerte.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,16 @@
+name: Keiko
+card_type: Equipo
+cost: 1
+eras:
+  - II
+strength: 0
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Armadura
+abilities:
+  - Enfrentamiento: Gana 1P por cada armadura equipada en tus personajes.
+passive_effect:
+quote: Una armadura ligera para ataques sigilosos y emboscadas en la batalla.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

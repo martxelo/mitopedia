@@ -1,0 +1,16 @@
+name: Cuchillo de cabellera
+card_type: Equipo
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Enfrentamiento: Da -1PM permanente a un personaje enemigo.
+passive_effect:
+quote: Por cada cabellera entregada recibirían una recompensa y un puñado más de respeto.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

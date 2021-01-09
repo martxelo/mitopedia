@@ -1,0 +1,15 @@
+name: Escudo de Perseo
+card_type: Equipo
+cost: 1
+eras:
+  - II
+strength: 0
+max_pow: 1
+init_pow:
+mythology:
+tags:
+  - Armadura
+abilities:
+passive_effect: Las acciones de otros jugadores no pueden eliminar poder de este personaje.
+quote: Y viendo su reflejo en el escudo, Medusa encontró su fin a manos de Perseo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

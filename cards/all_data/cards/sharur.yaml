@@ -1,0 +1,16 @@
+name: Sharur
+card_type: Equipo
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Arma
+abilities:
+  - Enfrentamiento: Elige un personaje que no vuelve al panteón al final de la batalla.
+passive_effect:
+quote: Una maza cuyo poder la hace hablar y transformarse en un león alado.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
