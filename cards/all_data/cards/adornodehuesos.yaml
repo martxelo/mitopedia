@@ -1,17 +1,16 @@
-name: Bake-Kujira
+name: Adorno de huesos
 card_type: Invocación
 cost: 0
 eras:
-  - I
+  - II
 strength:
 max_pow: -1
 init_pow:
 mythology:
 tags:
-  - Espíritu
   - Único
 abilities:
-  - Enfrentamiento: Elimina 1P de tu invocador; cansa un personaje enemigo.
+  - Influencia: Tu personaje Espíritu gana 1P.
 passive_effect:
-quote: La encarnación del odio hacia sus cazadores.
+quote: Armaduras construidas con la victoria.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

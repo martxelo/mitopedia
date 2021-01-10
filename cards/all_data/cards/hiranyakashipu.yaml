@@ -1,0 +1,17 @@
+name: Hiranyakashipu
+card_type: Invocación
+cost: 0
+eras:
+  - II
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Espíritu
+  - Única
+abilities:
+  - Influencia: Destruye Hiranyakashipu; Después de la fase de reorganización revela los oráculos y descarta los eventos sin efecto.
+passive_effect:
+quote: Se puso de puntillas durante miles de años y generó tanto poder que elevó la temperatura del mundo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

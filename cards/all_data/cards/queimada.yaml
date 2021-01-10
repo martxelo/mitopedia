@@ -1,0 +1,17 @@
+name: Queimada
+card_type: Invocación
+cost: 0
+eras:
+  - II
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Bendición
+  - Única
+abilities:
+  - Influencia: Elimina una clave de un personaje enemigo.
+passive_effect:
+quote: Con este cazo levantaré las llamas de este fuego que se asemeja al del infierno.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

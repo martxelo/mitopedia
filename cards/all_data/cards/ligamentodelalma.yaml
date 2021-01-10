@@ -1,17 +1,16 @@
-name: Bake-Kujira
+name: Ligamento del alma
 card_type: Invocación
 cost: 0
 eras:
-  - I
+  - II
 strength:
 max_pow: -1
 init_pow:
 mythology:
 tags:
-  - Espíritu
   - Único
 abilities:
-  - Enfrentamiento: Elimina 1P de tu invocador; cansa un personaje enemigo.
+  - Enfrentamiento: Mueve un personaje enemigo al campo de batalla.
 passive_effect:
-quote: La encarnación del odio hacia sus cazadores.
+quote: Ataduras a su panteón, ataduras a su destino.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

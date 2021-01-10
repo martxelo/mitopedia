@@ -1,0 +1,17 @@
+name: Juicio de Ammyt
+card_type: Invocación
+cost: 0
+eras:
+  - II
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Sacrificio
+  - Única
+abilities:
+  - Enfrentamiento: Destruye uno de tus equipos; destruye un equipo enemigo.
+passive_effect:
+quote: Solo devoraba el corazón si el alma del difunto era culpable, si no lo era, era recompensado con la vida eterna.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

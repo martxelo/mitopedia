@@ -1,0 +1,17 @@
+name: Estatua consagrada
+card_type: Invocación
+cost: 0
+eras:
+  - II
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Leyenda
+  - Única
+abilities:
+  - Influencia: Destruye Estatua consagrada; destruye una invocación.
+passive_effect:
+quote: Se aplicaba una capa de barro a los ojos de estatua, se rompía y pasaba a ser el propio Dios.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

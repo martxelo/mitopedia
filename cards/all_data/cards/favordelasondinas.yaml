@@ -1,0 +1,17 @@
+name: Favor de las Ondinas
+card_type: Invocación
+cost: 0
+eras:
+  - II
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Bendición
+  - Única
+abilities:
+  - Influencia: Mira la primera carta de un oráculo sin revelar; puedes ponerla debajo de ese oráculo.
+passive_effect:
+quote: A dos pasos de la orilla, sumergida en el agua hasta la cintura, peinaba su larga cabellera.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Úlceras y Sarpullidos
+card_type: Invocación
+cost: 0
+eras:
+  - II
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Plaga
+  - Única
+abilities:
+  - Influencia: Destruye Úlceras y Sarpullidos; reduce en 1 todas las transferencias permanentemente.
+passive_effect:
+quote: Los hechiceros no pudieron salvarse y mucho menos el ganado y el resto de Egipto.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

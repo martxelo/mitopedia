@@ -1,18 +1,17 @@
-name: Aosaginoghi
+name: Akupara
 card_type: Invocación
 cost: 0
 eras:
-  - I
+  - II
 strength:
 max_pow: -2
 init_pow:
 mythology:
 tags:
   - Espíritu
-  - Fuego
-  - Único
+  - Única
 abilities:
-  - Influencia: Elimina 1P de tu invocador; crea un personaje 2F y 2P. Destrúyelo al final del turno.
+  - Influencia: Este personaje no puede ser objetivo de habilidades de otros personajes.
 passive_effect:
-quote: Pueden ser vistos de noche como una bola de fuego.
+quote: El rey de las tortugas, la defensa de la tierra y el mar, el antepasado de Vishnu.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

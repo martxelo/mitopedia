@@ -1,0 +1,17 @@
+name: Yakshas
+card_type: Invocación
+cost: 0
+eras:
+  - II
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Espíritu
+  - Única
+abilities:
+  - Influencia: Destruye Yakshas; después de la fase de reorganización revela todos los oráculos.
+passive_effect:
+quote: Tutores de los tesoros naturales escondidos en la tierra y en las raíces de los árboles.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

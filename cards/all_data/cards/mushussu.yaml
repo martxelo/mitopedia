@@ -1,17 +1,17 @@
-name: Bake-Kujira
+name: Mushussu
 card_type: Invocación
 cost: 0
 eras:
-  - I
+  - II
 strength:
 max_pow: -1
 init_pow:
 mythology:
 tags:
-  - Espíritu
-  - Único
+  - Leyenda
+  - Única
 abilities:
-  - Enfrentamiento: Elimina 1P de tu invocador; cansa un personaje enemigo.
+  - Influencia: Destruye un portal.
 passive_effect:
-quote: La encarnación del odio hacia sus cazadores.
+quote: Tiamat creó un ejército de once monstruos y Mushussu fue su capitán.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

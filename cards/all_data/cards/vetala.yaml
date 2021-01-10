@@ -1,18 +1,17 @@
-name: Aosaginoghi
+name: Vetala
 card_type: Invocación
 cost: 0
 eras:
-  - I
+  - II
 strength:
 max_pow: -2
 init_pow:
 mythology:
 tags:
   - Espíritu
-  - Fuego
-  - Único
+  - Única
 abilities:
-  - Influencia: Elimina 1P de tu invocador; crea un personaje 2F y 2P. Destrúyelo al final del turno.
+  - Enfrentamiento: Elimina 1P de un personaje enemigo.
 passive_effect:
-quote: Pueden ser vistos de noche como una bola de fuego.
+quote: La única forma de atrapar un Vetala es guardar silencio.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

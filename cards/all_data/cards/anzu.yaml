@@ -1,0 +1,17 @@
+name: Anzu
+card_type: Invocación
+cost: 0
+eras:
+  - II
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Leyenda
+  - Única
+abilities:
+  - Influencia: Da +1F y +1P a tu personaje con la clave Monstruo.
+passive_effect:
+quote: Cuenta la leyenda que robó Las Tablillas de los destinos a Enil y las escondió en la montaña.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

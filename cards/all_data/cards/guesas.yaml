@@ -1,17 +1,17 @@
-name: Bake-Kujira
+name: Guesas
 card_type: Invocación
 cost: 0
 eras:
-  - I
+  - II
 strength:
 max_pow: -1
 init_pow:
 mythology:
 tags:
-  - Espíritu
-  - Único
+  - Bendición
+  - Única
 abilities:
-  - Enfrentamiento: Elimina 1P de tu invocador; cansa un personaje enemigo.
+  - Influencia: Da +1F a un arma.
 passive_effect:
-quote: La encarnación del odio hacia sus cazadores.
+quote: Parecen simples adornos pero mejoran las armas. ¿Quieres probarlas?
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

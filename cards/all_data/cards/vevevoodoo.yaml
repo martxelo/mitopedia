@@ -1,17 +1,16 @@
-name: Bake-Kujira
+name: Veve Voodoo
 card_type: Invocación
 cost: 0
 eras:
-  - I
+  - II
 strength:
 max_pow: -1
 init_pow:
 mythology:
 tags:
-  - Espíritu
   - Único
 abilities:
-  - Enfrentamiento: Elimina 1P de tu invocador; cansa un personaje enemigo.
+  - Influencia: Pon un contador voodoo en un personaje enemigo.
 passive_effect:
-quote: La encarnación del odio hacia sus cazadores.
+quote: Faro que indica el camino en el desdenso de los Loas.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

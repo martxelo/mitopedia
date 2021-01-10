@@ -1,17 +1,17 @@
-name: Bake-Kujira
+name: Etana y el águila
 card_type: Invocación
 cost: 0
 eras:
-  - I
+  - II
 strength:
 max_pow: -1
 init_pow:
 mythology:
 tags:
-  - Espíritu
-  - Único
+  - Leyenda
+  - Única
 abilities:
-  - Enfrentamiento: Elimina 1P de tu invocador; cansa un personaje enemigo.
+  - Influencia: Elige un personaje; este turno no puede meditar.
 passive_effect:
-quote: La encarnación del odio hacia sus cazadores.
+quote: Ayudó al águila a no morir de hambre y ésta lo llevó al cielo.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

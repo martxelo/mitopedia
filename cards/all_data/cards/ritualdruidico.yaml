@@ -1,0 +1,17 @@
+name: Ritual druídico
+card_type: Invocación
+cost: 0
+eras:
+  - II
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Bendición
+  - Única
+abilities:
+  - Enfrentamiento: Destruye tu mortal; roba una carta.
+passive_effect:
+quote: El círculo del universo era el símbolo de crecimiento y prosperidad, tanto física como emocional.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

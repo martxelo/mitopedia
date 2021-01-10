@@ -1,17 +1,17 @@
-name: Bake-Kujira
+name: Zohl
 card_type: Invocación
 cost: 0
 eras:
-  - I
+  - II
 strength:
 max_pow: -1
 init_pow:
 mythology:
 tags:
-  - Espíritu
-  - Único
+  - Runa
+  - Única
 abilities:
-  - Enfrentamiento: Elimina 1P de tu invocador; cansa un personaje enemigo.
+  - Influencia: Da +1PM a una armadura permanentemente.
 passive_effect:
-quote: La encarnación del odio hacia sus cazadores.
+quote: La protectora, los objetivos marcados son razonables y se pueden alcanzar.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
