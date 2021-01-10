@@ -1,0 +1,17 @@
+name: Clío
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Musa
+  - Única
+abilities:
+  - Enfrentamiento: Gana 1P en tu personaje.
+passive_effect:
+quote: Se le atribuye la creación de la poesía heroica.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

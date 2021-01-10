@@ -1,0 +1,17 @@
+name: Basan
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Espíritu
+  - Único
+abilities:
+  - Enfrentamiento: Cansa a tu invocador; el adversario elige si cansa uno de sus dioses o elimina 2P en él.
+passive_effect:
+quote: Exhala fuego fantasmal frío.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

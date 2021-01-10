@@ -1,0 +1,17 @@
+name: Mannaz
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Runa
+  - Única
+abilities:
+  - Enfrentamiento: Mueve a tu mortal a tu panteón; gana 1P.
+passive_effect:
+quote: El hombre como ser humano, el individuo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

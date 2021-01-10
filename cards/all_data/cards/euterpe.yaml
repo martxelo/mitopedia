@@ -1,0 +1,17 @@
+name: Euterpe
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Musa
+  - Única
+abilities:
+  - Influencia: Da +1F y +1P a un personaje con la clave Héroe.
+passive_effect:
+quote: Musa de la música y protectora del arte de tocar la flauta.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

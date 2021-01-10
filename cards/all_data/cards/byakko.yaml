@@ -1,0 +1,17 @@
+name: Byakko
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Espíritu
+  - Único
+abilities:
+  - Enfrentamiento: Copia la habilidad de un personaje enemigo.
+passive_effect:
+quote: Se dice que su rugido es capaz de llamar a la tempestad.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

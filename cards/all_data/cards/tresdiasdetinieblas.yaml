@@ -1,0 +1,17 @@
+name: Tres días de tinieblas
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Plaga
+  - Única
+abilities:
+  - Enfrentamiento: Da -2F a un personaje enemigo.
+passive_effect:
+quote: Ninguno vio a su prójimo, ni nadie se levantó de su lugar en tres días.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

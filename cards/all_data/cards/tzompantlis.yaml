@@ -1,0 +1,17 @@
+name: Tzompantlis
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Sacrificio
+  - Único
+abilities:
+  - Influencia: Tu invocador copia la habilidad de un personaje enemigo.
+passive_effect:
+quote: Si vence, ganará su libertad. Si cae, alimentará el Sol y la Tierra. Sea como sea, los dioses serán complacidos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

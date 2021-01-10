@@ -1,0 +1,17 @@
+name: Melpómene
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Musa
+  - Única
+abilities:
+  - Enfrentamiento: Elimina 1P de tu invocador; prepara a tu personaje.
+passive_effect:
+quote: Se cuenta que tenía todas las riquezas que podía tener una mujer. Bella, rica... y sola.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

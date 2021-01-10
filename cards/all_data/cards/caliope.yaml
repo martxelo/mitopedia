@@ -1,0 +1,17 @@
+name: Calíope
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Musa
+  - Única
+abilities:
+  - Influencia: Elimina 1P de tu invocador; da +2F a tu personaje.
+passive_effect:
+quote: Se dice que quedó prendada de Heracles y le enseñó el modo de reconfortar a sus amigos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

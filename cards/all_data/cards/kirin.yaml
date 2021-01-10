@@ -1,0 +1,17 @@
+name: Kirin
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Espíritu
+  - Único
+abilities:
+  - Influencia: Elige a tu mortal en un oráculo, elimina 1P de tu invocador; muévelo a tu panteón.
+passive_effect:
+quote: Son muy pocos los ojos que lo han visto.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

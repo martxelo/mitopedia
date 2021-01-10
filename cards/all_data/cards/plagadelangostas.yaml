@@ -1,0 +1,17 @@
+name: Plaga de langostas
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -3
+init_pow:
+mythology:
+tags:
+  - Plaga
+  - Única
+abilities:
+  - Enfrentamiento: Destruye Plaga de langostas; todos los jugadores eliminan tanto P como oráculos posean.
+passive_effect:
+quote: Y oscureciese la tierra, y consumió toda la hierba.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

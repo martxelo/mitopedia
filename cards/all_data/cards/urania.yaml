@@ -1,0 +1,17 @@
+name: Urania
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Musa
+  - Única
+abilities:
+  - Enfrentamiento: Elimina 1P de tu invocador; gana 2P.
+passive_effect:
+quote: La menor de todas las musas, dedicada a la astronomía, las matemáticas y todas las ciencias exactas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

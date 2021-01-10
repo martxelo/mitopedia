@@ -1,0 +1,16 @@
+name: Lámpara de Alhazred
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Única
+abilities:
+  - Influencia: Tu personaje ignora el coste de P al asignarse al campo de batalla.
+passive_effect:
+quote: Recibí una carta muy sospechosa de un amigo común. Todos estuvimos de acuerdo en hacerle una visita. (Roger Crow, investigador)
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

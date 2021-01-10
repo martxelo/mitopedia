@@ -1,0 +1,17 @@
+name: Peste del ganado
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Plaga
+  - Única
+abilities:
+  - Influencia: Destruye a tu personaje mortal; elimina 1P de la reserva de un contrario.
+passive_effect:
+quote: Y murió todo el ganado de Egipto.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

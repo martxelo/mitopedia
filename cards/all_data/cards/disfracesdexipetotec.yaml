@@ -1,0 +1,17 @@
+name: Disfraces de Xipe Tótec
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Sacrificio
+  - Único
+abilities:
+  - Influencia: Tu invocador copia la habilidad de un recurso contrario.
+passive_effect:
+quote: El mejor disfraz es siempre la piel de otro hombre.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

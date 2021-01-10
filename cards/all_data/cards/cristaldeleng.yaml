@@ -1,0 +1,16 @@
+name: Cristal de Leng
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Única
+abilities:
+  - Influencia: Da -2PM a un personaje hasta el principio del siguiente turno.
+passive_effect:
+quote: Iniciarás un viaje del que nunca volverás.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

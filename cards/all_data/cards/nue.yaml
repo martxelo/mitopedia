@@ -1,0 +1,17 @@
+name: Nue
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Espíritu
+  - Única
+abilities:
+  - Enfrentamiento: Equipa en uno de tus personajes un equipo de un personaje enemigo.
+passive_effect:
+quote: Se dice de él que trae la mala suerte.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

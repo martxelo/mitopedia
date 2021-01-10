@@ -1,0 +1,17 @@
+name: Los 100000 de Huitzilipochtli
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: 0
+init_pow:
+mythology:
+tags:
+  - Sacrificio
+  - Único
+abilities:
+  - Influencia: Tu invocador copia el poder máximo de un personaje enemigo.
+passive_effect:
+quote: 16000 de la nación tzapoteca, 24000 de los tlapanecas, 16000 de los huexotzincas y atlixcas, 24000 de los tizauhcóac...
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

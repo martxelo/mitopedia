@@ -1,0 +1,17 @@
+name: Amikiri
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Espíritu
+  - Único
+abilities:
+  - Influencia: Cansa tu invocador; elige a un enemigo que no puede asignarse este turno al campo de batalla.
+passive_effect:
+quote: Rápidos nadadores y cortadores de redes.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Muerte de los primogénitos
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Plaga
+  - Única
+abilities:
+  - Influencia: Destruye Muerte de los primogénitos y un personaje que controles; tus oponentes deben destruir un personaje con igual PM.
+passive_effect:
+quote: Y morirá todo primogénito en tierra de Egipto.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

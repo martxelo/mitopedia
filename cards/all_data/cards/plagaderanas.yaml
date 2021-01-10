@@ -1,0 +1,17 @@
+name: Plaga de ranas
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -2
+init_pow:
+mythology:
+tags:
+  - Plaga
+  - Única
+abilities:
+  - Influencia: Elimina la habilidad de un personaje.
+passive_effect:
+quote: Y el río criará ranas, las cuales subirán, y entrarán en tu casa.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

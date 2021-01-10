@@ -1,0 +1,17 @@
+name: Fehu
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -1
+init_pow:
+mythology:
+tags:
+  - Runa
+  - Única
+abilities:
+  - Influencia: Da la clave Guerrero a un personaje.
+passive_effect:
+quote: Riqueza, dinero, ganado.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

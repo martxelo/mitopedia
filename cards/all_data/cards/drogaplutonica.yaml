@@ -1,0 +1,16 @@
+name: Droga plutónica
+card_type: Invocación
+cost: 0
+eras:
+  - I
+strength:
+max_pow: -3
+init_pow:
+mythology:
+tags:
+  - Única
+abilities:
+  - Influencia: Destruye Droga plutónica; los personajes con la clave Loco ignoran el coste de P al asignarse al campo de batalla.
+passive_effect:
+quote: ¿Qué sois vosotros, sino nuestras cobayas? (Mi-Go de nombre impronunciable)
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
