@@ -1,0 +1,17 @@
+name: Houou
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 2
+max_pow: 4
+init_pow:
+mythology: Japonesa
+tags:
+  - Criatura
+  - Fuego
+abilities:
+  - Influencia: Elimina 1P de un personaje enemigo.
+passive_effect: No puede ser destruido.
+quote: La llama del fuego eterno arde en su interior.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

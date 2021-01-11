@@ -1,0 +1,16 @@
+name: Loki
+card_type: Personaje
+cost: 7
+eras:
+  - I
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Nórdica
+tags:
+  - Dios
+abilities:
+  - Enfrentamiento: Si Loki está en tu panteón; muévelo al campo de batalla.
+passive_effect:
+quote: El origen de todo fraude.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

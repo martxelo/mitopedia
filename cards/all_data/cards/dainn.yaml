@@ -1,0 +1,16 @@
+name: Daínn
+card_type: Personaje
+cost: 3
+eras:
+  - I
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Nórdica
+tags:
+  - Svartálfar
+abilities:
+  - Influencia: Prepara a Daínn (puede usarse si está cansado).
+passive_effect:
+quote: Los elfos de la luz son más brillantes que la apariencia del sol, pero los elfos oscuros son más negros que la oscuridad en sí.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

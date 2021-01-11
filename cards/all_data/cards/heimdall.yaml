@@ -1,0 +1,17 @@
+name: Heimdall
+card_type: Personaje
+cost: 6
+eras:
+  - I
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Nórdica
+tags:
+  - Dios
+  - Guardián
+abilities:
+  - Enfrentamiento: Elimina 2P de Heimdall; gana 3P.
+passive_effect:
+quote: Durante el Ragnarok será el último de los dioses en caer.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

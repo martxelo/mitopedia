@@ -1,17 +1,18 @@
-name: O'Tengu
+name: Yama-Uba
 card_type: Personaje
-cost: 4
+cost: 3
 eras:
   - I
-strength: 2
-max_pow: 6
+strength: 1
+max_pow: 4
 init_pow:
 mythology: Japonesa
 tags:
   - Demonio
-  - Único
+  - Invocadora
+  - Única
 abilities:
-  - Enfrentamiento: Gana 1P por cada personaje en tu ejército. (Máximo 5).
+  - Influencia: Elimina 2P de tu personaje; gana 2P.
 passive_effect:
-quote: El gran Tengu, dirige un grupo de Karasu Tengu.
+quote: Yama-Uba caza a los viajeros que se pierden en sus bosques.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

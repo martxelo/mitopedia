@@ -1,0 +1,17 @@
+name: Sasuke
+card_type: Personaje
+cost: 3
+eras:
+  - I
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Japonesa
+tags:
+  - Shinobi
+  - Invocador
+abilities:
+  - Enfrentamiento: Si Sasuke ya estuvo en el campo de batalla este turno; muévelo al campo de batalla.
+passive_effect:
+quote: Entrenado especialmente en formas no ortodoxas de hacer la guerra.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

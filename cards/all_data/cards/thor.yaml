@@ -1,0 +1,19 @@
+name: Thor
+card_type: Personaje
+cost: 7
+eras:
+  - I
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Nórdica
+tags:
+  - Dios
+  - Guerrero
+  - Trueno
+abilities:
+  - Influencia: Cansa Thor; busca Mjolnir en el mazo de designios y equípaselo.
+  - Enfrentamiento: Cansa a un personaje enemigo.
+passive_effect:
+quote: Dios del trueno.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

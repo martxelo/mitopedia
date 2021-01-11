@@ -1,4 +1,4 @@
-name: Midori
+name: Groa
 card_type: Personaje
 cost: 0
 eras:
@@ -6,11 +6,11 @@ eras:
 strength: 0
 max_pow: 2
 init_pow:
-mythology: Japonesa
+mythology: Nórdica
 tags:
   - Invocadora
-  - Ashigaru
+  - Volva
 abilities:
 passive_effect:
-quote: Yo puedo ayudarte, pequeña. Y tú puedes ayudarme a mí. La Era del Hombre ha terminado y es la hora del nuevo orden.
+quote: Se dice que incluso Odín visitó una vez a una volva para consultar el futuro.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

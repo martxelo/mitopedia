@@ -1,0 +1,17 @@
+name: Thorey
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 1
+max_pow: 6
+init_pow:
+mythology: Nórdica
+tags:
+  - Valkiria
+  - Guerrera
+abilities:
+  - Influencia: Da +1F a todos tus personajes con la clave Valkiria.
+passive_effect:
+quote: Thorey, soy Sigrun, te acabas de despertar, no te preocupes, estamos aquí.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

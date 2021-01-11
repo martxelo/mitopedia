@@ -1,0 +1,17 @@
+name: Inari
+card_type: Personaje
+cost: 6
+eras:
+  - I
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Japonesa
+tags:
+  - Diosa
+  - Invocadora
+abilities:
+  - Influencia: Elimina 1P de Inari; crea un personaje (Espíritu Kitsune 1F/2PM/1P).
+passive_effect: Tus personajes con la clave Ashigaru tienen +1PM.
+quote: Sus Kitsune son del más puro de los blancos y le sirven de mensajeros.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,16 @@
+name: Dvrger
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 2
+max_pow: 4
+init_pow:
+mythology: Nórdica
+tags:
+  - Guerrero
+  - Dvärgar
+abilities:
+passive_effect: Dvrger no puede ser movido del campo de batalla.
+quote: Los Dvägar están asociados con la tecnología, en especial con la forja.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

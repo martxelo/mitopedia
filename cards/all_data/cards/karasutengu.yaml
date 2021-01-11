@@ -1,0 +1,16 @@
+name: Karasu Tengu
+card_type: Personaje
+cost: 3
+eras:
+  - I
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Japonesa
+tags:
+  - Demonio
+abilities:
+  - Influencia: Elimina 1P de Karasu Tengu; elimina 1P de la reserva de tu oponente.
+passive_effect:
+quote: La gente los llama en oraciones para pedirles que encuentren el camino de regreso.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

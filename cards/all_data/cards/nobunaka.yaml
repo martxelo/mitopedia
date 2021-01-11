@@ -1,16 +1,15 @@
-name: Midori
+name: Nobunaka
 card_type: Personaje
-cost: 0
+cost: 1
 eras:
   - I
-strength: 0
-max_pow: 2
+strength: 1
+max_pow: 3
 init_pow:
 mythology: Japonesa
 tags:
-  - Invocadora
   - Ashigaru
 abilities:
 passive_effect:
-quote: Yo puedo ayudarte, pequeña. Y tú puedes ayudarme a mí. La Era del Hombre ha terminado y es la hora del nuevo orden.
+quote: Pies ligeros, se les permite saquear después de la batalla o tomar lo que necesiten de las tierras conquistadas.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

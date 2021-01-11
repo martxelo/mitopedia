@@ -1,0 +1,17 @@
+name: Aji-Suki-Taka-Hi-Kone
+card_type: Personaje
+cost: 7
+eras:
+  - I
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Japonesa
+tags:
+  - Dios
+  - Trueno
+abilities:
+  - Enfrentamiento: Cansa a Aji-Suki-Taka-Hi-Kone; cansa a dos personajes enemigos.
+passive_effect:
+quote: Nació ruidoso, y cuando creció se hizo aun más ruidoso.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

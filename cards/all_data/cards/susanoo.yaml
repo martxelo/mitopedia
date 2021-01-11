@@ -1,0 +1,17 @@
+name: Susanoo
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Japonesa
+tags:
+  - Dios
+  - Guerrero
+abilities:
+  - Enfrentamiento: Elimina 1P de Susanoo; gana 2F. (Puedes usar esta habilidad dos veces por turno).
+passive_effect:
+quote: Susanoo recibió el rayo, la tierra y el mar; pero esto no era lo que quería.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

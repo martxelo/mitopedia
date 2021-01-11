@@ -1,0 +1,16 @@
+name: Masakado
+card_type: Personaje
+cost: 2
+eras:
+  - I
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Japonesa
+tags:
+  - Ashigaru
+abilities:
+  - Influencia: Elimina 1P de Masakado; prepara este personaje (puede usarse aunque esté cansado).
+passive_effect: Cuesta 1P menos para Takamagahara.
+quote: La justicia de los hombres no puede contradecir el veredicto divino.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

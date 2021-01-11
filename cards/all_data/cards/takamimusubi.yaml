@@ -1,0 +1,18 @@
+name: Takami-Musubi
+card_type: Personaje
+cost: 5
+eras:
+  - I
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Japonesa
+tags:
+  - Dios
+  - Invocador
+  - Aire
+abilities:
+  - Influencia: Prepara a tu personaje japonés.
+passive_effect:
+quote: Creó el universo como sucesor de Ame-No-Mi Kurami. También creó las plantas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

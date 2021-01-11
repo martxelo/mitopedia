@@ -1,4 +1,4 @@
-name: O'Tengu
+name: Surtur
 card_type: Personaje
 cost: 4
 eras:
@@ -6,12 +6,11 @@ eras:
 strength: 2
 max_pow: 6
 init_pow:
-mythology: Japonesa
+mythology: Nórdica
 tags:
-  - Demonio
-  - Único
+  - Gigante
 abilities:
-  - Enfrentamiento: Gana 1P por cada personaje en tu ejército. (Máximo 5).
+  - Influencia: Elimina 1P de un personaje enemigo.
 passive_effect:
-quote: El gran Tengu, dirige un grupo de Karasu Tengu.
+quote: Líder de los gigantes de fuego en el sur, el soberano de Muspelheim.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,18 @@
+name: Frigg
+card_type: Personaje
+cost: 3
+eras:
+  - I
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Nórdica
+tags:
+  - Diosa
+  - Invocadora
+  - Vidente
+abilities:
+  - Influencia: Mira la primera carta de tu mazo de designios; puedes ponerla debajo del mazo.
+passive_effect:
+quote: Diosa vidente y esposa de Odín.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

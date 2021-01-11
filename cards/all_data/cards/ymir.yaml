@@ -1,17 +1,17 @@
-name: O'Tengu
+name: Ymir
 card_type: Personaje
 cost: 4
 eras:
   - I
 strength: 2
-max_pow: 6
+max_pow: 4
 init_pow:
-mythology: Japonesa
+mythology: Nórdica
 tags:
+  - Jotun
   - Demonio
-  - Único
 abilities:
-  - Enfrentamiento: Gana 1P por cada personaje en tu ejército. (Máximo 5).
+  - Enfrentamiento: Cansa a un enemigo.
 passive_effect:
-quote: El gran Tengu, dirige un grupo de Karasu Tengu.
+quote: Representa las fuerzas del caos primitivo y de la destrucción de la naturaleza.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

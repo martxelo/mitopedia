@@ -1,0 +1,16 @@
+name: Harald
+card_type: Personaje
+cost: 1
+eras:
+  - I
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Nórdica
+tags:
+  - Berserker
+  - Guerrero
+abilities:
+passive_effect:
+quote: Se lanzan al combate con furia ciega, casi sin armadura, insensibles al dolor.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

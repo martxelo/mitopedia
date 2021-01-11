@@ -1,0 +1,15 @@
+name: Fenrir
+card_type: Personaje
+cost: 3
+eras:
+  - I
+strength: 3
+max_pow: 5
+init_pow:
+mythology: Nórdica
+tags:
+  - Criatura
+abilities:
+passive_effect: No puede equiparse armas.
+quote: Al principio solo era un cachorro, pero creció y se hizo incontrolable.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

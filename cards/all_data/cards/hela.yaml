@@ -1,0 +1,18 @@
+name: Hela
+card_type: Personaje
+cost: 5
+eras:
+  - I
+strength: 2
+max_pow: 7
+init_pow:
+mythology: Nórdica
+tags:
+  - Diosa
+  - Demonio
+  - Invocadora
+abilities:
+  - Influencia: Elimina 2P de Hela; mueve a tu personaje mortal del escarte a tu panteón.
+passive_effect:
+quote: Sus pies arrastran la podredumbre nauseabunda de la Tierra de los Muertos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

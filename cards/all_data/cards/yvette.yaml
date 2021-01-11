@@ -1,0 +1,16 @@
+name: Yvette
+card_type: Personaje
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 2
+init_pow:
+mythology: Nórdica
+tags:
+  - Valkiria
+  - Guerrera
+abilities:
+passive_effect:
+quote: Con sus alas te elevan del campo de batalla hacia el Valhala, ansiado destino.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Koitshi
+card_type: Personaje
+cost: 5
+eras:
+  - I
+strength: 3
+max_pow: 5
+init_pow:
+mythology: Japonesa
+tags:
+  - Samurai
+  - Ronin
+abilities:
+  - Influencia: da +1F a tus personajes con la clave Ashigaru.
+passive_effect:
+quote:
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

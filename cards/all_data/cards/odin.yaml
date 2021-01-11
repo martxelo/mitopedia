@@ -1,0 +1,18 @@
+name: Odín
+card_type: Personaje
+cost: 8
+eras:
+  - I
+strength: 5
+max_pow: 9
+init_pow:
+mythology: Nórdica
+tags:
+  - Dios
+  - Guerrero
+  - Invocador
+abilities:
+  - Influencia: Prepara a tu personaje nórdico.
+passive_effect:
+quote: Padre de todos, dios de la sabiduría, la guerra y la muerte.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

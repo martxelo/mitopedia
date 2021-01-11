@@ -1,4 +1,4 @@
-name: O'Tengu
+name: Ame-No-Oshido-Mimi
 card_type: Personaje
 cost: 4
 eras:
@@ -8,10 +8,11 @@ max_pow: 6
 init_pow:
 mythology: Japonesa
 tags:
-  - Demonio
-  - Único
+  - Dios
+  - Invocador
+  - Tierra
 abilities:
-  - Enfrentamiento: Gana 1P por cada personaje en tu ejército. (Máximo 5).
+  - Enfrentamiento: Da -2F a un personaje enemigo.
 passive_effect:
-quote: El gran Tengu, dirige un grupo de Karasu Tengu.
+quote: Dos veces le ofrecieron gobernar, dos veces lo rechazó.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Sigrun
+card_type: Personaje
+cost: 3
+eras:
+  - I
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Nórdica
+tags:
+  - Guerrera
+  - Valkiria
+abilities:
+  - Enfrentamiento: Destruye a un mortal agotado.
+passive_effect:
+quote: Dirigidas por Odín, su misión es llevar a los buenos guerreros al Valhala.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

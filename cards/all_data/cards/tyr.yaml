@@ -1,0 +1,17 @@
+name: Tyr
+card_type: Personaje
+cost: 6
+eras:
+  - I
+strength: 3
+max_pow: 8
+init_pow:
+mythology: Nórdica
+tags:
+  - Dios
+  - Guerrero
+abilities:
+  - Enfrentamiento: Da +1F a cada uno de tus guerreros.
+passive_effect:
+quote: El hombre de una sola mano, debe su apodo al engaño de Fenrir.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
