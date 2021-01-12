@@ -1,6 +1,6 @@
-name: Xipe-Totec
+name: Xochiquetzal
 card_type: Personaje
-cost: 5
+cost: 6
 eras:
   - I
 strength: 3
@@ -8,10 +8,9 @@ max_pow: 7
 init_pow:
 mythology: Azteca
 tags:
-  - Dios
-  - Invocador
+  - Diosa
 abilities:
-  - Influencia: Tu invocador azteca copia una habilidad de un recurso contrario.
+  - Enfrentamiento: Elimina 1P de Xochiquetzal; destruye un equipo.
 passive_effect:
-quote: El Señor Sin Piel, cuyo cuerpo sirve de alimento para la humanidad.
+quote: Esposa de Tláloc, amante de Quetzalcóatl y de Huitzilopochtli.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

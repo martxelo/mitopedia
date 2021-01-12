@@ -1,0 +1,17 @@
+name: Ollin
+card_type: Personaje
+cost: 2
+eras:
+  - I
+strength: 0
+max_pow: 4
+init_pow:
+mythology: Azteca
+tags:
+  - Invocador
+  - Chamán
+abilities:
+  - Enfrentamiento: Gana 1P en tu personaje azteca.
+passive_effect:
+quote: Además de curar y provocar enfermedades tiene el don de convertirse en cualquier animal.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

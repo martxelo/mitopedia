@@ -1,0 +1,18 @@
+name: Hefesto
+card_type: Personaje
+cost: 7
+eras:
+  - I
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Griega
+tags:
+  - Dios
+  - Guerrero
+abilities:
+  - Influencia: Crea un arma +1F/+1PM y equípasela a tu personaje griego.
+  - Influencia: Gana 1P en una Herrería en tu oráculo.
+passive_effect:
+quote: Feo, lisiado y cojo... se dice que, al nacer, Hera lo vio tan feo que lo tiró del Olimpo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

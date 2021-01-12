@@ -1,0 +1,17 @@
+name: Dionisio
+card_type: Personaje
+cost: 6
+eras:
+  - I
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Griega
+tags:
+  - Dios
+  - Vino
+abilities:
+  - Influencia: Gana 2P en tu personaje mortal.
+passive_effect:
+quote: El dios del vino, inspirador del éxtasis y la locura ritual.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

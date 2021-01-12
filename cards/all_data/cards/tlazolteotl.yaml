@@ -1,0 +1,16 @@
+name: Tlazolteotl
+card_type: Personaje
+cost: 5
+eras:
+  - I
+strength: 2
+max_pow: 7
+init_pow:
+mythology: Azteca
+tags:
+  - Diosa
+abilities:
+  - Enfrentamiento: Elimina 1P de Tlazolteotl; da a cada una de las personalidades en el campo de batalla -1F.
+passive_effect:
+quote: Diosa de la inmundicia, la lujuria y el deseo, absolvía a los fieles de sus faltas o pecados.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

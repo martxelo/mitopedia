@@ -1,0 +1,17 @@
+name: Perseo
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Griega
+tags:
+  - Héroe
+  - Guerrero
+abilities:
+  - Enfrentamiento: Elimina 1P de un personaje enemigo.
+passive_effect:
+quote: Perseo partió, guiado por Atenea y Hermes, en busca de la cabeza de Medusa.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

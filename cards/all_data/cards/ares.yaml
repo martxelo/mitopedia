@@ -1,0 +1,17 @@
+name: Ares
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 3
+max_pow: 6
+init_pow:
+mythology: Griega
+tags:
+  - Dios
+  - Guerrero
+abilities:
+  - Influencia: Da la clave Guerrero o Héroe a uno de tus personajes. Si es griego la clave es permanente.
+passive_effect:
+quote: La cadena de Esparta, la espada en Tracia y en todos lados sangre contra murallas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

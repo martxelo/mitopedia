@@ -1,0 +1,18 @@
+name: Tlaloc
+card_type: Personaje
+cost: 3
+eras:
+  - I
+strength: 0
+max_pow: 5
+init_pow:
+mythology: Azteca
+tags:
+  - Demonio
+  - Trueno
+  - Tierra
+abilities:
+  - Enfrentamiento: Cansa a un personaje enemigo.
+passive_effect:
+quote: Los campesinos, en previsión de sequías, hacían fabricar ídolos a imagen de Tlaloc y los veneraban ofrendándoles maíz y pulque.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

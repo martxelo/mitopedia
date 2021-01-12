@@ -1,0 +1,16 @@
+name: Quirón
+card_type: Personaje
+cost: 3
+eras:
+  - I
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Griega
+tags:
+  - Único
+abilities:
+  - Influencia: Da +1F a tus personajes con la clave héroe.
+passive_effect:
+quote: ¿Y a quién desean los dioses que instruya esta vez? (Quirón)
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

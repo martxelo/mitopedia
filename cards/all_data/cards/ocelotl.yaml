@@ -1,0 +1,17 @@
+name: Ocelotl
+card_type: Personaje
+cost: 3
+eras:
+  - I
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Azteca
+tags:
+  - Guerrero
+  - Jaguar
+abilities:
+  - Enfrentamiento: Prepara a Ocelotl. (puede usarse si está cansado)
+passive_effect:
+quote: Podían tener concubinas, comer carne humana habitualmente y beber octli.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,16 @@
+name: Minotauro
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 2
+max_pow: 4
+init_pow:
+mythology: Griega
+tags:
+  - Criatura
+abilities:
+  - Enfrentamiento: Da -1F a dos personajes enemigos.
+passive_effect:
+quote: Su dieta era sencilla. Siete muchachos por la mañana y siete doncellas vírgenes por la noche.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

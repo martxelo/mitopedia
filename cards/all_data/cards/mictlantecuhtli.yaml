@@ -1,0 +1,17 @@
+name: Mictlantecuhtli
+card_type: Personaje
+cost: 5
+eras:
+  - I
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Azteca
+tags:
+  - Demonio
+  - Único
+abilities:
+  - Enfrentamiento: Destruye un mortal eliminando tanto poder como su poder actual.
+passive_effect:
+quote: Castiga a los muertos que no merecían ninguno de los diversos grados de cielos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

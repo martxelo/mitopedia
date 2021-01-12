@@ -1,0 +1,17 @@
+name: Cloaticue
+card_type: Personaje
+cost: 8
+eras:
+  - I
+strength: 5
+max_pow: 9
+init_pow:
+mythology: Azteca
+tags:
+  - Diosa
+  - Invocadora
+abilities:
+  - Enfrentamiento: Destruye a tu mortal; gana P igual a su PM.
+passive_effect:
+quote: Le gusta jugar con su collar de corazones.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

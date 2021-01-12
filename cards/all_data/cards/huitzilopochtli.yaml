@@ -1,0 +1,17 @@
+name: Huitzilopochtli
+card_type: Personaje
+cost: 7
+eras:
+  - I
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Azteca
+tags:
+  - Dios
+  - Guerrero
+abilities:
+  - Influencia: Copia la habilidad de cualquier personaje hasta el final de turno.
+passive_effect:
+quote: Para honrarle, el sacerdote atravesaba con una flecha una masa preparada con sangre de personas sacrificadas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Puk
+card_type: Personaje
+cost: 5
+eras:
+  - I
+strength: 0
+max_pow: 5
+init_pow:
+mythology: Griega
+tags:
+  - Único
+  - Sátiro
+abilities:
+  - Enfrentamiento: Elimina 1P de Puk; toma el control sobre un personaje enemigo hasta que juegues tu siguiente acción o devuélvelo antes de la resolución del enfrentamiento.
+passive_effect:
+quote: Criaturas alegres y pícaras, amantes del vino.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

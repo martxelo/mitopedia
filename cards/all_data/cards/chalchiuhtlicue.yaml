@@ -1,0 +1,18 @@
+name: Chalchiuhtlicue
+card_type: Personaje
+cost: 7
+eras:
+  - I
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Azteca
+tags:
+  - Diosa
+  - Agua
+  - Invocadora
+abilities:
+  - Influencia: Elimina 2P de Chalchiuhtlicue; elige un personaje enemigo que no puede asignarse este turno.
+passive_effect:
+quote: Creó su descendencia, los tlalocas, con una rana.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

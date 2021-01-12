@@ -1,0 +1,15 @@
+name: Pitia
+card_type: Personaje
+cost: 0
+eras:
+  - I
+strength: 0
+max_pow: 2
+init_pow:
+mythology: Griega
+tags:
+  - Invocadora
+abilities:
+passive_effect:
+quote: Apolo se la robó a Afrodita para concederle el oráculo de Delfos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

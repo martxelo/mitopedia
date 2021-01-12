@@ -1,0 +1,16 @@
+name: Quetzalcóatl
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Azteca
+tags:
+  - Dios
+abilities:
+  - Influencia: Elimina 1P de Quetzalcóatl; roba una carta.
+passive_effect:
+quote: Tezcatlipoca le hizo beber varios tragos de pulque.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

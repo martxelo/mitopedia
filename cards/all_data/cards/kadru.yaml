@@ -1,0 +1,16 @@
+name: Kadru
+card_type: Personaje
+cost: 2
+eras:
+  - I
+strength: 1
+max_pow: 2
+init_pow:
+mythology: Azteca
+tags:
+  - Criatura
+abilities:
+  - Enfrentamiento: Gana 1P.
+passive_effect:
+quote: Y un nuevo ciclo renacerá.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

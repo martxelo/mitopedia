@@ -1,0 +1,15 @@
+name: Arvad
+card_type: Personaje
+cost: 2
+eras:
+  - I
+strength: 4
+max_pow: 2
+init_pow:
+mythology: Azteca
+tags:
+  - Criatura
+abilities:
+passive_effect: Si es el único personaje en su ejército tiene fuerza 0.
+quote: Ha sido visto a lo largo de la historia con muchas formas y conocido por muchos nombres, siempre encadenado.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

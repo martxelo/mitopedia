@@ -1,0 +1,17 @@
+name: Ulises
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 2
+max_pow: 5
+init_pow:
+mythology: Griega
+tags:
+  - Héroe
+  - Guerrero
+abilities:
+  - Enfrentamiento: Cansa a Ulises; mueve tu personaje del panteón al campo de batalla.
+passive_effect:
+quote: El capricho de los dioses contra la voluntad del hombre sabio.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

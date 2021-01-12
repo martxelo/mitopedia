@@ -1,0 +1,17 @@
+name: Atenea
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 0
+max_pow: 5
+init_pow:
+mythology: Griega
+tags:
+  - Diosa
+  - Invocadora
+abilities:
+  - Influencia: Da +1F permanente a tu personaje griego.
+passive_effect:
+quote: El buen consejo tiene muchos nombres, pero siempre apunta a una misma Diosa.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

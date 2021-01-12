@@ -1,0 +1,18 @@
+name: Apolo
+card_type: Personaje
+cost: 6
+eras:
+  - I
+strength: 3
+max_pow: 8
+init_pow:
+mythology: Griega
+tags:
+  - Dios
+  - Sol
+  - Guerrero
+abilities:
+  - Enfrentamiento: Da +1F a todos tus guerreros.
+passive_effect:
+quote: La luz, la verdad y la profecía están muy bien. Pero su propio coro de musas... eso sí es digno de dioses.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

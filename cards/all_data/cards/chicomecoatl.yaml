@@ -1,0 +1,16 @@
+name: Chicomecoatl
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Azteca
+tags:
+  - Diosa
+abilities:
+  - Enfrentamiento: Cansa Chicomecoatl; el oponente elimina 1P por cada acción de enfrentamiento que realice hasta el final de este enfrentamiento.
+passive_effect:
+quote: Xilonen protectora del maíz en vaina.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

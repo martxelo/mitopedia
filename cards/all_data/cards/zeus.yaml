@@ -1,0 +1,18 @@
+name: Zeus
+card_type: Personaje
+cost: 8
+eras:
+  - I
+strength: 5
+max_pow: 9
+init_pow:
+mythology: Griega
+tags:
+  - Dios
+  - Invocador
+  - Trueno
+abilities:
+  - Influencia: Cansa a un personaje enemigo.
+passive_effect:
+quote: ¿Osas desafiar al padre de los dioses y los hombres?
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

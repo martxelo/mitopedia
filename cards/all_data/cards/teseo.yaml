@@ -1,0 +1,17 @@
+name: Teseo
+card_type: Personaje
+cost: 3
+eras:
+  - I
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Griega
+tags:
+  - Héroe
+  - Guerrero
+abilities:
+  - Enfrentamiento: Elimina bonos y penalizadores de fuerza de un personaje.
+passive_effect:
+quote: No abras tu odre hasta que regreses de Atenas, le dijo el oráculo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

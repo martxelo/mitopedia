@@ -1,0 +1,16 @@
+name: Eros
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 1
+max_pow: 6
+init_pow:
+mythology: Griega
+tags:
+  - Dios
+abilities:
+  - Influencia: Elimina 1P de un personaje enemigo.
+passive_effect:
+quote: Hijo de Ares y Afrodita. El origen del amor fue siempre incierto.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

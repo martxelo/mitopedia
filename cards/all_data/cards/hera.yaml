@@ -1,0 +1,16 @@
+name: Hera
+card_type: Personaje
+cost: 3
+eras:
+  - I
+strength: 0
+max_pow: 4
+init_pow:
+mythology: Griega
+tags:
+  - Diosa
+abilities:
+  - Influencia: Elimina 1P de Hera; gana 2P en un dios en tu oráculo.
+passive_effect:
+quote: Celosa y vengativa, principalmente contra las amantes y descendientes de Zeus.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
