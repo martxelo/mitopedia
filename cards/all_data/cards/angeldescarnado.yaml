@@ -1,0 +1,16 @@
+name: Ángel descarnado
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 2
+max_pow: 5
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Monstruo
+abilities:
+  - Enfrentamiento: Da +1F a todos tus personajes con la clave Loco.
+passive_effect:
+quote: Aparecían en mis sueños, especialmente en aquellas pesadillas que contenían las entidades negras, aladas y gomosas. (Howard)
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

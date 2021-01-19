@@ -1,0 +1,17 @@
+name: Imhotep
+card_type: Personaje
+cost: 3
+eras:
+  - I
+strength: 1
+max_pow: 4
+init_pow:
+mythology: Egipcia
+tags:
+  - Invocador
+  - Constructor
+abilities:
+  - Influencia: Gana 1P en Imhotep por cada recurso en tu panteón, máximo 3.
+passive_effect:
+quote: El primer arquitecto de la historia.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

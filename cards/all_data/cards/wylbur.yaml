@@ -1,0 +1,17 @@
+name: Wylbur
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 1
+max_pow: 6
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Loco
+  - Invocador
+abilities:
+  - Influencia: Prepara un personaje con la clave Criatura.
+passive_effect:
+quote: Examino mi reflejo y el espejo está vacío. Desde lo profundo del Abismo me llaman. Hay muchas cuentas que saldar.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

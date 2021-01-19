@@ -1,0 +1,18 @@
+name: Engwar
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Neutral
+tags:
+  - Guerrero
+  - Atlante
+  - Único
+abilities:
+  - Influencia: Cansa un personaje con la clave Demonio.
+passive_effect:
+quote: Un mestizo temido por unos y despreciado por otros.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

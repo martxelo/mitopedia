@@ -1,0 +1,17 @@
+name: Olaus Wormius
+card_type: Personaje
+cost: 3
+eras:
+  - I
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Loco
+  - Invocador
+abilities:
+  - Influencia: La próxima vez que equipes este turno reduce el coste en 1P.
+passive_effect:
+quote: Hubo dos con su nombre, y tres siglos entre ellos. Pero ambos tenían algo en común, un extraño libro negro forrado en piel.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

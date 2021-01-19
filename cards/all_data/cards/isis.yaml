@@ -1,0 +1,17 @@
+name: Isis
+card_type: Personaje
+cost: 6
+eras:
+  - I
+strength: 3
+max_pow: 8
+init_pow:
+mythology: Egipcia
+tags:
+  - Diosa
+  - Invocadora
+abilities:
+  - Influencia: Elimina 1P (de tu reserva); elimina 1P de las reservas contrarias.
+passive_effect:
+quote: Reconstruyó el cuerpo de Osiris con ayuda de Neftis y Anubis.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

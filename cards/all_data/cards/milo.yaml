@@ -1,0 +1,15 @@
+name: Milo
+card_type: Personaje
+cost: 0
+eras:
+  - I
+strength: 0
+max_pow: 2
+init_pow:
+mythology: Egipcia
+tags:
+  - Esclavo
+abilities:
+passive_effect:
+quote: Siempre encadenado a los deseos de su amo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

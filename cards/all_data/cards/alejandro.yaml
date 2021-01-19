@@ -1,0 +1,17 @@
+name: Alejandro
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Neutral
+tags:
+  - Guerrero
+  - Emperador
+abilities:
+  - Enfrentamiento: Elimina 1P de Alejandro; mueve a un enemigo a su panteón.
+passive_effect:
+quote: Fuerza y Honor.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

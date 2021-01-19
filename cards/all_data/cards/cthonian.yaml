@@ -1,0 +1,16 @@
+name: Cthonian
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Monstruo
+abilities:
+  - Influencia: Gana 1P en un personaje en tu oráculo con la clave Primigenio.
+passive_effect:
+quote: Veréis vuestras casas anegadas, y libraremos vuestros frágiles cuerpos de la cárcel de la existencia.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

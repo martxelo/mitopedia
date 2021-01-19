@@ -1,0 +1,17 @@
+name: Horus
+card_type: Personaje
+cost: 5
+eras:
+  - I
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Egipcia
+tags:
+  - Dios
+  - Guerrero
+abilities:
+  - Enfrentamiento: Elimina 2P de un personaje.
+passive_effect:
+quote: Criado por Thot hasta que se convirtió en un gran guerrero.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

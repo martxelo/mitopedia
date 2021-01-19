@@ -1,0 +1,16 @@
+name: Horror de Dunwich
+card_type: Personaje
+cost: 6
+eras:
+  - I
+strength: 3
+max_pow: 6
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Criatura
+abilities:
+  - Enfrentamiento: Destruye un mortal agotado; gana +1F en Horror de Dunwich.
+passive_effect:
+quote: Cuidado con el Whippoorwill del Valle de Miskatonic. No querrás que se lleve tu alma, ¿verdad?
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

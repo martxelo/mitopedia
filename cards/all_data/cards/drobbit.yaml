@@ -1,0 +1,16 @@
+name: Drobbit
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Neutral
+tags:
+  - Embaucador
+abilities:
+  - Enfrentamiento: Mira una carta de un oráculo de un contrario; si es un evento resuélvelo como si fuera tuyo, déjalo sin revelar en el mismo oráculo.
+passive_effect:
+quote: Hora de jugar.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,16 @@
+name: Nitocris
+card_type: Personaje
+cost: 1
+eras:
+  - I
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Egipcia
+tags:
+  - Reina
+  - Invocadora
+abilities:
+passive_effect:
+quote: La primera reina del Nilo, la más hermosa y la más valiente.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

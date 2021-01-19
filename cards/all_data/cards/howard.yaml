@@ -1,0 +1,15 @@
+name: Howard
+card_type: Personaje
+cost: 1
+eras:
+  - I
+strength: 0
+max_pow: 1
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Invocador
+abilities:
+passive_effect: Howard puede equiparse invocaciones como si tuviera +3PM.
+quote: Escritor, erudito, caballero.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

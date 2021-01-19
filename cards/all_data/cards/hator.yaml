@@ -1,0 +1,17 @@
+name: Hator
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Egipcia
+tags:
+  - Diosa
+  - Invocadora
+abilities:
+  - Enfrentamiento: Agota Hator; gana tantos P como eliminaste repartidos entre los personajes de tu ejército.
+passive_effect:
+quote: Esposa de Horus, ayudó a vengar la muerte de su padre.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

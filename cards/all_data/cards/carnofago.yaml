@@ -1,0 +1,16 @@
+name: Carnófago
+card_type: Personaje
+cost: 4
+eras:
+  - I
+strength: 2
+max_pow: 4
+init_pow:
+mythology: Egipcia
+tags:
+  - Criatura
+abilities:
+  - Enfrentamiento: Agota Carnófago; crea tantos personajes (Criatura 1F/0PM/1P) como poder eliminaste. Destrúyelos al final del enfrentamiento.
+passive_effect:
+quote: Usados para proteger a los difuntos de todo mal, visible o invisible.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

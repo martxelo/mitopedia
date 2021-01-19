@@ -1,0 +1,17 @@
+name: Azathoth
+card_type: Personaje
+cost: 8
+eras:
+  - I
+strength: 5
+max_pow: 9
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Dios
+  - Primigenio
+abilities:
+  - Influencia: Destruye tu mortal; destruye un equipo que no sea una invocación.
+passive_effect:
+quote: El necio sultán de los demonios es el alfa y el omega de todo lo que existe. Y una metáfora de la existencia.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

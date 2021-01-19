@@ -12,7 +12,7 @@ tags:
   - Samurai
   - Criatura
 abilities:
-  - Influencia: Da +1F a todos tus personajes con cla clave "Criatura"
+  - Influencia: Da +1F a todos tus personajes con cla clave Criatura.
 passive_effect:
 quote: Quisieron acabar con nosotros... Tráeme su cabeza!!
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Yig
+card_type: Personaje
+cost: 8
+eras:
+  - I
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Dios
+  - Primigenio
+abilities:
+  - Influencia: Destruye tu mortal; elimina permanentemente una habilidad de una invocación.
+passive_effect:
+quote: Susurrador sempiterno serpentino.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,18 @@
+name: Dagon
+card_type: Personaje
+cost: 4
+eras:
+  - IV
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Profundo
+  - Único
+  - Guerrero
+abilities:
+  - Enfrentamiento: Dale +1F por cada dos cartas en tu mano (redondeando hacia abajo).
+passive_effect:
+quote: El padre de los mares.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

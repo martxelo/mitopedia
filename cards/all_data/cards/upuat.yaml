@@ -1,0 +1,17 @@
+name: Upuat
+card_type: Personaje
+cost: 5
+eras:
+  - I
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Egipcia
+tags:
+  - Dios
+  - Guerrero
+abilities:
+  - Enfrentamiento: Elimina 1P de Upuat; mueve un personaje al campo de batalla, en este momento su controlador debe decidir qué ejército lo controla.
+passive_effect:
+quote: ¡Cuidado, mortal, a quién eliges para rezar por tu viaje al otro lado!
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

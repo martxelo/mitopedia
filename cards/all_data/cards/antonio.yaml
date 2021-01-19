@@ -1,0 +1,16 @@
+name: Antonio
+card_type: Personaje
+cost: 0
+eras:
+  - I
+strength: 0
+max_pow: 2
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Loco
+  - Invocador
+abilities:
+passive_effect:
+quote: ¿Bien o Mal? Lo único que importa es saberlo todo...
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

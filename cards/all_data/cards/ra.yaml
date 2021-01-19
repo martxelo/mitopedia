@@ -1,0 +1,18 @@
+name: Ra
+card_type: Personaje
+cost: 8
+eras:
+  - I
+strength: 5
+max_pow: 9
+init_pow:
+mythology: Egipcia
+tags:
+  - Dios
+  - Sol
+  - Invocador
+abilities:
+  - Influencia: Cansa y agota a tu mortal; da a Ra tanto P y F como poder has eliminado de tu mortal.
+passive_effect:
+quote: Tomó la forma de un hombre y se convirtió en el primer faraón de Egipto.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

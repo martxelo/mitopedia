@@ -1,0 +1,17 @@
+name: Ithaqua
+card_type: Personaje
+cost: 3
+eras:
+  - I
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Dios
+  - Primigenio
+abilities:
+  - Enfrentamiento: Elimina 1P de Ithaqua; mueve a tu personaje al campo de batalla.
+passive_effect:
+quote: Los lobos no lo cazan, los árboles no le dan sombra, el rocío no se posa en él.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

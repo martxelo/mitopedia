@@ -1,0 +1,17 @@
+name: Anubis
+card_type: Personaje
+cost: 6
+eras:
+  - I
+strength: 3
+max_pow: 6
+init_pow:
+mythology: Egipcia
+tags:
+  - Dios
+  - Demonio
+abilities:
+  - Influencia: Cansa una invocación.
+passive_effect:
+quote: Junto a Horus vigilaba la balanza en la que se pesaban los corazones.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

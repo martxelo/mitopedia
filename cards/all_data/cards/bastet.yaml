@@ -1,0 +1,16 @@
+name: Bastet
+card_type: Personaje
+cost: 5
+eras:
+  - I
+strength: 2
+max_pow: 7
+init_pow:
+mythology: Egipcia
+tags:
+  - Diosa
+abilities:
+  - Influencia: Elimina hasta 2P de un oráculo.
+passive_effect:
+quote: Puede mostrarse tierna o feroz, adoptando la cabeza de un león.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Seth
+card_type: Personaje
+cost: 7
+eras:
+  - I
+strength: 3
+max_pow: 9
+init_pow:
+mythology: Egipcia
+tags:
+  - Dios
+  - Demonio
+abilities:
+  - Influencia: Cansa una recurso enemigo.
+passive_effect:
+quote: Venerado, temido y odiado a partes iguales.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,16 @@
+name: Randolf Carter
+card_type: Personaje
+cost: 1
+eras:
+  - I
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Loco
+  - Soñador
+abilities:
+passive_effect:
+quote: No puedo por más que quiera relatarles los indecibles e impensables horrores que cayeron sobre mí, pues una oscura nube ha inundado mi cerebro. (Randolf Carter)
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

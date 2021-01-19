@@ -1,0 +1,16 @@
+name: Osiris
+card_type: Personaje
+cost: 7
+eras:
+  - I
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Egipcia
+tags:
+  - Dios
+abilities:
+  - Influencia: Elimina 1P de Osiris; mueve a tu panteón un mortal en un oráculo.
+passive_effect:
+quote: Asesinado por Set y devuelto a la vida por Isis.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

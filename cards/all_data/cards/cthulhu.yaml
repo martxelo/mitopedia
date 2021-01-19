@@ -1,0 +1,17 @@
+name: Cthulhu
+card_type: Personaje
+cost: 8
+eras:
+  - I
+strength: 5
+max_pow: 9
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Dios
+  - Primigenio
+abilities:
+  - Influencia: Destruye tu mortal; elimina permanentemente el texto de un panteón.
+passive_effect:
+quote: Si pudieras ver sus ojos, ni siquiera hallarías maldad. Está más allá de eso.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

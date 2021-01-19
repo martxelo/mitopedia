@@ -1,0 +1,17 @@
+name: Hastur
+card_type: Personaje
+cost: 5
+eras:
+  - I
+strength: 2
+max_pow: 7
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Dios
+  - Primigenio
+abilities:
+  - Influencia: Cansa un personaje con la clave Demonio o Primigenio.
+passive_effect:
+quote: Conocerán el verdaderos significado de la locura, y la desesperación insondable que hay tras ella.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

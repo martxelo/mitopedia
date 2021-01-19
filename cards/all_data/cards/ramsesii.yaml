@@ -1,0 +1,17 @@
+name: Ramsés II
+card_type: Personaje
+cost: 6
+eras:
+  - I
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Egipcia
+tags:
+  - Dios
+  - Faraón
+abilities:
+  - Enfrentamiento: Elimina 1P de todos los personajes con menos PM que Ramsés II.
+passive_effect:
+quote: ¿Dónde estás mi gran esposa real? ¿Dónde estás Nefertari?
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

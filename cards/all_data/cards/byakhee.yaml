@@ -1,0 +1,16 @@
+name: Byakhee
+card_type: Personaje
+cost: 3
+eras:
+  - I
+strength: 2
+max_pow: 5
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Monstruo
+abilities:
+  - Influencia: Da -1F a un personaje con la clave Dios.
+passive_effect:
+quote: No son más que siervos, músculo acérrimo de su Amo, que en su nombre patrullan los cielos y cazan mortales.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
