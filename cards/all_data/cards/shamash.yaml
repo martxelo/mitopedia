@@ -1,0 +1,17 @@
+name: Shamash
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Sumeria
+tags:
+  - Dios
+  - Sol
+abilities:
+  - Influencia: Gana 1P en tu Dios en tu oráculo.
+passive_effect:
+quote: Cada mañana aparece detrás de las puertas del Este.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

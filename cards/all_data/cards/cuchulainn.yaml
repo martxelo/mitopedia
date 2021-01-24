@@ -1,18 +1,17 @@
-name: Arturo
+name: Cuchulainn
 card_type: Personaje
 cost: 4
 eras:
   - II
 strength: 2
-max_pow: 4
+max_pow: 6
 init_pow:
 mythology: Celta
 tags:
+  - Héroe
   - Guerrero
-  - Rey
-  - Único
 abilities:
-  - Influencia: Equipa un arma a Arturo sin pagar su coste.
+  - Enfrentamiento: Da +1F a Cuchulainn por cada personaje cansado en el campo de batalla.
 passive_effect:
-quote: Una vez Arturo fue proclamado rey de Britania y fundó su corte en Camelot.
+quote: Luchaba como mil hombres y de sus ojos emanaba la luz del propio sol.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

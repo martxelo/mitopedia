@@ -1,0 +1,17 @@
+name: Ishtar
+card_type: Personaje
+cost: 5
+eras:
+  - II
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Sumeria
+tags:
+  - Diosa
+  - Guerrera
+abilities:
+  - Influencia: Prepara tu personaje sumerio.
+passive_effect:
+quote: En la quinta puerta, dejó su collar, éxtasis de la iluminación.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

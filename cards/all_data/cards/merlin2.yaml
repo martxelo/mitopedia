@@ -1,0 +1,17 @@
+name: Merlín
+card_type: Personaje
+cost: 3
+eras:
+  - IV
+strength: 3
+max_pow: 3
+init_pow:
+mythology: Celta
+tags:
+  - Invocador
+  - Druida
+abilities:
+  - Influencia: Dale -1PM permanentemente (mínimo 0); elimina la habilidad de una carta en juego. (excepto panteones)
+passive_effect:
+quote: Engendrado por la fuerza mágica de la antigüedad.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

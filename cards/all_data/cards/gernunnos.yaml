@@ -1,0 +1,18 @@
+name: Gernunnos
+card_type: Personaje
+cost: 5
+eras:
+  - II
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Celta
+tags:
+  - Dios
+  - Druida
+  - Invocador
+abilities:
+  - Influencia: Gana 1P en un personaje con la clave Criatura en tu oráculo.
+passive_effect:
+quote: Señor de los animales, maestro supremo de la naturaleza.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

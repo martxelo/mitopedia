@@ -1,0 +1,16 @@
+name: Nabu
+card_type: Personaje
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 2
+init_pow:
+mythology: Sumeria
+tags:
+  - Dios
+abilities:
+  - Enfrentamiento: Cansa un recurso.
+passive_effect:
+quote: El segundo jinete de Mushusu.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

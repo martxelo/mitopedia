@@ -1,0 +1,17 @@
+name: Epona
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Celta
+tags:
+  - Diosa
+  - Reina
+abilities:
+  - Enfrentamiento: Elimina todos los bonos de fuerza de un personaje.
+passive_effect:
+quote: Cuando sientes el viento azotar tu cabello mientras la tierra pasa veloz bajo tus cascos entiendes qué es la libertad.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

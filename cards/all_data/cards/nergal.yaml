@@ -1,0 +1,17 @@
+name: Nergal
+card_type: Personaje
+cost: 6
+eras:
+  - II
+strength: 3
+max_pow: 6
+init_pow:
+mythology: Sumeria
+tags:
+  - Dios
+  - Demonio
+abilities:
+  - Influencia: Da la clave Demonio a un personaje.
+passive_effect:
+quote: Siete escorpiones fueron su séquito y de madera fue su trono, regalo para la diosa de las siete puertas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

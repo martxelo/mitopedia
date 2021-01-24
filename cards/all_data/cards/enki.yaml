@@ -1,0 +1,17 @@
+name: Enki
+card_type: Personaje
+cost: 8
+eras:
+  - II
+strength: 5
+max_pow: 9
+init_pow:
+mythology: Sumeria
+tags:
+  - Dios
+  - Invocador
+abilities:
+  - Enfrentamiento: Mueve a tu personaje de tu panteón al campo de batalla; mueve un personaje a su panteón.
+passive_effect:
+quote: Yo no juego a ser dios, eso sólo lo puede hacer un mortal.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

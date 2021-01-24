@@ -1,18 +1,16 @@
-name: Merlín
+name: Vercingétorix
 card_type: Personaje
-cost: 4
+cost: 2
 eras:
   - II
 strength: 1
-max_pow: 6
+max_pow: 2
 init_pow:
 mythology: Celta
 tags:
-  - Invocador
-  - Vidente
-  - Único
+  - Druida
+  - Guerrero
 abilities:
-  - Enfrentamiento: Roba una carta.
 passive_effect:
-quote: Hace tiempo vislumbré su final, mucho antes de que conocieseis su nombre.
+quote: Unió a las tribus galas para luchar contra la arrogancia de los romanos.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

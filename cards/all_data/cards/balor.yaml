@@ -1,18 +1,17 @@
-name: Merlín
+name: Balor
 card_type: Personaje
-cost: 4
+cost: 5
 eras:
   - II
-strength: 1
-max_pow: 6
+strength: 2
+max_pow: 5
 init_pow:
 mythology: Celta
 tags:
+  - Demonio
   - Invocador
-  - Vidente
-  - Único
 abilities:
-  - Enfrentamiento: Roba una carta.
+  - Enfrentamiento: Destruye un mortal agotado.
 passive_effect:
-quote: Hace tiempo vislumbré su final, mucho antes de que conocieseis su nombre.
+quote: Todos tenemos una parte malvada oculta y encerrada.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

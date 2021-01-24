@@ -1,0 +1,15 @@
+name: Enkidu
+card_type: Personaje
+cost: 0
+eras:
+  - II
+strength: 2
+max_pow: 1
+init_pow:
+mythology: Sumeria
+tags:
+  - Monstruo
+abilities:
+passive_effect: No puede meditar.
+quote: Siempre a tu lado, siempre preparado.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

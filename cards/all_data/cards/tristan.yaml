@@ -1,0 +1,17 @@
+name: Tristán
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 2
+max_pow: 5
+init_pow:
+mythology: Celta
+tags:
+  - Caballero
+  - Héroe
+abilities:
+  - Enfrentamiento: Reduce en 1 el diferencial de batalla.
+passive_effect:
+quote: Era tanto el amor que sentía por su señor, que sólo un amor más grande podía obligarle a traicionarlo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

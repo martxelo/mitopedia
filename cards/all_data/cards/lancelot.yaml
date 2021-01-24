@@ -1,18 +1,17 @@
-name: Merlín
+name: Lancelot
 card_type: Personaje
 cost: 4
 eras:
   - II
-strength: 1
+strength: 2
 max_pow: 6
 init_pow:
 mythology: Celta
 tags:
-  - Invocador
-  - Vidente
-  - Único
+  - Caballero
+  - Guerrero
 abilities:
-  - Enfrentamiento: Roba una carta.
+  - Influencia: Gana 1P en Lancelot.
 passive_effect:
-quote: Hace tiempo vislumbré su final, mucho antes de que conocieseis su nombre.
+quote: No voy a besar a una mujer tan bella... sólo tengo un corazón para perder.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

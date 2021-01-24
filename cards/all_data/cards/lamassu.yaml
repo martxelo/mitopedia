@@ -1,0 +1,16 @@
+name: Lamassu
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 4
+init_pow:
+mythology: Sumeria
+tags:
+  - Monstruo
+abilities:
+  - Enfrentamiento: Gana 1P en un personaje mortal en tu oráculo.
+passive_effect:
+quote: Su tercer rugido es devastador, acerca a su cueva gemas y oro para pedir un favor.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

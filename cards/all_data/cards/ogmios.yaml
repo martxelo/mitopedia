@@ -1,0 +1,15 @@
+name: Ogmios
+card_type: Personaje
+cost: 0
+eras:
+  - II
+strength: 0
+max_pow: 2
+init_pow:
+mythology: Celta
+tags:
+  - Dios
+abilities:
+passive_effect:
+quote: Dios de la elocuencia y la palabra, que con su oratoria enardecía a las tropas y las lanzaba a la batalla. Creador del alfabeto Ogámico y poseedor de la palabra convincente y el uso del verbo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

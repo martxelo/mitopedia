@@ -1,0 +1,17 @@
+name: Ninurta
+card_type: Personaje
+cost: 5
+eras:
+  - II
+strength: 2
+max_pow: 7
+init_pow:
+mythology: Sumeria
+tags:
+  - Dios
+  - Guerrero
+abilities:
+  - Enfrentamiento: Cansa un personaje con menos equipos que Ninurta.
+passive_effect: Puede llevar dos armas.
+quote: El rugido de Sharur, el león alado, inundó los corazones de sus enemigos con un miedo que sólo puede ser sentido.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

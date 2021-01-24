@@ -1,0 +1,17 @@
+name: Ankov
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Celta
+tags:
+  - Dios
+  - Demonio
+abilities:
+  - Influencia: Destruye tu personaje celta; mueve tu mortal del descarte a tu panteón.
+passive_effect:
+quote: Llamaron demonios a sus Dioses y se vieron exiliados a los bosques, viviendo entre ellos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

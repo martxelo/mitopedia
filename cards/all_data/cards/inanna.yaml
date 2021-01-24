@@ -1,0 +1,17 @@
+name: Inanna
+card_type: Personaje
+cost: 5
+eras:
+  - II
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Sumeria
+tags:
+  - Diosa
+  - Exiliada
+abilities:
+  - Enfrentamiento: Elimina 1P de Inanna; elimina la habilidad de un personaje.
+passive_effect:
+quote: Aliada con los jueces del inframundo, dictaron sentencia, debía ser colgada de un gancho hasta que su cuerpo se pudriese.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

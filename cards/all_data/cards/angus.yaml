@@ -1,0 +1,16 @@
+name: Angus
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Celta
+tags:
+  - Dios
+abilities:
+  - Influencia: Ninguna acción puede hacer objetivo a Angus.
+passive_effect:
+quote: Reconoció a su amada aún en forma de cisne y por tres veces se sumergieron juntos en el lago.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

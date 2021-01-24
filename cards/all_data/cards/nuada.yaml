@@ -1,0 +1,18 @@
+name: Nuada
+card_type: Personaje
+cost: 5
+eras:
+  - II
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Celta
+tags:
+  - Héroe
+  - Guerrero
+  - Rey
+abilities:
+  - Enfrentamiento: Dobla la fuerza de un arma equipada en Nuada.
+passive_effect:
+quote: Los Tuatha Dé Danann tenían a su rey, su líder, y en su inspiración se forjó la historia que los convertiría en dioses.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

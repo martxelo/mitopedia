@@ -1,0 +1,17 @@
+name: Danu
+card_type: Personaje
+cost: 7
+eras:
+  - II
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Celta
+tags:
+  - Diosa
+  - Invocadora
+abilities:
+  - Enfrentamiento: Gana 1P en tus personajes con la clave Invocador.
+passive_effect:
+quote: Predecesora de los Tuatha Danann, proporciona la luz al resto del panteón.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

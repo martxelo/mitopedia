@@ -1,0 +1,17 @@
+name: Gilgamesh
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Sumeria
+tags:
+  - Rey
+  - Héroe
+abilities:
+  - Influencia: Da 2P a Enkidu.
+passive_effect:
+quote: Si caigo, habré conquistado la fama.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

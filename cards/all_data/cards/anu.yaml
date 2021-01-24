@@ -1,0 +1,17 @@
+name: Anu
+card_type: Personaje
+cost: 7
+eras:
+  - II
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Sumeria
+tags:
+  - Dios
+  - Guardián
+abilities:
+  - Enfrentamiento: No se pueden mover más personajes al campo de batalla.
+passive_effect:
+quote: En el cielo está Anu sobre su trono, revestido de todos los atributos de la soberanía.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

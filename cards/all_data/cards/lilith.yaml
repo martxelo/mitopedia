@@ -1,0 +1,18 @@
+name: Lilith
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Sumeria
+tags:
+  - Diosa
+  - Monstruo
+  - Demonio
+abilities:
+  - Enfrentamiento: Elimina 2P de un personaje en un panteón.
+passive_effect: Cuesta 2P más para Inframundo.
+quote: Una vez tuve frío, y no hubo calor para mí.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,18 +1,18 @@
-name: Merlín
+name: Daghda
 card_type: Personaje
-cost: 4
+cost: 8
 eras:
   - II
-strength: 1
-max_pow: 6
+strength: 5
+max_pow: 9
 init_pow:
 mythology: Celta
 tags:
+  - Dios
+  - Druida
   - Invocador
-  - Vidente
-  - Único
 abilities:
-  - Enfrentamiento: Roba una carta.
+  - Enfrentamiento: Cansa o prepara a un personaje.
 passive_effect:
-quote: Hace tiempo vislumbré su final, mucho antes de que conocieseis su nombre.
+quote: Dios solar y lunar, concede la vida y la muerte.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

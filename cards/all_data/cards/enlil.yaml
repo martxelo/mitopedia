@@ -1,0 +1,18 @@
+name: Enlil
+card_type: Personaje
+cost: 7
+eras:
+  - II
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Sumeria
+tags:
+  - Dios
+  - Invocador
+  - Aire
+abilities:
+  - Influencia: Usa la habilidad de una invocación en juego como si la tuviera equipada.
+passive_effect:
+quote: ... Y los seres inmateriales formaron a su alrededor como un millar de espadas recién desenvainadas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

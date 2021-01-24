@@ -1,0 +1,17 @@
+name: Cathab
+card_type: Personaje
+cost: 2
+eras:
+  - II
+strength: 0
+max_pow: 4
+init_pow:
+mythology: Celta
+tags:
+  - Druida
+  - Invocador
+abilities:
+  - Enfrentamiento: Cansa a Cathab; da +1F a tus druidas.
+passive_effect:
+quote: Los druidas se esforzaban por llevar a la práctica las cualidades del carnero solar, el sentido del sacrificio y el del debate contra las tinieblas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

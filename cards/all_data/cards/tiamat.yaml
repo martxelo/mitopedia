@@ -1,0 +1,18 @@
+name: Tiamat
+card_type: Personaje
+cost: 6
+eras:
+  - II
+strength: 3
+max_pow: 7
+init_pow:
+mythology: Sumeria
+tags:
+  - Diosa
+  - Demonio
+  - Loca
+abilities:
+  - Enfrentamiento: Elimina hasta 3P de un Dios.
+passive_effect:
+quote: Tiamat, muy enfurecida con la muerte de su esposo, creó una legión de demonios liderados por Kingu, que era su amante y uno de sus hijos...
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

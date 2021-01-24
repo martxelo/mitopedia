@@ -1,4 +1,4 @@
-name: Merlín
+name: Dianech
 card_type: Personaje
 cost: 4
 eras:
@@ -8,11 +8,11 @@ max_pow: 6
 init_pow:
 mythology: Celta
 tags:
+  - Dios
   - Invocador
-  - Vidente
-  - Único
+  - Druida
 abilities:
-  - Enfrentamiento: Roba una carta.
+  - Influencia: Cambia la habilidad de un recurso de INFLUENCIA a ENFRENTAMIENTO.
 passive_effect:
-quote: Hace tiempo vislumbré su final, mucho antes de que conocieseis su nombre.
+quote: Mató a su hijo Miach por hacer algo que él mismo no podía hacer.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

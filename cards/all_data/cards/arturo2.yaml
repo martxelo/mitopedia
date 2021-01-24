@@ -2,17 +2,16 @@ name: Arturo
 card_type: Personaje
 cost: 4
 eras:
-  - II
+  - IV
 strength: 2
-max_pow: 4
+max_pow: 5
 init_pow:
 mythology: Celta
 tags:
-  - Guerrero
+  - Caballero
   - Rey
-  - Único
 abilities:
-  - Influencia: Equipa un arma a Arturo sin pagar su coste.
+  - Influencia: Da +1F permanentemente a tu Caballero.
 passive_effect:
-quote: Una vez Arturo fue proclamado rey de Britania y fundó su corte en Camelot.
+quote: Caballero igual a los suyos en la mesa redonda.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

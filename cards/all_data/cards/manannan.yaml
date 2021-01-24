@@ -1,18 +1,17 @@
-name: Merlín
+name: Manannan
 card_type: Personaje
-cost: 4
+cost: 3
 eras:
   - II
 strength: 1
-max_pow: 6
+max_pow: 5
 init_pow:
 mythology: Celta
 tags:
+  - Héroe
   - Invocador
-  - Vidente
-  - Único
 abilities:
-  - Enfrentamiento: Roba una carta.
+  - Enfrentamiento: Da -1F a un personaje enemigo.
 passive_effect:
-quote: Hace tiempo vislumbré su final, mucho antes de que conocieseis su nombre.
+quote: Sólo una cosa impresionaba más que su sabiduría, su casco llameante apareciendo entre la niebla.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,18 +1,16 @@
-name: Merlín
+name: Guttuatr
 card_type: Personaje
 cost: 4
 eras:
   - II
-strength: 1
+strength: 2
 max_pow: 6
 init_pow:
 mythology: Celta
 tags:
-  - Invocador
-  - Vidente
-  - Único
+  - Druida
 abilities:
-  - Enfrentamiento: Roba una carta.
+  - Influencia: Destruye tu mortal; da +3F a Guttuatr.
 passive_effect:
-quote: Hace tiempo vislumbré su final, mucho antes de que conocieseis su nombre.
+quote: El poseedor y custodio de la voz sagrada, intercesor entre hombres y dioses.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

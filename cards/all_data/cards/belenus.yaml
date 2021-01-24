@@ -1,0 +1,16 @@
+name: Belenus
+card_type: Personaje
+cost: 7
+eras:
+  - II
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Celta
+tags:
+  - Dios
+  - Fuego
+abilities:
+passive_effect: Las acciones de otros jugadores no pueden eliminar P de Belenus.
+quote: Divinidad salvadora y protectora de la salud, dejó embarazada a su mujer para renacer en ella.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

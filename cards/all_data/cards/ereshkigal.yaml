@@ -1,0 +1,18 @@
+name: Ereshkigal
+card_type: Personaje
+cost: 6
+eras:
+  - II
+strength: 3
+max_pow: 8
+init_pow:
+mythology: Sumeria
+tags:
+  - Diosa
+  - Demonio
+  - Reina
+abilities:
+  - Enfrentamiento: Elimina 1P de todos los personajes en el campo de batalla.
+passive_effect:
+quote: Su despecho fue tan grande que los muertos del inframundo volvieron a la vida hasta que su amante volviese a su lado.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

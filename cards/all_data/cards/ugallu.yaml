@@ -1,0 +1,16 @@
+name: Ugallu
+card_type: Personaje
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 4
+init_pow:
+mythology: Sumeria
+tags:
+  - Criatura
+  - Monstruo
+abilities:
+passive_effect:
+quote: Los Ugallu descienden del primer gemelo, y son los guías, sabios.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

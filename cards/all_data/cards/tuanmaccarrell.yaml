@@ -1,18 +1,15 @@
-name: Merlín
+name: Tuan MacCarrell
 card_type: Personaje
-cost: 4
+cost: 1
 eras:
   - II
 strength: 1
-max_pow: 6
+max_pow: 3
 init_pow:
 mythology: Celta
 tags:
-  - Invocador
-  - Vidente
-  - Único
+  - Criatura
 abilities:
-  - Enfrentamiento: Roba una carta.
 passive_effect:
-quote: Hace tiempo vislumbré su final, mucho antes de que conocieseis su nombre.
+quote: Mi nombre es Tuan hijo de Carell, pero una vez me llamé Tuan hijo de Starn, hijo de Sera.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

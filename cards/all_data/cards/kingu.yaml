@@ -1,0 +1,17 @@
+name: Kingu
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Sumeria
+tags:
+  - Demonio
+  - Monstruo
+abilities:
+  - Enfrentamiento: Da +1F a tus personajes con la clave Monstruo.
+passive_effect: Cuesta 2P más para Inframundo.
+quote: Abrió la boca para extinguir al dios fuego, exaltando su fuerza en la batalla.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

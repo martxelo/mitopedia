@@ -1,0 +1,17 @@
+name: Brigid
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Celta
+tags:
+  - Diosa
+  - Fuego
+abilities:
+  - Enfrentamiento: Gana P igual a la mitad del diferencial de victoria si ganas el enfrentamiento.
+passive_effect:
+quote: Nació con una llama en la cabeza que la unió al universo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
