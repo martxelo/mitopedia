@@ -1,0 +1,17 @@
+name: Caballo Loco
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Nativa americana
+tags:
+  - Jefe
+  - Guerrero
+abilities:
+  - Influencia: Mueve a tu Guerrero al campo de batalla.
+passive_effect:
+quote: Carismático líder guerrero, héroe de Little Big Horn.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,15 @@
+name: Invocante
+card_type: Personaje
+cost: 1
+eras:
+  - II
+strength: 0
+max_pow: 0
+init_pow:
+mythology: Voodoo
+tags:
+abilities:
+  - Influencia: Destruye a Invocante; mueve un mortal de tu destierro a tu panteón.
+passive_effect:
+quote: Cuando entra en el invocante no habla, sino que emite silbidos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Ghede
+card_type: Personaje
+cost: 8
+eras:
+  - II
+strength: 5
+max_pow: 9
+init_pow:
+mythology: Voodoo
+tags:
+  - Dios
+  - Muerte
+abilities:
+  - Enfrentamiento: Elimina dos contadores voodoo de un personaje; destruye ese personaje.
+passive_effect:
+quote: ¡Muchacho! ¡Tráeme tabaco! ¡Y ron! Pues la Muerte es mi don.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,4 +1,4 @@
-name: Agwa
+name: Heno
 card_type: Personaje
 cost: 5
 eras:
@@ -6,12 +6,12 @@ eras:
 strength: 3
 max_pow: 7
 init_pow:
-mythology: Voodoo
+mythology: Nativa americana
 tags:
   - Dios
-  - Agua
+  - Trueno
 abilities:
-  - Influencia: Elimina un contador voodoo de un personaje; muévelo al campo de batalla.
+  - Enfrentamiento: Cansa un personaje enemigo.
 passive_effect:
-quote: Serpentino Dios del Mar, su ofrenda principal es el ron.
+quote: Preciso arquero que con el tocar de la cuerda de su arco produce rayos y tormentas.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

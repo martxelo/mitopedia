@@ -1,0 +1,18 @@
+name: Oso Caminante
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 3
+max_pow: 3
+init_pow:
+mythology: Nativa americana
+tags:
+  - Guerrero
+  - Invocador
+  - Chamán
+abilities:
+  - Influencia: Elige tu Guerrero; cuenta su F aunque esté agotado.
+passive_effect:
+quote: La fuerza del Guerrero y la magia del Chamán unidos en un solo cuerpo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

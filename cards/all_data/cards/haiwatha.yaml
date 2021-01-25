@@ -1,0 +1,17 @@
+name: Haiwatha
+card_type: Personaje
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 2
+init_pow:
+mythology: Nativa americana
+tags:
+  - Chamán
+  - Invocador
+abilities:
+  - Enfrentamiento: Gana 1P en tu dios en un oráculo.
+passive_effect:
+quote: Fue el primer chamán troqués y profeta de Loskeha, el Hurón.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

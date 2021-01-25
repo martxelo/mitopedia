@@ -1,0 +1,16 @@
+name: Belie Belcán
+card_type: Personaje
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 2
+init_pow:
+mythology: Voodoo
+tags:
+  - Dios
+abilities:
+  - Enfrentamiento: Da +1F a Belie Belcán por cada Demonio en el ejército contrario.
+passive_effect:
+quote: Yo soy la Justicia, yo soy la Ley. ¿Quién eres tú, triste diablo, para osar desafiarme?
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

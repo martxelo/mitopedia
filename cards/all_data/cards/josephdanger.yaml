@@ -1,0 +1,16 @@
+name: Joseph Danger
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 4
+init_pow:
+mythology: Voodoo
+tags:
+  - Demonio
+abilities:
+  - Influencia: Mueve un contador voodoo de un personaje a otro.
+passive_effect:
+quote: El que engaña y oculta verdades, el truhán que desvía del camino hasta al más decidido.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

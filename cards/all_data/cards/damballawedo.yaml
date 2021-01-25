@@ -1,0 +1,17 @@
+name: Damballa Wedo
+card_type: Personaje
+cost: 7
+eras:
+  - II
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Voodoo
+tags:
+  - Dios
+  - Trueno
+abilities:
+  - Enfrentamiento: Cansa hasta dos personajes con al menos un contador voodoo.
+passive_effect:
+quote: Terrible Dios del Trueno, pero también de la sabiduría y guardián de tullidos y enfermos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

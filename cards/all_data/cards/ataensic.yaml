@@ -1,4 +1,4 @@
-name: Erzulie Freda
+name: Ataensic
 card_type: Personaje
 cost: 7
 eras:
@@ -6,12 +6,13 @@ eras:
 strength: 4
 max_pow: 9
 init_pow:
-mythology: Voodoo
+mythology: Nativa americana
 tags:
   - Diosa
   - Invocadora
+  - Aire
 abilities:
-  - Enfrentamiento: Pon dos contadores voodoo en un personaje enemigo.
+  - Enfrentamiento: Da -2F a un personaje enemigo.
 passive_effect:
-quote: Fogosa en discusiones y pasiones por igual, Diosa del matrimonio y el divorcio.
+quote: Bajó a la tierra para dar a luz a los animales.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

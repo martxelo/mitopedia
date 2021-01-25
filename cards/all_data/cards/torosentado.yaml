@@ -1,0 +1,16 @@
+name: Toro Sentado (Sesondowah)
+card_type: Personaje
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 2
+init_pow:
+mythology: Nativa americana
+tags:
+  - Jefe
+  - Guerrero
+abilities:
+passive_effect:
+quote: Líder espiritual Lakota y Jefe Supremo de la nación Sioux, ganó su nombre al saltar y domar un búfalo que le envistió a los doce años.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

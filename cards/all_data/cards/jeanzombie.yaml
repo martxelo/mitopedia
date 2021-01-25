@@ -1,0 +1,15 @@
+name: Jean Zombie
+card_type: Personaje
+cost: 0
+eras:
+  - II
+strength: 2
+max_pow: 0
+init_pow:
+mythology: Voodoo
+tags:
+  - Monstruo
+abilities:
+passive_effect:
+quote: Carnicero de la masacre de Port-au-Prince, su nombre y alma están condenados a vagar sin mente.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

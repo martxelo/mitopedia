@@ -1,0 +1,16 @@
+name: Loskeha, el Hurón
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Nativa americana
+tags:
+  - Espíritu
+abilities:
+  - Enfrentamiento: Da -1F a un personaje enemigo.
+passive_effect:
+quote: Forma animal de Tawiskaron, enseña curación a cambio de tributo y proporciona magia blanca.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

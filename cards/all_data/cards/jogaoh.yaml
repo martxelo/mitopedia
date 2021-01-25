@@ -1,0 +1,16 @@
+name: Jogäoh
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 4
+init_pow:
+mythology: Nativa americana
+tags:
+  - Criatura
+abilities:
+  - Influencia: Crea un personaje (Espíritu 0F/0C/2PM/0P).
+passive_effect:
+quote: Espíritus de cuevas, ríos y prados, que juegan y velan por los hombres.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

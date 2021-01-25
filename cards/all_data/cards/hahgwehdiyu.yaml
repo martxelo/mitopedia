@@ -1,0 +1,18 @@
+name: Hahgwehdiyu
+card_type: Personaje
+cost: 6
+eras:
+  - II
+strength: 3
+max_pow: 8
+init_pow:
+mythology: Nativa americana
+tags:
+  - Dios
+  - Sol
+  - Espíritu
+abilities:
+  - Enfrentamiento: Da +1F a tus personajes Espíritu.
+passive_effect:
+quote: Recibió la bencición del Sol por su talante poderoso y justo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

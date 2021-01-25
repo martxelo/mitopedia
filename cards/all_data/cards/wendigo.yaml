@@ -1,0 +1,17 @@
+name: Wendigo
+card_type: Personaje
+cost: 1
+eras:
+  - II
+strength: 0
+max_pow: 2
+init_pow:
+mythology: Nativa americana
+tags:
+  - Invocador
+  - Vidente
+abilities:
+  - Influencia: Copia la fuerza de tu personaje Espíritu.
+passive_effect:
+quote: Feral y habriento de carne humana.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

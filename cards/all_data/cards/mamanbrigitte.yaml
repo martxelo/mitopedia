@@ -1,4 +1,4 @@
-name: Agwa
+name: Maman Brigitte
 card_type: Personaje
 cost: 5
 eras:
@@ -8,10 +8,11 @@ max_pow: 7
 init_pow:
 mythology: Voodoo
 tags:
-  - Dios
-  - Agua
+  - Diosa
+  - Invocadora
+  - Muerte
 abilities:
-  - Influencia: Elimina un contador voodoo de un personaje; muévelo al campo de batalla.
+  - Enfrentamiento: Mueve un personaje de tu destierro a tu panteón.
 passive_effect:
-quote: Serpentino Dios del Mar, su ofrenda principal es el ron.
+quote: Siempre luce su vestido de novia, del brazo de Samedi.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

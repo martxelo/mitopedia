@@ -1,0 +1,17 @@
+name: Gaho
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Nativa americana
+tags:
+  - Gigante
+  - Aire
+abilities:
+  - Influencia: Tu personaje gana la clave Espíritu, si es Nativo es permanente.
+passive_effect:
+quote: El Gigante de los Vientos, merodea por el mundo dando forma animal a las ráfagas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

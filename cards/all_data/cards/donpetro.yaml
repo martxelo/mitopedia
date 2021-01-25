@@ -1,0 +1,16 @@
+name: Don Petro
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Voodoo
+tags:
+  - Loa
+abilities:
+  - Enfrentamiento: Elimina un contador voodoo; tu Dios en tu oráculo gana 2P.
+passive_effect:
+quote: Simboliza la fuerza, la resistencia y los levantamientos contra el opresor.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

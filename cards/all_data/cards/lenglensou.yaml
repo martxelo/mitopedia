@@ -1,0 +1,16 @@
+name: Lenglensou
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Voodoo
+tags:
+  - Loa
+abilities:
+  - Enfrentamiento: Cansa un personaje con al menos un contador voodoo.
+passive_effect:
+quote: Feroz espíritu de áreas silvestres, ajusticia los mentirosos y chivatos, y come vidrios y cuchillas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

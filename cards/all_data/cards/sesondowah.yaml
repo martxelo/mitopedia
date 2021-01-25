@@ -1,0 +1,17 @@
+name: Sesondowah
+card_type: Personaje
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 2
+init_pow:
+mythology: Nativa americana
+tags:
+  - Guerrero
+  - Cazador
+abilities:
+  - Influencia: Mueve este personaje al campo de batalla.
+passive_effect:
+quote: Mientras perseguía al alce místico fue capturado por Amanecer.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

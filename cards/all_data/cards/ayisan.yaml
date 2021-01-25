@@ -1,17 +1,17 @@
-name: Agwa
+name: Ayisán
 card_type: Personaje
 cost: 5
 eras:
   - II
-strength: 3
+strength: 2
 max_pow: 7
 init_pow:
 mythology: Voodoo
 tags:
-  - Dios
-  - Agua
+  - Diosa
+  - Demonio
 abilities:
-  - Influencia: Elimina un contador voodoo de un personaje; muévelo al campo de batalla.
+  - Enfrentamiento: Gana 1P por cada evento en tu destierro.
 passive_effect:
-quote: Serpentino Dios del Mar, su ofrenda principal es el ron.
+quote: ¿Tú vienes a mi cementerio, mortal? Ten cuidado, no todos los que entran salen.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

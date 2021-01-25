@@ -1,0 +1,17 @@
+name: Agaou
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Voodoo
+tags:
+  - Dios
+  - Criatura
+abilities:
+  - Enfrentamiento: Mueve un mortal agotado a tu destierro.
+passive_effect:
+quote: El Artillero de los Dioses, toma forma de dragón marino para crear tormentas y huracanes.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

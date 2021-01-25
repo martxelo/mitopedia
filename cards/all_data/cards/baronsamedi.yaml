@@ -1,4 +1,4 @@
-name: Agwa
+name: Barón Samedi
 card_type: Personaje
 cost: 5
 eras:
@@ -9,9 +9,9 @@ init_pow:
 mythology: Voodoo
 tags:
   - Dios
-  - Agua
+  - Muerte
 abilities:
-  - Influencia: Elimina un contador voodoo de un personaje; muévelo al campo de batalla.
+  - Influencia: Gana 1P por cada personaje en tu destierro.
 passive_effect:
-quote: Serpentino Dios del Mar, su ofrenda principal es el ron.
+quote: El Segador, fiel siervo de Ghede, él es el encargado de recoger las almas.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

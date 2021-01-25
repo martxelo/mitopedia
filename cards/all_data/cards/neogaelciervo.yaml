@@ -1,0 +1,17 @@
+name: Neoga, el Ciervo
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Nativa americana
+tags:
+  - Espíritu
+  - Aire
+abilities:
+  - Influencia: Gana 2P en tu personaje Espíritu.
+passive_effect:
+quote: El cálido y gentil Viento del Sur.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

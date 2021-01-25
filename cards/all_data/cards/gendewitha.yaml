@@ -1,0 +1,16 @@
+name: Gendewitha
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Nativa americana
+tags:
+  - Invocadora
+abilities:
+  - Influencia: Cansa tu Fuerrero; da -2F a un personaje enemigo.
+passive_effect:
+quote: Amanecer, celosa, la convirtió en el Lucero del Alba para que Sesondowah jamás pudiera desposarla.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

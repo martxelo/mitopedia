@@ -1,0 +1,16 @@
+name: Mambo
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Voodoo
+tags:
+  - Invocadora
+abilities:
+  - Influencia: Gana 1P por cada recurso en tu destierro.
+passive_effect:
+quote: Haz tu ofrenda y escucha a esta mambo, yo te guiaré.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

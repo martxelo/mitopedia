@@ -1,0 +1,17 @@
+name: Sedna
+card_type: Personaje
+cost: 8
+eras:
+  - II
+strength: 5
+max_pow: 9
+init_pow:
+mythology: Nativa americana
+tags:
+  - Diosa
+  - Agua
+abilities:
+  - Enfrentamiento: Agota tu personaje con al menos 1P; agota un personaje enemigo.
+passive_effect:
+quote: Cuando Sedna se enfurece el océano se agita.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

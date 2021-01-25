@@ -1,0 +1,16 @@
+name: Manitú
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Nativa americana
+tags:
+  - Espíritu
+abilities:
+  - Influencia: Mueve tu personaje Espíritu al campo de batalla.
+passive_effect:
+quote: Enseñaron al hombre a construir y arar la tierra.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

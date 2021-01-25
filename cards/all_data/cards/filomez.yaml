@@ -1,0 +1,16 @@
+name: Filomez
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Voodoo
+tags:
+  - Invocadora
+abilities:
+  - Enfrentamiento: Da -1F a un personaje enemigo.
+passive_effect:
+quote: Alegre y jovial, trae prosperidad allá donde caen los pétalos de sus ramos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

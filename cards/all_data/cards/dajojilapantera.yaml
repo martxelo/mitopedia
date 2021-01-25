@@ -1,0 +1,17 @@
+name: Dajoji, la Pantera
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Nativa americana
+tags:
+  - Espíritu
+  - Aire
+abilities:
+  - Enfrentamiento: Elige una carta en juego; esa carta no se prepara durante la próxima REORGANIZACIÓN.
+passive_effect:
+quote: El Viento del Oeste, torbellino y tempestad.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

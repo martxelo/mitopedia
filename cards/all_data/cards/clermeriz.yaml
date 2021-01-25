@@ -1,0 +1,15 @@
+name: Clermeriz
+card_type: Personaje
+cost: 0
+eras:
+  - II
+strength: 0
+max_pow: 2
+init_pow:
+mythology: Voodoo
+tags:
+  - Invocadora
+abilities:
+passive_effect:
+quote: Suele tomar una escoba para barrer la mala suerte fuera. Si está cansada, posee a alguien para que lo haga por ella.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
