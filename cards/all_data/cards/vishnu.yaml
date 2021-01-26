@@ -1,0 +1,17 @@
+name: Vishnu
+card_type: Personaje
+cost: 8
+eras:
+  - II
+strength: 5
+max_pow: 9
+init_pow:
+mythology: Hindú
+tags:
+  - Dios
+  - Guerrero
+abilities:
+  - Enfrentamiento: Tu personaje hindú gana tanto P como sea necesario para llegar a su PM.
+passive_effect:
+quote: Visnú-sajasra-nama el de los mil nombres, creador, preservador y destructor.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

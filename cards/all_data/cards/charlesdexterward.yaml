@@ -1,0 +1,16 @@
+name: Charles Dexter Ward
+card_type: Personaje
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 2
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Loco
+abilities:
+  - Influencia: Da la clave loco a un personaje.
+passive_effect:
+quote: Un hombre tiene derecho a disfrazarse siempre que no destruya a quien le hizo venir desde el más allá de las esferas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

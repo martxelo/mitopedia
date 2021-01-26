@@ -1,0 +1,17 @@
+name: Nyarlathotep
+card_type: Personaje
+cost: 8
+eras:
+  - II
+strength: 5
+max_pow: 9
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Dios
+  - Primigenio
+abilities:
+  - Influencia: Destruye tu mortal; elimina hasta 3P de un personaje enemigo.
+passive_effect:
+quote: Se sabe que es capaz de aparecer en mil avatares diferentes, y nunca se han podido listar todas sus formas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

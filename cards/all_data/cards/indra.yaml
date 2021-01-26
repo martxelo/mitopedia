@@ -1,0 +1,17 @@
+name: Indra
+card_type: Personaje
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 2
+init_pow:
+mythology: Hindú
+tags:
+  - Invocador
+  - Vidente
+abilities:
+  - Influencia: Da la clave Dios a un personaje.
+passive_effect:
+quote: El que se entregó al sol de la mañana, el que conduce las aguas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

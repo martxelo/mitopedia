@@ -1,0 +1,15 @@
+name: Franky
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 4
+max_pow: 4
+init_pow:
+mythology: Neutral
+tags:
+  - Monstruo
+abilities:
+passive_effect: Entra en juego cansado.
+quote: Maldecirás al sol que alumbra nuestra desgracia, camina... camina...
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

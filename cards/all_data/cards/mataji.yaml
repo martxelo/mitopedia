@@ -1,0 +1,17 @@
+name: Mataji
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 4
+init_pow:
+mythology: Hindú
+tags:
+  - Invocadora
+  - Vidente
+abilities:
+  - Influencia: Copia la habilidad de un mortal de tu descarte.
+passive_effect:
+quote: Vivir de la luz, nutrirse de la luz, regresaremos a la luz.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

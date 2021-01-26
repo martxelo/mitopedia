@@ -1,0 +1,17 @@
+name: Krishna
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Hindú
+tags:
+  - Héroe
+  - Rey
+abilities:
+  - Influencia: Cansa tu mortal; da 2P a tu Dios.
+passive_effect:
+quote: Tu muerte ya ha nacido.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

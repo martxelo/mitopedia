@@ -1,0 +1,17 @@
+name: Gajendra
+card_type: Personaje
+cost: 5
+eras:
+  - II
+strength: 3
+max_pow: 6
+init_pow:
+mythology: Hindú
+tags:
+  - Rey
+  - Criatura
+abilities:
+  - Enfrentamiento: Tu oponente debe hacer objetivo a Gajendra con su siguiente acción o pasar.
+passive_effect:
+quote: Ofreció un loto a Vishnu para su liberación.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

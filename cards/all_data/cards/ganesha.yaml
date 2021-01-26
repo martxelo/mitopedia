@@ -1,0 +1,18 @@
+name: Ganesha
+card_type: Personaje
+cost: 5
+eras:
+  - II
+strength: 3
+max_pow: 5
+init_pow:
+mythology: Hindú
+tags:
+  - Dios
+  - Vidente
+  - Guardián
+abilities:
+  - Influencia: Cansa a Ganesha; el próximo turno todos los jugadores juegan la fase de TRANSFERENCIA después del ENFRENTAMIENTO.
+passive_effect:
+quote: El guardián de la puerta de Párvati, el que impidió paso a Shiva.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

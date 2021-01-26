@@ -1,0 +1,18 @@
+name: Durvasas
+card_type: Personaje
+cost: 1
+eras:
+  - II
+strength: 0
+max_pow: 2
+init_pow:
+mythology: Hindú
+tags:
+  - Invocador
+  - Vidente
+  - Erudito
+abilities:
+  - Influencia: Destruye un portal.
+passive_effect:
+quote: Había una vez un lugar que no fue.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

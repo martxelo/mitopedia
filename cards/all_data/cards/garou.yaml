@@ -1,0 +1,15 @@
+name: Garou
+card_type: Personaje
+cost: 1
+eras:
+  - II
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Neutral
+tags:
+  - Monstruo
+abilities:
+passive_effect: Garou tiene +1F si no lo controla el jugador inicial.
+quote: Aúlla a su amada redonda y blanca.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

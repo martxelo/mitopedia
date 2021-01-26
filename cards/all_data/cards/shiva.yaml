@@ -1,0 +1,17 @@
+name: Shiva
+card_type: Personaje
+cost: 6
+eras:
+  - II
+strength: 3
+max_pow: 8
+init_pow:
+mythology: Hindú
+tags:
+  - Dios
+  - Guerrero
+abilities:
+  - Enfrentamiento: Elimina 1P de todos tus personajes; gana tanto P como eliminaste.
+passive_effect: Puede llevar dos armas.
+quote: Lo primero que se produjo fue el veneno y Shiva lo bebió para salvar los seres del mundo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

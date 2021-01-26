@@ -1,0 +1,17 @@
+name: Lakshmi
+card_type: Personaje
+cost: 7
+eras:
+  - II
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Hindú
+tags:
+  - Diosa
+  - Invocadora
+abilities:
+  - Enfrentamiento: Todos los personajes en el campo de batalla ganan 1P.
+passive_effect:
+quote: La que brilla como el oro, florece como la luna y lleva guirnaldas de luz.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

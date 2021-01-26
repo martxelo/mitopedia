@@ -1,0 +1,16 @@
+name: Bali
+card_type: Personaje
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 2
+init_pow:
+mythology: Hindú
+tags:
+  - Rey
+abilities:
+  - Enfrentamiento: Recupera el control de un personaje permanentemente.
+passive_effect:
+quote: Expandió sus territorios hasta usurpar Swarga (el Cielo).
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

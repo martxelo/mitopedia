@@ -1,0 +1,16 @@
+name: Gul
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 2
+max_pow: 4
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Monstruo
+abilities:
+  - Enfrentamiento: Mueve un personaje de un descarte debajo de un oráculo de su controlador.
+passive_effect:
+quote: Creados para servir a los señores del inframundo vagaron por las cavernas hasta encontrar una salida.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

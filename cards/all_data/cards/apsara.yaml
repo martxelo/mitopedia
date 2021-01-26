@@ -1,0 +1,16 @@
+name: Apsara
+card_type: Personaje
+cost: 0
+eras:
+  - II
+strength: 0
+max_pow: 2
+init_pow:
+mythology: Hindú
+tags:
+  - Invocadora
+  - Vidente
+abilities:
+passive_effect:
+quote: Sedujeron a mortales, reyes y sabios bajo las instrucciones de Vishnu.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

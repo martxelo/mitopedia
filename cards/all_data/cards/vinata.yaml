@@ -1,0 +1,17 @@
+name: Vinata
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Hindú
+tags:
+  - Criatura
+  - Reina
+abilities:
+  - Enfrentamiento: Cansa un personaje con la clave Dios.
+passive_effect:
+quote: De la unión de un humano con la serpiente nació un niño humano con la piel estriada y brillosa.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

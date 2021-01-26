@@ -1,0 +1,16 @@
+name: Vladimir
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Neutral
+tags:
+  - Monstruo
+abilities:
+  - Enfrentamiento: Elimina 1P de un personaje enemigo; gana 1P en Vladimir.
+passive_effect:
+quote: Un beso verdadero puede ser más mortal que el filo de una espada.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

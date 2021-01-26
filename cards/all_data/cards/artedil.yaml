@@ -1,0 +1,17 @@
+name: Artedil
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Neutral
+tags:
+  - Atlante
+  - Guerrero
+abilities:
+  - Enfrentamiento: Cambia la resolución de este enfrentamiento por la del libro de reglas.
+passive_effect:
+quote: Soñasteis una tierra maravillosa, pero tuvimos que despertar y eso la hizo desaparecer.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

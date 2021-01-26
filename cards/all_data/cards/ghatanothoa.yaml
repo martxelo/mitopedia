@@ -1,0 +1,17 @@
+name: Ghatanothoa
+card_type: Personaje
+cost: 7
+eras:
+  - II
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Primigenio
+  - Dios
+abilities:
+  - Influencia: Destruye tu mortal y nombra una carta; cancela todos los efectos de cartas con ese nombre.
+passive_effect:
+quote: Parece estar formado por un sin número de tentáculos, fauces y órganos sensoriales.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

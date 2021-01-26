@@ -1,0 +1,15 @@
+name: Kali
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 1
+max_pow: 6
+init_pow:
+mythology: Hindú
+tags:
+  - Diosa
+abilities:
+passive_effect: Puede llevar hasta ocho armas.
+quote: El aspecto detructor de la divinidad, creadora de maldad y madre de demonios.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

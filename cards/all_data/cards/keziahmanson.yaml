@@ -1,0 +1,17 @@
+name: Keziah Manson
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Mitos de Cthulhu
+tags:
+  - Sectario
+  - Loco
+abilities:
+  - Influencia: Elimina 1P de Keziah; crea un sectario 0F/0C/1PM/1P.
+passive_effect:
+quote: La bruja logró librarse del Tribunal de Salem, el pago fue una firma en el libro de Azathoth.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

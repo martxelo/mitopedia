@@ -1,0 +1,16 @@
+name: Trisha
+card_type: Personaje
+cost: 0
+eras:
+  - II
+strength: 0
+max_pow: 2
+init_pow:
+mythology: Neutral
+tags:
+  - Invocadora
+abilities:
+  - Influencia: Destruye una noticia.
+passive_effect:
+quote: Ahora el mundo sabía que los Mitos habían renacido.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

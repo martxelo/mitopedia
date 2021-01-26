@@ -1,0 +1,17 @@
+name: Agastya
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Hindú
+tags:
+  - Invocador
+  - Vidente
+abilities:
+  - Influencia: Mira 3 cartas de un mazo de designios y reordénalas.
+passive_effect:
+quote: En una ocasión conocí a los Saptarshis, y allí estaba él, hablando con los dioses.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

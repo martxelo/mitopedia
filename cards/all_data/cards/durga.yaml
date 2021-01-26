@@ -1,0 +1,17 @@
+name: Durga
+card_type: Personaje
+cost: 7
+eras:
+  - II
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Hindú
+tags:
+  - Diosa
+  - Guerrera
+abilities:
+  - Enfrentamiento: Destruye tu mortal; roba cartas igual a la mitad de su PM.
+passive_effect:
+quote: La sonrisa meditabunda que cabalga sobre un león, la invencible flor de loto.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

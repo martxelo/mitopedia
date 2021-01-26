@@ -1,0 +1,17 @@
+name: M
+card_type: Personaje
+cost: 1
+eras:
+  - II
+strength: 0
+max_pow: 2
+init_pow:
+mythology: Neutral
+tags:
+  - Único
+  - Maestre de la Orden
+abilities:
+  - Influencia: Prepara tu personaje con la clave Demonio.
+passive_effect:
+quote: Magnífico, aunque demasiado peligroso.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
