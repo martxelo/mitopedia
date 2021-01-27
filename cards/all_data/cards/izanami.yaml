@@ -1,0 +1,17 @@
+name: Izanami
+card_type: Personaje
+cost: 7
+eras:
+  - II
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Japonesa
+tags:
+  - Diosa
+  - Invocadora
+abilities:
+  - Influencia: Elige un personaje enemigo; su controlador elige si eliminar 2P de su reserva o agotar el personaje.
+passive_effect:
+quote: Crearon una isla y vivieron sobre un castillo que ellos mismos construyeron.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

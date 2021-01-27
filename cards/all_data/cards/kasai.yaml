@@ -1,0 +1,17 @@
+name: Kasai
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Japonesa
+tags:
+  - Kitsune
+  - Criatura
+abilities:
+  - Enfrentamiento: Mueve a tu Samurái de tu descarte al campo de batalla.
+passive_effect:
+quote: La kitsune Kasai contoneaba sus ocho colas que flotaban bamboleantes, como si cada una tuviera su propia personalidad.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

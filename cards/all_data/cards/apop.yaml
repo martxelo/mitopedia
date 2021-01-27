@@ -1,0 +1,17 @@
+name: Apop
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 1
+max_pow: 5
+init_pow:
+mythology: Egipcia
+tags:
+  - Criatura
+  - Dios
+abilities:
+  - Influencia: Cansa Apop; elimina la habilidad de un personaje.
+passive_effect:
+quote: Su veneno tiñó el cielo de rojo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

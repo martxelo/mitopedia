@@ -1,0 +1,17 @@
+name: Afrodita
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 0
+max_pow: 5
+init_pow:
+mythology: Griega
+tags:
+  - Diosa
+  - Invocadora
+abilities:
+  - Influencia: Da +1PM permanente a tu personaje.
+passive_effect:
+quote: Ven, pues, ¡Oh diosa! y mis anhelos cumple.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

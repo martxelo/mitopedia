@@ -1,0 +1,16 @@
+name: Rokurokubi
+card_type: Personaje
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 2
+init_pow:
+mythology: Japonesa
+tags:
+  - Yokai
+abilities:
+  - Enfrentamiento: Elimina 1P de la reserva del contrario.
+passive_effect:
+quote: Espíritus vengativos, durante el día parecen mujeres normales...
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

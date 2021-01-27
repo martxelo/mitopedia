@@ -1,0 +1,16 @@
+name: Moctezuma
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 2
+max_pow: 5
+init_pow:
+mythology: Azteca
+tags:
+  - Guerrero
+abilities:
+  - Influencia: Reduce en 1P el coste de asignación de tu próximo personaje azteca que se asigne este turno.
+passive_effect:
+quote: Es una gran cobardía no dar oportunidad al enemigo a que se defienda.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

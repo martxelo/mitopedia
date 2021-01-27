@@ -1,0 +1,18 @@
+name: Apofis
+card_type: Personaje
+cost: 6
+eras:
+  - II
+strength: 3
+max_pow: 8
+init_pow:
+mythology: Egipcia
+tags:
+  - Dios
+  - Invocador
+  - Exiliado
+abilities:
+  - Influencia: El próximo evento de tus oponentes se descarta sin efecto.
+passive_effect:
+quote: Y un día se alzará engullendo al Sol y Ra desaparecerá, el caos reinará y jamás amanecerá.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

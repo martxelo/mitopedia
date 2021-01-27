@@ -1,0 +1,17 @@
+name: Leónidas
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 1
+max_pow: 4
+init_pow:
+mythology: Griega
+tags:
+  - Único
+  - Héroe
+abilities:
+  - Enfrentamiento: Cansa a Leónidas; da +1F a tus Héroes.
+passive_effect:
+quote: Llegará una nueva época, una época de libertad. Y todos sabrán que 300 espartanos dieron hasta su último aliento para defenderla.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

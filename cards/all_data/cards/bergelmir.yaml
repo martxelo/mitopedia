@@ -1,0 +1,17 @@
+name: Bergelmir
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 4
+init_pow:
+mythology: Nórdica
+tags:
+  - Jotun
+  - Herrero
+abilities:
+  - Influencia: Cansa un arma.
+passive_effect:
+quote: El triunfo de la ciencia sobre la naturaleza, sobre el caos primordial, jamás podrá ser definitivo. ¡Volveremos!
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

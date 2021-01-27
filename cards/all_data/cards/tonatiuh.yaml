@@ -1,0 +1,17 @@
+name: Tonatiuh
+card_type: Personaje
+cost: 5
+eras:
+  - II
+strength: 2
+max_pow: 7
+init_pow:
+mythology: Azteca
+tags:
+  - Dios
+  - Guerrero
+abilities:
+  - Influencia: Da +1F a tus Guerreros aztecas.
+passive_effect:
+quote: El quinto Sol, proporcionó fuerza y calidez a todo el reino.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

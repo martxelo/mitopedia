@@ -1,0 +1,17 @@
+name: Amenhotep III
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Egipcia
+tags:
+  - Faraón
+  - Constructor
+abilities:
+  - Enfrentamiento: Prepara un recurso de coste 2 o menos, puedes volver a usarlo este turno.
+passive_effect:
+quote: Llenó de grandeza el templo de Karnak, creó los Colosos de Memnón y fue su esposa quien reinó en la sombra.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

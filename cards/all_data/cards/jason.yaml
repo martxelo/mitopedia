@@ -1,0 +1,17 @@
+name: Jasón
+card_type: Personaje
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 2
+init_pow:
+mythology: Griega
+tags:
+  - Héroe
+  - Guerrero
+abilities:
+  - Influencia: Da +1F a un arma.
+passive_effect:
+quote: La proa del Argo tenía los dones del habla y la profecía porque había sido hecho de madera del oráculo de Dodona.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

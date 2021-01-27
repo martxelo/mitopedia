@@ -1,0 +1,17 @@
+name: Coyolxauhqui
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Azteca
+tags:
+  - Diosa
+  - Vidente
+abilities:
+  - Influencia: Prepara a tu personaje Azteca.
+passive_effect:
+quote: Pintada de cascabeles. Diosa lunar, hermana de Huitzilopochtli.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,17 @@
+name: Isse
+card_type: Personaje
+cost: 8
+eras:
+  - II
+strength: 5
+max_pow: 9
+init_pow:
+mythology: Azteca
+tags:
+  - Diosa
+  - Invocadora
+abilities:
+  - Influencia: Elimina el texto de una carta en un oráculo o panteón.
+passive_effect:
+quote: La hermana oscura de Quetzalcóatl.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

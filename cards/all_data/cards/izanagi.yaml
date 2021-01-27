@@ -1,0 +1,17 @@
+name: Izanagi
+card_type: Personaje
+cost: 8
+eras:
+  - II
+strength: 5
+max_pow: 9
+init_pow:
+mythology: Japonesa
+tags:
+  - Dios
+  - Invocador
+abilities:
+  - Influencia: Da -3PM permanentemente a un Dios.
+passive_effect:
+quote: Bajó a Yomi a buscar a su esposa y tras el rechazo de ésta selló la entrada con descomunales rocas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

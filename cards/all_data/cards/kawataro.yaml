@@ -1,0 +1,17 @@
+name: Kawataro
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Japonesa
+tags:
+  - Kappa
+  - Criatura
+abilities:
+  - Influencia: Después de asignar a Kawataro aumenta en 1P el coste de asignación del próximo personaje que se asigne este turno.
+passive_effect:
+quote: Siempre dispuesto a devorar las entrañas de sus víctimas y a beberse su sangre.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

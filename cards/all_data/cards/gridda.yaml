@@ -1,0 +1,18 @@
+name: Gridda
+card_type: Personaje
+cost: 7
+eras:
+  - II
+strength: 4
+max_pow: 9
+init_pow:
+mythology: Nórdica
+tags:
+  - Diosa
+  - Invocadora
+  - Jotun
+abilities:
+  - Enfrentamiento: Elimina la habilidad de un personaje.
+passive_effect:
+quote: Tuvieron que calmarla, Loki la hizo reír colgándose de la barba de una cabra.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

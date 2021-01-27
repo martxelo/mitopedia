@@ -1,0 +1,16 @@
+name: Bennu
+card_type: Personaje
+cost: 3
+eras:
+  - II
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Egipcia
+tags:
+  - Criatura
+abilities:
+  - Influencia: Mueve a Bennu desde tu descarte a tu panteón. (Puede usarse si está en el descarte)
+passive_effect:
+quote: Guardián de los artefactos del tiempo, el ave dorada.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

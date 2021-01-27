@@ -1,0 +1,16 @@
+name: Hunahpu
+card_type: Personaje
+cost: 0
+eras:
+  - II
+strength: 0
+max_pow: 3
+init_pow:
+mythology: Azteca
+tags:
+  - Invocador
+  - Gemelo
+abilities:
+passive_effect: No puede ser asignado al campo de batalla.
+quote: Gemelos y diferentes, pero complementarios.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

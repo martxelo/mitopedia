@@ -1,0 +1,17 @@
+name: Sejmet
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Egipcia
+tags:
+  - Diosa
+  - Guerrera
+abilities:
+  - Enfrentamiento: Prepara tu personaje egipcio.
+passive_effect:
+quote: Sejmet bajó a Egipto a castigar a los que se burlaban de Ra, convertida en leona devoró todo a su paso y se emborrachó de sangre.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

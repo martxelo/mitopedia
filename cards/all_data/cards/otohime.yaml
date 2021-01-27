@@ -1,0 +1,16 @@
+name: Otohime
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Japonesa
+tags:
+  - Diosa
+abilities:
+  - Influencia: Descarta una carta; roba dos cartas.
+passive_effect:
+quote: Cuando estaba a punto de dar a luz se transformó en Dragón.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

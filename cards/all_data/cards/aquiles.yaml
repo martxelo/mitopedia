@@ -1,0 +1,17 @@
+name: Aquiles
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Griega
+tags:
+  - Guerrero
+  - Héroe
+abilities:
+  - Enfrentamiento: Dobla la fuerza del arma equipada en Aquiles.
+passive_effect:
+quote: Los dioses tiene su inmortalidad, yo prefiero vivir eternamente en la leyenda.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

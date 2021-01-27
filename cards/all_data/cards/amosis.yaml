@@ -1,0 +1,17 @@
+name: Amosis
+card_type: Personaje
+cost: 2
+eras:
+  - II
+strength: 1
+max_pow: 3
+init_pow:
+mythology: Egipcia
+tags:
+  - Guerrero
+  - Constructor
+abilities:
+  - Influencia: Coge una carta de debajo de tu oráculo; ponla encima de ese oráculo.
+passive_effect: Cuesta 1P menos para Nut.
+quote: Levantaré un monumento, cueste la sangre que cueste.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

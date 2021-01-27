@@ -1,0 +1,17 @@
+name: Artemisa
+card_type: Personaje
+cost: 4
+eras:
+  - II
+strength: 2
+max_pow: 6
+init_pow:
+mythology: Griega
+tags:
+  - Diosa
+  - Cazadora
+abilities:
+  - Enfrentamiento: Prepara tu Héroe.
+passive_effect: Puede llevar dos armas.
+quote: La tierra virgen brota a tu paso, oh diosa de la noche.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
