@@ -1,0 +1,15 @@
+name: La maldición de la momia
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Hasta el inicio de tu próxima fase de influencia todos los festivales se descartan sin efecto.
+passive_effect:
+quote: No es aconsejable perturbar a los muertos.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

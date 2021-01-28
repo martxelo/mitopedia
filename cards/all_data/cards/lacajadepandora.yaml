@@ -1,0 +1,15 @@
+name: La caja de Pandora
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Baraja las cartas restantes en tus oráculos, crea 5 oráculos nuevos y coloca las cartas boca abajo de una en una de izquierda a derecha.
+passive_effect:
+quote: Nunca aceptes un regalo de Zeus.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

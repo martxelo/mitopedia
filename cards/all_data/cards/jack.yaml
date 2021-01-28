@@ -1,0 +1,15 @@
+name: Jack
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Copia en uno de tus personajes o elimina de un personaje en juego permanentemente un clave.
+passive_effect:
+quote: Truco o trato.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

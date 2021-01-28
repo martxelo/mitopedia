@@ -1,0 +1,15 @@
+name: Inicios de la medicina
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Gana 2P en tu mortal.
+passive_effect:
+quote: Para curar un enfermo se necesitaba un hechicero y un médico.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

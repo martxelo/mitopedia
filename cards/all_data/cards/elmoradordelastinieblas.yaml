@@ -1,0 +1,15 @@
+name: El morador de las tinieblas
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Devuelve un equipo a la mano de su propietario.
+passive_effect:
+quote: Habéis jugado con nuestras reliquias, sintiéndoos superiores y doctos eruditos. Ahora contempláis el vacío desde la ventana por la que me abrís paso.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

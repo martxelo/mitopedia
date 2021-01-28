@@ -1,0 +1,15 @@
+name: Brindis de Octli
+card_type: Acción
+cost: 2
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Gana 2P en tu personaje en juego.
+passive_effect:
+quote: Son muchas las puertas hacia la Conciencia. El Octli no necesita llave.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

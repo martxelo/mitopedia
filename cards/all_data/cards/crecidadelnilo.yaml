@@ -1,0 +1,15 @@
+name: Crecida del Nilo
+card_type: Acción
+cost: 2
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Ningún jugador puede eliminar poder de tu reserva en la fase de INFLUENCIA este turno.
+passive_effect:
+quote: La gente arrojaba oro y joyas al río en agradecimiento.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

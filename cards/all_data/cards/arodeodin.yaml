@@ -1,0 +1,15 @@
+name: Aro de Odín
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Da +2F a un personaje de otro jugador.
+passive_effect:
+quote: Draupnir tenía la habilidad de octuplicarse cada nueve noches.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

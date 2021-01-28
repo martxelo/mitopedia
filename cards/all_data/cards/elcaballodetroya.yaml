@@ -1,0 +1,16 @@
+name: El caballo de Troya
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Batalla
+abilities:
+  - Influencia: Cambia la resolución de este enfrentamiento por la del libro de reglas.
+passive_effect:
+quote: Por la noche, los troyanos, decidieron meter el caballo en la ciudad...
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

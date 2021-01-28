@@ -1,0 +1,15 @@
+name: El acertijo de la Esfinge
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Elimina 1P de un personaje en un oráculo.
+passive_effect:
+quote: ¿Qué ser es provisto de voz, es de cuatro patas, de dos y de tres?
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

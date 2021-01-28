@@ -1,0 +1,15 @@
+name: Mirada de Kefren
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa y agota a tu mortal; elimina tanto poder como el eliminado de una reserva contraria, máximo 2.
+passive_effect:
+quote: Esa estatua parece que nos esté mirando.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

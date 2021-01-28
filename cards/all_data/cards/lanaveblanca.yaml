@@ -1,0 +1,15 @@
+name: La nave blanca
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Gana 1P por cada recurso en tu panteón (máximo 3).
+passive_effect:
+quote: Los verdaderos horrores que medran en la oscuridad entre las estrellas nos envían mensajes.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

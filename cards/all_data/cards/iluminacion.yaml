@@ -1,0 +1,16 @@
+name: Iluminación
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Única
+abilities:
+  - Influencia: Si tienes equipados cuatro o más talismanes de diferentes claves; gana 20P.
+passive_effect:
+quote: No hay un solo camino para todos, cada uno recorre el suyo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

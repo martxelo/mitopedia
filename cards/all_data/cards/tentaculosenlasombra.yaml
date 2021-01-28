@@ -1,0 +1,15 @@
+name: Tentáculos en la sombra
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Elimina o gana 1P en un personaje con la clave Primigenio.
+passive_effect:
+quote: Nunca se sabe lo que espera a la vuelta de la esquina.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

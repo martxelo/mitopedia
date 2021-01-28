@@ -1,0 +1,15 @@
+name: Dardo
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Da -2PM permanente a un personaje enemigo.
+passive_effect:
+quote: Detrás de cada disparo, el disparo solar de Tonatiuh que atravesó la frente de Itztlacoliubqui.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

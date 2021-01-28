@@ -1,0 +1,15 @@
+name: Deuda de honor
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Usa inmediatamente la habilidad de un recurso contrario como si fuera uno de tus recursos.
+passive_effect:
+quote: El precio fue pagado, aunque jamás imaginó que fuera tan valioso el pago.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

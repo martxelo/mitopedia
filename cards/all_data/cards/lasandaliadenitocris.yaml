@@ -1,0 +1,15 @@
+name: La sandalia de Nitocris
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Crea un nuevo oráculo con una carta descartada de otro jugador.
+passive_effect:
+quote: El Faraón hizo buscar a la dueña de la sandalia que le trajo el halcón y la desposó.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

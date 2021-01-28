@@ -1,0 +1,15 @@
+name: Salto temporal
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Pasas a ser el jugador inicial.
+passive_effect:
+quote: Para un dios la percepción del tiempo es muy diferente.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

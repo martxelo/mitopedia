@@ -1,0 +1,15 @@
+name: La dama de la oscuridad
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Mira la primera carta de dos oráculos, si alguna es un evento puedes descartarla.
+passive_effect:
+quote: La versión malvada de Bastet.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

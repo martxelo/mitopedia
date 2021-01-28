@@ -1,14 +1,15 @@
 name: En la noche de los tiempos
-card_type: Evento
-cost:
+card_type: Acción
+cost: 1
 eras:
-  - IV
+  - I
 strength:
 max_pow:
 init_pow:
 mythology:
 tags:
 abilities:
-passive_effect: Hasta el final de la partida, todos los jugadores roban una carta extra en REORGANIZACIÓN (máximo 2).
-quote: El verdadero horror nunca se cura realmente.
+  - Influencia: Este turno no se pueden usar habilidades de los panteones.
+passive_effect:
+quote: Esos que se hacen llamar dioses sobre la tierra han olvidado que ya estábamos allí cuando fueron engendrados.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

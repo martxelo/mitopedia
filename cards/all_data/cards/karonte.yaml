@@ -1,0 +1,15 @@
+name: Karonte
+card_type: Acción
+cost: 2
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Mueve a un personaje mortal de tu descarte a tu panteón.
+passive_effect:
+quote: Transporta los difuntos de un reino a otro.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

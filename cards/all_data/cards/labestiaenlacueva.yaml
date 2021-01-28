@@ -1,0 +1,15 @@
+name: La bestia en la cueva
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa un mortal.
+passive_effect:
+quote: Algunos laberintos fueron creados para encerrar monstruos. Otros los crean.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

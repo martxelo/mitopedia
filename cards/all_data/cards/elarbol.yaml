@@ -1,0 +1,15 @@
+name: El árbol
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Gana 1P por cada dios de tu mitología que controles.
+passive_effect:
+quote: Dime tú, sabia lechuza, si conoces todos los olivos que te atribuyes.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

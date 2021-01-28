@@ -1,0 +1,15 @@
+name: El despertar
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Gana 2P en un dios en tu oráculo.
+passive_effect:
+quote: Cuius testiculos habes, habeas cardia et cerebelum. (Lema no escrito de la Quisición, Terry Prachet, Dioses menores)
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

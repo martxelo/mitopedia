@@ -1,0 +1,15 @@
+name: Legiones de la tumba
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Crea dos personajes Sectario 0F/0P/1PM).
+passive_effect:
+quote: Este mundo no es más que el infecto desecho de lo que una vez fue. Uníos a mí y roguemos por su definitiva purificación.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

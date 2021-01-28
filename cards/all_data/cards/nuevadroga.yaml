@@ -1,0 +1,15 @@
+name:  Nueva droga
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Mira la mano de un contrario.
+passive_effect:
+quote: Simplemente, la mente lo descartó como posible y dejó de verlo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

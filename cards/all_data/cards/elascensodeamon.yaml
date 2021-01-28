@@ -1,0 +1,15 @@
+name: El ascenso de Amón
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Da +1F a todos tus personajes que se asignen este turno; destrúyelos después del enfrentamiento.
+passive_effect:
+quote: La guerra contra los hicsos propició su encumbramiento.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

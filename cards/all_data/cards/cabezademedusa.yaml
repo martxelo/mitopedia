@@ -1,0 +1,15 @@
+name: Cabeza de Medusa
+card_type: Acción
+cost: 2
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Agota a un personaje enemigo.
+passive_effect:
+quote: Su belleza fue tan grande que llegó a deslumbrar a Poseidón.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

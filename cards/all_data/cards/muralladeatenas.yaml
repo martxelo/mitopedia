@@ -1,0 +1,15 @@
+name: Muralla de Atenas
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Devuelve a tu mano un arma de tu mazo de descarte.
+passive_effect:
+quote: En todas las posiciones defensivas pueden encontrarse armas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

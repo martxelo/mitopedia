@@ -1,0 +1,16 @@
+name: El juicio de Osiris
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Batalla
+abilities:
+  - Influencia: Cambia la resolución de este enfrentamiento por "El jugador con más fuerza toma el control de un enemigo (permanentemente) con PM igual o menor a la mitar del diferencial de victoria".
+passive_effect:
+quote: ¿Culpable?
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

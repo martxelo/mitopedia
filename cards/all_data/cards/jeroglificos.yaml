@@ -1,0 +1,15 @@
+name: Jeroglíficos
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa tu personaje; Da +1P a otros dos personajes.
+passive_effect:
+quote: Sus secretos aún siguen sin ser revelados.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

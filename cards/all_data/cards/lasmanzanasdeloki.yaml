@@ -1,0 +1,15 @@
+name: Las manzanas de Loki
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Usa inmediatamente la habilidad de un personaje enemigo como si fuera de uno de tus personajes.
+passive_effect:
+quote: El fruto del engaño privó a los dioses de su juventud.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

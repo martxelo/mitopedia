@@ -1,0 +1,15 @@
+name: Preparación
+card_type: Acción
+cost: 2
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Elige a un dios en tu oráculo con más de la mitad de su poder máximo; muévelo a tu panteón.
+passive_effect:
+quote: Nunca se sabe hasta dónde llega el poder de un dios.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

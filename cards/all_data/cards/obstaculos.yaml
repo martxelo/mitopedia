@@ -1,0 +1,15 @@
+name: Obstáculos
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa a tu dios, elige a un personaje enemigo con menos poder máximo; este no puede asignarse al campo de batalla este turno.
+passive_effect:
+quote: Hoy no pelearé contigo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

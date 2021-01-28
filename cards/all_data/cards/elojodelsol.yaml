@@ -1,0 +1,15 @@
+name: El ojo del sol
+card_type: Acción
+cost: 2
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Ningún jugador puede ganar poder en su reserva en la fase de INFLUENCIA este turno.
+passive_effect:
+quote: Porta la vida y la muerte en la misma mano.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

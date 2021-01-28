@@ -1,0 +1,15 @@
+name: Paz impuesta
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Elimina 1P de un personaje enemigo.
+passive_effect:
+quote: Con cada toque de bonshyo se evita una batalla.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

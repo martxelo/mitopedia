@@ -1,0 +1,15 @@
+name: El águila y el nopal
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Devuelve a tu mano una invocación de tu mazo de descarte.
+passive_effect:
+quote: En donde se tienda la tierra entre cañas, allí se pondrá en pie, reinará Huitzilopochtli.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

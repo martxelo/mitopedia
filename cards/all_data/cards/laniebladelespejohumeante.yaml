@@ -1,0 +1,15 @@
+name: La niebla del espejo humeante
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Da la vuelta a una o dos cartas en tus oráculos.
+passive_effect:
+quote: El viento nocturno de Tezcatlipoca desnuda oscuridad, sopla la indefensión de los hombres.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

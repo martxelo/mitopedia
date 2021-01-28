@@ -1,0 +1,15 @@
+name: Konibori
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cambia una habilidad de un personaje de INFLUENCIA a ENFRENTAMIENTO.
+passive_effect:
+quote: Más altos que los techos de las casas, están los konibori. La carpa más grande es el padre, las pequeñas son los hijos. Parece que lo pasan bien nadando.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,15 @@
+name: Sonido de Odaiko
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Este turno no se puede meditar.
+passive_effect:
+quote: Usado tanto en la guerra como en la corte.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,15 @@
+name: Momificación
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa a tu dios; agota un mortal enemigo.
+passive_effect:
+quote: Necesaria para asegurar la inmortalidad tras la muerte.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
