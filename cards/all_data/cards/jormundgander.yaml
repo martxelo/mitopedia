@@ -1,4 +1,4 @@
-name: Gros-Bon-Ange
+name: Jormundgander
 card_type: Acción
 cost: 1
 eras:
@@ -9,8 +9,8 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Influencia: El jugador que gane el próximo ENFRENTAMIENTO aumenta permanentemente sus transferencias en 1.
+  - Influencia: Destruye tu mortal; destruye un recurso.
 passive_effect:
-quote: Alma.
+quote: Exiliado al mar por Odín donde aguarda el día del Ragnarok.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
 

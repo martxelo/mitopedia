@@ -1,4 +1,4 @@
-name: Gros-Bon-Ange
+name: Ataque de Rudra
 card_type: Acción
 cost: 1
 eras:
@@ -9,8 +9,8 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Influencia: El jugador que gane el próximo ENFRENTAMIENTO aumenta permanentemente sus transferencias en 1.
+  - Influencia: El jugador que gane el próximo enfrentamiento roba dos cartas.
 passive_effect:
-quote: Alma.
+quote: El más poderoso de los poderosos, el ataque del Dios feroz.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
 

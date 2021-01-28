@@ -1,4 +1,4 @@
-name: Gros-Bon-Ange
+name: Lahamu y Lahmu
 card_type: Acción
 cost: 1
 eras:
@@ -9,8 +9,8 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Influencia: El jugador que gane el próximo ENFRENTAMIENTO aumenta permanentemente sus transferencias en 1.
+  - Influencia: Todos los jugadores pueden jugar un máximo de dos acciones más en esta fase.
 passive_effect:
-quote: Alma.
+quote: Se unieron a las huestes de Tiamat con deseo de derrotar a Enki.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
 

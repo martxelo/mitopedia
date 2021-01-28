@@ -1,6 +1,6 @@
-name: Gros-Bon-Ange
+name: Hombre de mimbre
 card_type: Acción
-cost: 1
+cost: 0
 eras:
   - II
 strength:
@@ -9,8 +9,8 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Influencia: El jugador que gane el próximo ENFRENTAMIENTO aumenta permanentemente sus transferencias en 1.
+  - Influencia: Elimina la habilidad de un personaje.
 passive_effect:
-quote: Alma.
+quote: Las sombas y las llamas danzaban al son de la muerte.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
 

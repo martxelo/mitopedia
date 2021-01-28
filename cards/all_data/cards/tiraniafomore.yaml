@@ -1,0 +1,16 @@
+name: Tiranía Fomore
+card_type: Acción
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: El jugador que gane el próximo enfrentamiento gana 2P y elimina 2P de su oponente.
+passive_effect:
+quote: Los descendientes de Nemed fueron víctimas de la tiranía de los reyes Morc y Conann.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

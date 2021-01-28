@@ -1,0 +1,16 @@
+name: Calendario lunar
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cambia las habilidades de todos los equipos de INFLUENCIA a ENFRENTAMIENTO.
+passive_effect:
+quote: Los humanos adquirieron la condición de civilizados cuando se les dotó de un calendario donde fechar todos sus errores.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

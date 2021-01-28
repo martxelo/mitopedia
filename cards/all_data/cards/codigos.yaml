@@ -1,6 +1,6 @@
-name: Gros-Bon-Ange
+name: Códigos
 card_type: Acción
-cost: 1
+cost: 0
 eras:
   - II
 strength:
@@ -9,8 +9,8 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Influencia: El jugador que gane el próximo ENFRENTAMIENTO aumenta permanentemente sus transferencias en 1.
+  - Influencia: Da la clave Invocador a un personaje permanentemente.
 passive_effect:
-quote: Alma.
+quote: La fuente del conocimiento.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
 

@@ -1,0 +1,18 @@
+name: Muerte de Madhu y Kaitabha
+card_type: Acción
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Portal
+  - Único
+abilities:
+  - Influencia: Pon esta carta en juego permanente en tu panteón.
+passive_effect: Tus personajes mortales no pueden ser destruidos.
+quote: Orgullosos de su poder recién adquirido, los demonios se hicieron tremendamente arrogantes.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

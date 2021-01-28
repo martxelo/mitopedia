@@ -1,0 +1,16 @@
+name: Protección de Orochi
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Aumenta en 1 el coste de asignación para todos los personajes con mitología distinta del panteón de su controlador.
+passive_effect:
+quote: Cuando Amaterasu regresó, Japón estaba a salvo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

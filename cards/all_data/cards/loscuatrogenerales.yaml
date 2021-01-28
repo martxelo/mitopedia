@@ -1,0 +1,16 @@
+name: Los cuatro generales
+card_type: Acción
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Mueve de tu descarte a tu panteón un recurso de coste igual o menor al número de personajes en tu panteón.
+passive_effect:
+quote: Horus había llevado a estos cuatro reyes de Egipto a su descanso, ahora debía traerlos de vuelta.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

@@ -1,0 +1,17 @@
+name: La guardia de Cerbero
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Noticia
+abilities:
+  - Influencia: Pon esta carta en juego permanente en un oráculo.
+passive_effect: Incrementa en 1P el coste de los recursos y personajes de este oráculo.
+quote: ¡Diarios locales informan de la aparición del gran perro guardián!
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

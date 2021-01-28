@@ -1,4 +1,4 @@
-name: Gros-Bon-Ange
+name: El cazador
 card_type: Acción
 cost: 1
 eras:
@@ -9,8 +9,8 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Influencia: El jugador que gane el próximo ENFRENTAMIENTO aumenta permanentemente sus transferencias en 1.
+  - Influencia: Intercambia la F de un personaje por su Coste.
 passive_effect:
-quote: Alma.
+quote: Las casas reducidas a escombros, el nido de las águilas quemado hasta los cimientos.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
 

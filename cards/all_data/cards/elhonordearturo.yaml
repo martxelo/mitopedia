@@ -1,4 +1,4 @@
-name: Gros-Bon-Ange
+name: El honor de Arturo
 card_type: Acción
 cost: 1
 eras:
@@ -9,8 +9,8 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Influencia: El jugador que gane el próximo ENFRENTAMIENTO aumenta permanentemente sus transferencias en 1.
+  - Influencia: Da +1F permanente y la clave Caballero a tu personaje.
 passive_effect:
-quote: Alma.
+quote: Merlín toma al niño y lo entrega a Sir Hector.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
 

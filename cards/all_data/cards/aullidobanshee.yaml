@@ -1,4 +1,4 @@
-name: Gros-Bon-Ange
+name: Aullido Banshee
 card_type: Acción
 cost: 1
 eras:
@@ -9,8 +9,8 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Influencia: El jugador que gane el próximo ENFRENTAMIENTO aumenta permanentemente sus transferencias en 1.
+  - Influencia: Elimina 2P de un personaje con la clave Dios.
 passive_effect:
-quote: Alma.
+quote: Tratar de describirlo era como tratar de explicar el efecto de un corazón rompiéndose por el dolor.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
 

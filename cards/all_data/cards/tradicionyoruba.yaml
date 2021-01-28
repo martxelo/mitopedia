@@ -1,0 +1,17 @@
+name: Tradición Yoruba
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Noticia
+abilities:
+  - Influencia: Pon esta carta en un oráculo permanentemente.
+passive_effect: Los personajes que se ponen en juego desde este oráculo entran con un contador voodoo.
+quote: Y se descendió con una cadena hasta Ife-Ife.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

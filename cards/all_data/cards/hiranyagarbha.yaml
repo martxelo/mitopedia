@@ -1,0 +1,16 @@
+name: Hiranyagarbha
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa tu recurso; gana 2P en tu personaje.
+passive_effect:
+quote: Creó las aguas primordiales primero y estableció la semilla de la creación en él. La semilla se convirtió en un vientre de oro.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

@@ -1,0 +1,18 @@
+name: Doctrina del alma
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Portal
+  - Único
+abilities:
+  - Influencia: Pon esta carta en juego permanente en tu panteón.
+passive_effect: Tus invocadores con al menos una invocación equipada ganan +1F.
+quote: Solamente por esta doctrina, que roba a la muerte todos sus temores, puede desarrollarse la forma más elevada de valentía humana.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

@@ -1,0 +1,18 @@
+name: Sanación de Ishtar
+card_type: Acción
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Portal
+  - Único
+abilities:
+  - Influencia: Pon esta carta en juego permanente en tu panteón.
+passive_effect: Si pones en juego durante un mismo turno un Dios, un mortal, un arma y una invocación; gana 10P.
+quote: Entró en el mundo de los muertos a llevarle el agua de la vida.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

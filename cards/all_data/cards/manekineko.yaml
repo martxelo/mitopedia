@@ -1,4 +1,4 @@
-name: Gros-Bon-Ange
+name: Maneki Neko
 card_type: Acción
 cost: 1
 eras:
@@ -8,9 +8,10 @@ max_pow:
 init_pow:
 mythology:
 tags:
+  - Única
 abilities:
-  - Influencia: El jugador que gane el próximo ENFRENTAMIENTO aumenta permanentemente sus transferencias en 1.
+  - Influencia: Busca un portal en tu mazo de designios, pon el portal en tu mano. Baraja el resto del mazo de designios.
 passive_effect:
-quote: Alma.
+quote: Entra, por favor. Eres bienvenido.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
 

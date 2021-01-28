@@ -1,0 +1,18 @@
+name: Diwali
+card_type: Acción
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Portal
+  - Único
+abilities:
+  - Influencia: Pon esta carta en juego permanente en tu panteón.
+passive_effect: Tus personajes en juego no pueden ser controlados por otros jugadores.
+quote: El conocimiento vence a la ignorancia. Lámparas velas y luz.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

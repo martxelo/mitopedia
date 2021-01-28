@@ -1,6 +1,6 @@
-name: Gros-Bon-Ange
+name: Yoni
 card_type: Acción
-cost: 1
+cost: 2
 eras:
   - II
 strength:
@@ -9,8 +9,8 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Influencia: El jugador que gane el próximo ENFRENTAMIENTO aumenta permanentemente sus transferencias en 1.
-passive_effect:
-quote: Alma.
+  - Influencia: Nombra una carta; cancela todos los efectos de cartas con ese nombre.
+passive_effect: 
+quote: La fuente de la vida.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
 

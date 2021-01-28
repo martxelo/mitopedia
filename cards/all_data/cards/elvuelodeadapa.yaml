@@ -1,4 +1,4 @@
-name: Gros-Bon-Ange
+name: El vuelo de Adapa
 card_type: Acción
 cost: 1
 eras:
@@ -9,8 +9,8 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Influencia: El jugador que gane el próximo ENFRENTAMIENTO aumenta permanentemente sus transferencias en 1.
+  - Influencia: Cansa un personaje con más F que PM.
 passive_effect:
-quote: Alma.
+quote: Sin saberlo se negó a recibir el don de la inmortalidad.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
 

@@ -1,0 +1,16 @@
+name: La espalda de la tortuga
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Nombra Acción o Equipo; mira la primera carta del mazo de designios de un jugador, si la carta es del tipo nombrado, descártala.
+passive_effect:
+quote: Los espíritus la depositaron en su espalda.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

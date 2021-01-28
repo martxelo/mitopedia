@@ -1,16 +1,16 @@
 name: Gros-Bon-Ange
-card_type: Acción
-cost: 1
+card_type: Invocación
+cost: 0
 eras:
   - II
 strength:
-max_pow:
+max_pow: -2
 init_pow:
 mythology:
 tags:
+  - Único
 abilities:
-  - Influencia: El jugador que gane el próximo ENFRENTAMIENTO aumenta permanentemente sus transferencias en 1.
+  - Influencia: Da +1PM permanente a tu personaje.
 passive_effect:
-quote: Alma.
+quote: Llamando a una parte del alma, conduciéndola fuera del recipiente.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
-

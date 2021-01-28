@@ -1,0 +1,16 @@
+name: Escrituras de Ogham
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Juega una habilidad eliminada de una de tus cartas.
+passive_effect:
+quote: Cuatro grupos de trazos o muescas, cada conjunto incluye cinco letras estructuradas a partir de una hasta cinco marcas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

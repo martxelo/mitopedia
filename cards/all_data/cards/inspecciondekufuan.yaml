@@ -1,0 +1,16 @@
+name: Inspección de Kufuan
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cansa tu constructor; prepara tu recurso de coste 2 o menos y puedes volver a usarlo.
+passive_effect:
+quote: Los grandes constructores siempre estaban atentos a sus obras.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

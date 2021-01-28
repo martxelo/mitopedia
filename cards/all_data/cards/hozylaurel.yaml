@@ -1,4 +1,4 @@
-name: Gros-Bon-Ange
+name: Hoz y laurel
 card_type: Acción
 cost: 1
 eras:
@@ -9,8 +9,8 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Influencia: El jugador que gane el próximo ENFRENTAMIENTO aumenta permanentemente sus transferencias en 1.
+  - Influencia: Tus oponentes descartan una carta de su mano si es posible.
 passive_effect:
-quote: Alma.
+quote: La hoz y el laurel hacen al druida.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
 

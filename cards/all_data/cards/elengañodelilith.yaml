@@ -1,0 +1,16 @@
+name: El engaño de Lilith
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Influencia: Cambia permanentemente la habilidad de un recurso de INFLUENCIA a ENFRENTAMIENTO.
+passive_effect:
+quote: Gilgamesh consiguió engañarla para que abandonara el árbol y la envió al desierto.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+

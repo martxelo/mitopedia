@@ -1,0 +1,17 @@
+name: Morada de Apsu
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Batalla
+abilities:
+  - Influencia: Cambia la resolución del enfrentamiento de este turno por "El jugador que gane este enfrentamiento puede mover un Dios desde su descarte a su panteón o ganar 4P".
+passive_effect: 
+quote: Su morada son los océanos subterráneos, desde donde gobierna a los dioses.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
+
