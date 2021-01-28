@@ -10,8 +10,8 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Influencia: Coloca la última carta de designios que hayas descartado encima del mazo de designios
+  - Influencia: Coloca la última carta de designios que hayas descartado encima del mazo de designios.
 passive_effect: 
-quote: La magia de los sonidos
+quote: La magia de los sonidos.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
 

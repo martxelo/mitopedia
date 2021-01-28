@@ -9,8 +9,8 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Influencia: Descarta X cartas; da +XF a tu personaje
+  - Influencia: Descarta X cartas; da +XF a tu personaje.
 passive_effect: 
-quote: El poder siempre tiene un coste, a veces demasiado elevado
+quote: El poder siempre tiene un coste, a veces demasiado elevado.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
 

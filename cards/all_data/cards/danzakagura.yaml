@@ -10,8 +10,8 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Influencia: Nombra un personaje; mueve todos los personajes con ese nombre al campo de batalla
+  - Influencia: Nombra un personaje; mueve todos los personajes con ese nombre al campo de batalla.
 passive_effect: 
-quote: Danza y música en honor a los Dioses
+quote: Danza y música en honor a los Dioses.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
 

@@ -9,8 +9,8 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Influencia: Si controlas 3 o más recursos, reduce a 0 la Fuerza de un personaje
+  - Influencia: Si controlas 3 o más recursos, reduce a 0 la Fuerza de un personaje.
 passive_effect: 
-quote: A veces no es posible luchar
+quote: A veces no es posible luchar.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
 

@@ -9,8 +9,8 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Influencia: Elige una clave elemental (Aire, Fuego, Agua, Tierra); mueve todos los personajes con esa clave al campo de batalla
+  - Influencia: Elige una clave elemental (Aire, Fuego, Agua, Tierra); mueve todos los personajes con esa clave al campo de batalla.
 passive_effect: 
-quote: Inventaron las instituciones y la economía
+quote: Inventaron las instituciones y la economía.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
 
