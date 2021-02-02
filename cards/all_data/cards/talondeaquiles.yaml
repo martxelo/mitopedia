@@ -1,4 +1,4 @@
-name: Expulsión
+name: Talón de Aquiles
 card_type: Acción
 cost: 1
 eras:
@@ -9,7 +9,7 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Enfrentamiento: Mueve a un personaje enemigo a su panteón.
+  - Enfrentamiento: Dobla la fuerza de una de tus armas; destrúyela al final del enfrentamiento.
 passive_effect:
-quote: Cuando el enemigo es superior, retirarse o morir.
+quote: Siempre hay un punto débil.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

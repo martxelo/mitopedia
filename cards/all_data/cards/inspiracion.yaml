@@ -1,6 +1,6 @@
-name: Expulsión
+name: Inspiración
 card_type: Acción
-cost: 1
+cost: 0
 eras:
   - I
 strength:
@@ -9,7 +9,7 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Enfrentamiento: Mueve a un personaje enemigo a su panteón.
+  - Enfrentamiento: Tu personaje mortal gana tantos puntos de poder como sean necesarios para llegar a su poder máximo.
 passive_effect:
-quote: Cuando el enemigo es superior, retirarse o morir.
+quote: Amaterasu me guía.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,16 @@
+name: Invasion
+card_type: Acción
+cost: 2
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Entorno
+abilities:
+  - Enfrentamiento: Destruye un recurso.
+passive_effect:
+quote: En su sueño y confinamiento convoca a sus peones y les otorga el conocimiento. Pero Él sólo es un siervo de Otros.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

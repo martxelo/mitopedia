@@ -1,6 +1,6 @@
-name: Expulsión
+name: Yarijutsu
 card_type: Acción
-cost: 1
+cost: 0
 eras:
   - I
 strength:
@@ -9,7 +9,7 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Enfrentamiento: Mueve a un personaje enemigo a su panteón.
+  - Enfrentamiento: Tu personaje con un arma equipada gana 2P.
 passive_effect:
-quote: Cuando el enemigo es superior, retirarse o morir.
+quote: El buen uso de las armas.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,15 @@
+name: Gavilán de obsidiana
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Destruye a tu personaje mortal; destruye a un mortal enemigo.
+passive_effect:
+quote: Después de cuatro días, los dioses mandaron a Itzlotli a preguntar al sol por qué no se movía. Desde su trono, Nahui-Ocelotl exigía mortandad entre los dioses.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

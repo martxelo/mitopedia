@@ -1,0 +1,15 @@
+name: Navíos de Jason
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Todos los jugadores deben eliminar 1P de uno de sus personajes como coste adicional por cada acción jugada hasta el final de este enfrentamiento.
+passive_effect:
+quote: Fueron enviados a buscar el vellocino de oro.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

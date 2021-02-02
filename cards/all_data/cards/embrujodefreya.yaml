@@ -1,0 +1,15 @@
+name: Embrujo de Freya
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Elije un personaje enemigo; Toma el control sobre él hasta que juegues tu siguiente acción o devuélvelo antes de la resolución del ENFRENTAMIENTO. No puedes destruirlo.
+passive_effect:
+quote: Freya robó sus poderes a Frey, pero después de utilizarlos Frey los recuperó.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

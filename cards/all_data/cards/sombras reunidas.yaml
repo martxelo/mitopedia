@@ -1,0 +1,15 @@
+name: Sombras reunidas
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Reduce a 1 todas las ganancias de poder hasta la próxima fase de influencia.
+passive_effect:
+quote: La sombra no existe; lo que tú llamas sombra es la luz que no ves. (Henri Barbusse)
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

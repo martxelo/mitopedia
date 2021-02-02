@@ -1,0 +1,15 @@
+name: Puertas abiertas
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Mueve a tu personaje a tu panteón; el oponente puede mover uno de sus personajes a su panteón, si no lo mueve ganas 4P.
+passive_effect:
+quote: Ve en paz si no deseas luchar.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

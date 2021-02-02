@@ -57,7 +57,7 @@ class Card(models.Model):
     mythology = models.ForeignKey(Mythology, blank=True, null=True, on_delete=models.SET_NULL)
     name = models.CharField(max_length=200)
     passive_effect = models.CharField(max_length=200, blank=True, null=True)
-    quote = models.CharField(max_length=200, blank=True, null=True)
+    quote = models.CharField(max_length=300, blank=True, null=True)
     strength = models.IntegerField(blank=True, null=True)
     tags = models.ManyToManyField(Tag)
     image = models.CharField(max_length=200, default='')

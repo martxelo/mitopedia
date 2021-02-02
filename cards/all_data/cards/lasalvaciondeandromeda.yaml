@@ -1,4 +1,4 @@
-name: Expulsión
+name: La salvación de Andrómeda
 card_type: Acción
 cost: 1
 eras:
@@ -9,7 +9,7 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Enfrentamiento: Mueve a un personaje enemigo a su panteón.
+  - Enfrentamiento: Gana 2P en un personaje en tu oráculo.
 passive_effect:
-quote: Cuando el enemigo es superior, retirarse o morir.
+quote: Perseo surcaba los cielos, viendo una hermosa mujer encadenada a las rocas...
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

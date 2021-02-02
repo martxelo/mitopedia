@@ -1,4 +1,4 @@
-name: Expulsión
+name: Ladina fortuna
 card_type: Acción
 cost: 1
 eras:
@@ -9,7 +9,7 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Enfrentamiento: Mueve a un personaje enemigo a su panteón.
+  - Enfrentamiento: Descarta una carta; roba dos cartas.
 passive_effect:
-quote: Cuando el enemigo es superior, retirarse o morir.
+quote: La ilusión y el engaño son las armas del astuto y tu has demostrado ser maestro en su uso.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

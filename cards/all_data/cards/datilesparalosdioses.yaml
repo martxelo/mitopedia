@@ -1,4 +1,4 @@
-name: Expulsión
+name: Dátiles para los dioses
 card_type: Acción
 cost: 1
 eras:
@@ -9,7 +9,7 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Enfrentamiento: Mueve a un personaje enemigo a su panteón.
+  - Enfrentamiento: Cansa tu dios; elimina 1P de la reserva de tu oponente.
 passive_effect:
-quote: Cuando el enemigo es superior, retirarse o morir.
+quote: Símbolo de renacimiento.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

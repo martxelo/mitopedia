@@ -1,4 +1,4 @@
-name: Expulsión
+name: Niebla debilitadora
 card_type: Acción
 cost: 1
 eras:
@@ -8,8 +8,9 @@ max_pow:
 init_pow:
 mythology:
 tags:
+  - Entorno
 abilities:
-  - Enfrentamiento: Mueve a un personaje enemigo a su panteón.
+  - Enfrentamiento: Da -2F a cada uno de los personajes en el campo de batalla.
 passive_effect:
-quote: Cuando el enemigo es superior, retirarse o morir.
+quote: Lo cubre todo, esconde lo que te rodea.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,16 @@
+name: El robo del fuego
+card_type: Acción
+cost: 2
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Entorno
+abilities:
+  - Enfrentamiento: Elimina todos los bonos de fuerza de los personajes en el campo de batalla.
+passive_effect:
+quote: El tlacuache es un pequeño marsupial conocido como zarigüeya ratón. Yaushu, dador del fuego a los aztecas, su congénere más ilustre.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,15 @@
+name: Cánticos de guerra
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Destruye tu personaje mortal; elimina 2P de la reserva del contrario.
+passive_effect:
+quote: Tu hogar no está aquí porque eres un aguila o un jaguar, esto es sólo un lugar donde anidar, la guerra es tu tarea. Debes darle bebida, alimento, comida al dios.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,6 +1,6 @@
-name: Expulsión
+name: Namazu
 card_type: Acción
-cost: 1
+cost: 2
 eras:
   - I
 strength:
@@ -8,8 +8,9 @@ max_pow:
 init_pow:
 mythology:
 tags:
+  - Entorno
 abilities:
-  - Enfrentamiento: Mueve a un personaje enemigo a su panteón.
+  - Enfrentamiento: Cansa a tu dios; cansa a todos los personajes con menos poder máximo.
 passive_effect:
-quote: Cuando el enemigo es superior, retirarse o morir.
+quote: Cada vez que se mueve produce un terremotro.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

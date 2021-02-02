@@ -1,4 +1,4 @@
-name: Expulsión
+name: Vuelta al origen
 card_type: Acción
 cost: 1
 eras:
@@ -9,7 +9,7 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Enfrentamiento: Mueve a un personaje enemigo a su panteón.
+  - Enfrentamiento: Elije a tu mortal, descarta sus equipos y crea un oráculo nuevo con él; tu oponente debe hacer lo mismo.
 passive_effect:
-quote: Cuando el enemigo es superior, retirarse o morir.
+quote: Concentraos en vuestro único objetivo.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

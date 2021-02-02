@@ -1,6 +1,6 @@
-name: Expulsión
+name: Múspel
 card_type: Acción
-cost: 1
+cost: 2
 eras:
   - I
 strength:
@@ -8,8 +8,9 @@ max_pow:
 init_pow:
 mythology:
 tags:
+  - Entorno
 abilities:
-  - Enfrentamiento: Mueve a un personaje enemigo a su panteón.
+  - Enfrentamiento: Da -1F a dos de tus personajes; da -3F a dos personajes enemigos.
 passive_effect:
-quote: Cuando el enemigo es superior, retirarse o morir.
+quote: El hogar del fuego.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

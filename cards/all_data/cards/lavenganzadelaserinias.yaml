@@ -1,0 +1,16 @@
+name: La venganza de las Erinias
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Entorno
+abilities:
+  - Enfrentamiento: Cada jugador que participe en este enfrentamiento elimina tanto poder como personajes tenga en su panteón.
+passive_effect:
+quote: Se les llamaba Euménides para evitar su ira cuando se pronunciaba su verdadero nombre.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

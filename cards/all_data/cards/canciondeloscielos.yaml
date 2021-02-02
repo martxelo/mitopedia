@@ -1,4 +1,4 @@
-name: Expulsión
+name: Canción de los cielos
 card_type: Acción
 cost: 1
 eras:
@@ -9,7 +9,7 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Enfrentamiento: Mueve a un personaje enemigo a su panteón.
+  - Enfrentamiento: Cansa tu personaje; cansa dos personajes enemigos con igual o menor PM.
 passive_effect:
-quote: Cuando el enemigo es superior, retirarse o morir.
+quote: Blandía ahora el rayo y dejó que este rugiese.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

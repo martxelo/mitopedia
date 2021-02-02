@@ -1,4 +1,4 @@
-name: Expulsión
+name: Dolor y vida
 card_type: Acción
 cost: 1
 eras:
@@ -9,7 +9,7 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Enfrentamiento: Mueve a un personaje enemigo a su panteón.
+  - Enfrentamiento: Da -XPM (máximo 3 y no puede bajar de 0) permanente a tu invocador; dale +XF.
 passive_effect:
-quote: Cuando el enemigo es superior, retirarse o morir.
+quote: Soy todas las mujeres que habitan en ti.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

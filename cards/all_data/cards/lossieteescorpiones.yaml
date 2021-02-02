@@ -1,4 +1,4 @@
-name: Expulsión
+name: Los siete escorpiones
 card_type: Acción
 cost: 1
 eras:
@@ -9,7 +9,7 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Enfrentamiento: Mueve a un personaje enemigo a su panteón.
+  - Enfrentamiento: Redistribuye todo el poder de tus personajes.
 passive_effect:
-quote: Cuando el enemigo es superior, retirarse o morir.
+quote: Reunieron todo su veneno y se lo dieton a Tefen, el más poderoso de los siete.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

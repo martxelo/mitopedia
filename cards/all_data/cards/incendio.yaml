@@ -1,6 +1,6 @@
-name: Expulsión
+name: Incendio
 card_type: Acción
-cost: 1
+cost: 0
 eras:
   - I
 strength:
@@ -8,8 +8,9 @@ max_pow:
 init_pow:
 mythology:
 tags:
+  - Entorno
 abilities:
-  - Enfrentamiento: Mueve a un personaje enemigo a su panteón.
+  - Enfrentamiento: Elimina 1P de cada uno de los personajes en el campo de batalla.
 passive_effect:
-quote: Cuando el enemigo es superior, retirarse o morir.
+quote: Lo cubre todo, quema lo que toca.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

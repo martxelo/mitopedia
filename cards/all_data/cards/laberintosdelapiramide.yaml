@@ -1,0 +1,16 @@
+name: Laberintos de la pirámide
+card_type: Acción
+cost: 2
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+  - Entorno
+abilities:
+  - Enfrentamiento: Cansa dos de tus mortales; agota un personaje enemigo.
+passive_effect:
+quote: A sus espaldas, el muro comenzaba a moverse con lentitud.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

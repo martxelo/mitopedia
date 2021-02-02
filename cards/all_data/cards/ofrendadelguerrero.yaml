@@ -1,0 +1,15 @@
+name: Ofrenda del guerrero
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Cansa a un personaje enemigo.
+passive_effect:
+quote: El muslo derecho y el torso correspondían al joven que se había comportado más heroicamente; El muslo izquierdo iba al segundo joven más valiente; el brazo derecho al tercero, y así sucesivamente hasta que no quedaba ninguna porción.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

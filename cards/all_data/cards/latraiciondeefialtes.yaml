@@ -1,0 +1,15 @@
+name: La traicion de efialtes
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Mueve un personaje de otro jugador al campo de batalla, en ese momento él debe decidir qué ejército lo controla.
+passive_effect:
+quote: Ayudó a Jerjes a encontrar el paso alternativo de las Termopilas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

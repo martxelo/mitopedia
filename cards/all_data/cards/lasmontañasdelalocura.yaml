@@ -1,0 +1,15 @@
+name: Las montañas de la locura
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Este turno no se pueden realizar más acciones que muevan personajes a o desde el campo de batalla.
+passive_effect:
+quote: Algunos lugares en el mundo fueron escondidos por una mezcla de celo y misericordia.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

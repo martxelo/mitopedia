@@ -1,0 +1,15 @@
+name: Mi-Go
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Da +1F a este personaje por cada recurso en el panteón de tu oponente de este enfrentamiento (Máximo 3).
+passive_effect:
+quote: Parecían una mezcla de crustáceo y hongo, ¿pero acaso algo de esto tiene el menor sentido?
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

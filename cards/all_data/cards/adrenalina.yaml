@@ -1,6 +1,6 @@
-name: Expulsión
+name: Adrenalina
 card_type: Acción
-cost: 1
+cost: 0
 eras:
   - I
 strength:
@@ -9,7 +9,7 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Enfrentamiento: Mueve a un personaje enemigo a su panteón.
+  - Enfrentamiento: Da +2F a tu personaje enfrentado.
 passive_effect:
-quote: Cuando el enemigo es superior, retirarse o morir.
+quote: Incrementa la frecuencia cardíaca, contrae los vasos sanguíneos.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

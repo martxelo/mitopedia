@@ -1,0 +1,15 @@
+name: El sabueso
+card_type: Acción
+cost: 1
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Da +1F a tu personaje por cada evento en el descarte de un contrario (máximo 3).
+passive_effect:
+quote: Pobre infeliz que con tus dedos descarnados intentas cerrar puertas que no tienen bisagras.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

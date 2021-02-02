@@ -1,6 +1,6 @@
-name: Expulsión
+name: Gnonom
 card_type: Acción
-cost: 1
+cost: 0
 eras:
   - I
 strength:
@@ -9,7 +9,7 @@ init_pow:
 mythology:
 tags:
 abilities:
-  - Enfrentamiento: Mueve a un personaje enemigo a su panteón.
+  - Enfrentamiento: Agota y destruye tu mortal; gana un bono de fuerza en tu personaje igual al poder eliminado.
 passive_effect:
-quote: Cuando el enemigo es superior, retirarse o morir.
+quote: Recolectaban y consumían peyote de forma ritual.
 image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

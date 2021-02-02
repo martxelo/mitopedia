@@ -1,0 +1,15 @@
+name: 5 Doncellas
+card_type: Acción
+cost: 0
+eras:
+  - I
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Elimina 1P de un personaje enemigo.
+passive_effect:
+quote: En la casa del maíz se encontraban 5 bellas doncellas, la blanca, la azul, la amarilla, la roja y la de la muerte.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
