@@ -1,0 +1,15 @@
+name: Haiwatha y Deganawidah
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Da +1F a tu personaje por cada mitología distinta que tu personaje tenga en juego.
+passive_effect:
+quote: El Gran Pacificador, dos corrientes que fluyen juntas.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

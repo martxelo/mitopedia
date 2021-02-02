@@ -1,0 +1,15 @@
+name: Sacrificio Tlatacolli
+card_type: Acción
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Destruye tu mortal; gana la mitad de P de su coste en tu oráculo.
+passive_effect:
+quote: Sin acrificio Tlahtacolli llegaría... el estado del caos en todo el suelo firme llegaría, el mundo arrasaría.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

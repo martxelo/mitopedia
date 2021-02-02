@@ -1,0 +1,15 @@
+name: Danza de los espíritus
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Cansa todos los personajes en el panteón contrario.
+passive_effect:
+quote: Y estos bailaron, tomaron forma y su forma le condujo a su destino.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

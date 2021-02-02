@@ -1,0 +1,15 @@
+name: Traición Olímpica
+card_type: Acción
+cost: 2
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Gana 1P en todos tus personajes creados.
+passive_effect:
+quote: Tres hermanos y solo uno traicionó al Padre del Olimpo y no fue el que esperaba.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

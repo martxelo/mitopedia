@@ -1,0 +1,15 @@
+name: Dama del lago
+card_type: Acción
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Crea un arma de +1F/+0PM/OC y equípasela a un personaje de tu Mitología.
+passive_effect:
+quote: La dama se acercó y el Rey la pidió la espada.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

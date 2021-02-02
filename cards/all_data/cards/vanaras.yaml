@@ -1,0 +1,15 @@
+name: Vánaras
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Da +2F a tu personaje no enfrentado.
+passive_effect:
+quote: Divertidos, infantiles, fastidiosos, irritables, aventureros, valientes... con una larga cola de mono.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

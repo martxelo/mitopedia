@@ -1,0 +1,15 @@
+name: La gran reunión
+card_type: Acción
+cost: 2
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Cambia la resolución de este enfrentamiento por la del libro de reglas.
+passive_effect:
+quote: ¡Basta de suposiciones! Iremos a Japón y veremos quien acude.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

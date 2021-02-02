@@ -1,0 +1,15 @@
+name: Visiones del chamán
+card_type: Acción
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Elige una carta en juego; no se prepara durante la próxima REORGANIZACIÓN.
+passive_effect:
+quote: Canturreo y las visiones tomaron forma de serpiente.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,15 @@
+name: Debilidad corporal
+card_type: Acción
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Da -1F a un personaje por cada contador voodoo que tenga equipado.
+passive_effect:
+quote: Taras, enfermedades, locura transitoria...
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,15 @@
+name: Viaje de Brandan
+card_type: Acción
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Juega inmediatamente dos acciones consecutivas.
+passive_effect:
+quote: Tras volver a la mar tuvieron que afrontar la prueba más difícil, el paso del infierno.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

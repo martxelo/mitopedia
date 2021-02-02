@@ -1,0 +1,15 @@
+name: Ibar Aibar
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Destruye una invocación en el campo de batalla o en un panteón.
+passive_effect:
+quote: Deja que te muestre el camino.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

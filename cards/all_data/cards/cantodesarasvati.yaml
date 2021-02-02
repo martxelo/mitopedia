@@ -1,0 +1,15 @@
+name: Canto de Sarasvati
+card_type: Acción
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Cada jugador mueve uno de sus personajes al panteón.
+passive_effect:
+quote: El conocimiento es el camino hacia la liberación.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

@@ -1,0 +1,15 @@
+name: Decisión de Conchobar
+card_type: Acción
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Da 1P a todos tus personajes en tu panteón.
+passive_effect:
+quote: Haced que salgan las mujeres al encuentro del pequeño.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

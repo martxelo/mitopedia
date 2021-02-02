@@ -1,0 +1,15 @@
+name: Pinturas de guerra
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Cansa tu mortal; cansa un mortal enemigo.
+passive_effect:
+quote: Era una tribu feroz y extremadamente bélica. Nadie que quiera invitarte a una copa se pinta la cara de esa manera.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

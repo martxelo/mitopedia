@@ -1,0 +1,15 @@
+name: Umu
+card_type: Acción
+cost: 2
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Cansa todos los equipos en el campo de batalla.
+passive_effect:
+quote: Demonio de las tempestades.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

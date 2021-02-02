@@ -1,0 +1,15 @@
+name: Sanación de credne
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Equipa un arma en tu personaje desde tu descarte.
+passive_effect:
+quote: Cuando haya acabado casi agradecerás haber sido mutilado.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

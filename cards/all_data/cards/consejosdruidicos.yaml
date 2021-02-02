@@ -1,0 +1,15 @@
+name: Consejos druídicos
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Agota tu invocador; redistribuye el poder eliminado entre tus personajes.
+passive_effect:
+quote: El ingrediente mágico de la poción mágica es que esos se crean que es mágica. (Tradición druídica)
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

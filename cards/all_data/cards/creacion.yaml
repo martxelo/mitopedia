@@ -1,0 +1,15 @@
+name: Creación
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Crea un personaje 0F/0C/1PM con la clave Monstruo en el panteón.
+passive_effect:
+quote: ¡Está vivo, está vivooooo!
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

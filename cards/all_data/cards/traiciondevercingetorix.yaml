@@ -1,0 +1,15 @@
+name: Traición de Vercingetorix
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: El jugador con más personajes gana P igual a la diferencia de personajes con su enemigo.
+passive_effect:
+quote: Están locos estos romanos. (Obélix)
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

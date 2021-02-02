@@ -1,0 +1,15 @@
+name: Forja de Brokkr
+card_type: Acción
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Intercambia el PM por la F de una armadura.
+passive_effect:
+quote: Loki apostó sobre su cabeza a que su hermano Sindre no sería capaz de hacer otros tres tesoros.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

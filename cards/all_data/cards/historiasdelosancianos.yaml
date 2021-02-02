@@ -1,0 +1,15 @@
+name: Historias de los ancianos
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Cansa dos personajes enemigos que pertenezcan a mitologías diferentes.
+passive_effect:
+quote: Siéntate, escucha, aprende.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

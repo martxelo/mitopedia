@@ -1,0 +1,15 @@
+name: Pergamino de los Titanes
+card_type: Acción
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Aumenta o reduce en 2 el diferencial de batalla.
+passive_effect:
+quote: Es un pergamino. Un pergamino sobre los Titanes -aclaró ella con voz ronca, sus ojos todavía rojos clavados en Eros-. Alguien los quiere de vuelta y ahora sabe cómo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

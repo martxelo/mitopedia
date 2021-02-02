@@ -1,0 +1,15 @@
+name: Kusanagi no tsurugi
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Mueve tu personaje a tu panteón; destruye un equipo enemigo.
+passive_effect:
+quote: La espada de la serpiente.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

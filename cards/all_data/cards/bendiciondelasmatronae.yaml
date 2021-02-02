@@ -1,0 +1,15 @@
+name: Bendición de las matronae
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Elimina 1 P de tu mortal; gana 2P en tu dios.
+passive_effect:
+quote: Había algo místico en su presencia, en sus palabras, algo que te hacía enfrentarte al destino con el corazón henchido.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

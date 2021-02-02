@@ -1,0 +1,15 @@
+name: Maldición de Ossian
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Elige un personaje con PM0 que no cuenta su fuerza en esta resolución.
+passive_effect:
+quote: ¿Vendrás conmigo, Ossian, de la tierra de mi padre? Allí iré, y hasta el fin del mundo. (Ossian y Niam)
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

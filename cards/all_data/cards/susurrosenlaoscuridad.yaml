@@ -1,0 +1,15 @@
+name: Susurros en la oscuridad
+card_type: Acción
+cost: 2
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Crea una copia exacta de un mortal enemigo en el campo de batalla en tu ejército, destrúyelo al final del turno.
+passive_effect:
+quote: Los diabólicos susurros diferían en timbre, acento e intensidad pero ambas se caracterizaban por el mismo tono estremecedor.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

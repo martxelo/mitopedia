@@ -1,0 +1,15 @@
+name: Pazuzu y Lamashtu
+card_type: Acción
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Mueve tu personaje al panteón; cansa un personaje enemigo.
+passive_effect:
+quote: Padres de los demonios, portadores de la peste, las plagas y el delirio.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

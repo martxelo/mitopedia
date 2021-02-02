@@ -1,0 +1,15 @@
+name: Ard-Rï
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Cada jugador gana 2P en un personaje enfrentado.
+passive_effect:
+quote: Si crees que son solo piedras, entonces es que no has entendido absolutamente nada.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

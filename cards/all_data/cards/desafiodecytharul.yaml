@@ -1,0 +1,15 @@
+name: Desafío de Cytharul
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Gana P igual a tus mortales descartados (máximo 3).
+passive_effect:
+quote: A lo largo de los tiempos se le ha llamado con muchos nombres, pero todos significaban lo mismo, miedo.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

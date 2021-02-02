@@ -1,0 +1,15 @@
+name: Risa de los bosques
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Usa la habilidad de un personaje en tu panteón como si estuviera en el campo de batalla.
+passive_effect:
+quote: ¿Oyes eso? ¿No? Entonces yo tampoco lo he oído.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

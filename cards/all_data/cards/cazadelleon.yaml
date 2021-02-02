@@ -1,0 +1,15 @@
+name: Caza del león
+card_type: Acción
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Destruye un personaje con PM0 en un panteón.
+passive_effect:
+quote: Práctica favorita del rey Asurbaniopal, cazar al cazador para tomar el poder feral de la bestia.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

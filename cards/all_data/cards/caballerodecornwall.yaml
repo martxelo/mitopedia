@@ -1,0 +1,15 @@
+name: Caballero de Cornwall
+card_type: Acción
+cost: 0
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Cansa tu personaje en tu panteón; elige un recurso enemigo el cual no se preparará en la próxima fase de reorganización.
+passive_effect:
+quote: Pero tú sí eres un caballero. ¿Cuál es tu nombre? Tristán, mi señora.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

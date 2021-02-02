@@ -1,0 +1,15 @@
+name: Sonrisa de Kalfu
+card_type: Acción
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Da +1F a tu personaje por cada personaje en juego con al menos 1 contador voodoo.
+passive_effect:
+quote: Es la fuerza incontrolable de la mala suerte.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png

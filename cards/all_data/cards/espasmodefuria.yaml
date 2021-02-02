@@ -1,0 +1,15 @@
+name: Espasmo de furia
+card_type: Acción
+cost: 1
+eras:
+  - II
+strength:
+max_pow:
+init_pow:
+mythology:
+tags:
+abilities:
+  - Enfrentamiento: Da +3F a tu personaje cansado.
+passive_effect:
+quote: Levántate -gritó la voz- Yo te diré cuándo puedas descansar y morir.
+image: https://i1.wp.com/www.guerrademitos.com/sites/default/files/noticias/chtulhu.png
